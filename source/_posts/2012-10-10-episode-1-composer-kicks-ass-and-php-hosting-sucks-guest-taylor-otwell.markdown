@@ -6,10 +6,16 @@ comments: true
 categories: 
 ---
 
-In the first episode of the PHP Town Hall podcast, Phil Sturgeon and Ben Edmunds rant about how awesome Composer is; chat with Taylor Otwell about the upcoming Laravel 4 release; and whine about how horrible PHP PAAS hosting is.
+In the first episode of the PHP Town Hall podcast, Phil Sturgeon and Ben Edmunds rant about how awesome Composer is; chat with Taylor Otwell about the upcoming Laravel 4 release; and whine about how horrible PHP PAAS hosting is.  
+  
 
-<audio controls>
-   <source src="http://s3.amazonaws.com/phptownhall/Episode+1+-+Composer+kicks+ass%2C+Laravel+4+is+coming%2C+and+PHP+Hosting+sucks+-+guest+Taylor+Otwell.mp3" />
-   <source src="http://s3.amazonaws.com/phptownhall/Episode+1+-+Composer+kicks+ass%2C+Laravel+4+is+coming%2C+and+PHP+Hosting+sucks+-+guest+Taylor+Otwell.ogg" />
-</audio>
-<a href="http://s3.amazonaws.com/phptownhall/Episode+1+-+Composer+kicks+ass%2C+Laravel+4+is+coming%2C+and+PHP+Hosting+sucks+-+guest+Taylor+Otwell.mp3" target="_blank">Download</a>
+<div>
+	<audio controls>
+	   <source src="http://s3.amazonaws.com/phptownhall/Episode+1+-+Composer+kicks+ass%2C+Laravel+4+is+coming%2C+and+PHP+Hosting+sucks+-+guest+Taylor+Otwell.mp3" />
+	   <source src="http://s3.amazonaws.com/phptownhall/Episode+1+-+Composer+kicks+ass%2C+Laravel+4+is+coming%2C+and+PHP+Hosting+sucks+-+guest+Taylor+Otwell.ogg" />
+	</audio>
+</div>
+
+<div>
+	<a href="http://s3.amazonaws.com/phptownhall/Episode+1+-+Composer+kicks+ass%2C+Laravel+4+is+coming%2C+and+PHP+Hosting+sucks+-+guest+Taylor+Otwell.mp3" target="_blank">Download</a>
+</div>
