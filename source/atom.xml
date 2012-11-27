@@ -21,6 +21,7 @@ layout: nil
     <link href="{{ site.url }}{{ post.url }}"/>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <id>{{ site.url }}{{ post.id }}</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/{{ post.filename }}.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
   {% endfor %}
