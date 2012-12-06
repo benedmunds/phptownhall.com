@@ -4,7 +4,7 @@ title: "Episode 2 - A Node hipster, beardy Python fan, PHP contributor and a Bri
 date: 2012-11-30 21:02
 comments: true
 categories: 
-filename: Episode+2+-+A+NodeJS+rockstar%2C+a+bearded+Python+developer%2C+a+core+PHP+contributor+and+a+Bristolian+walk+into+a+bar…
+filename: 2
 ---
 
 We're back for an "IRL" episode, with [Zack Kitzmiller][zack], [John Crepezzi][john] and [Anthony Ferrera][anthony], discussing PHP 5.5 and the new features it will bring.
