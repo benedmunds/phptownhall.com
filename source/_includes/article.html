@@ -23,6 +23,7 @@
     {% endunless %}
   </header>
 {% endunless %}
+{% assign post = page %}
 {% if index %}
   <div class="entry-content">{{ content | excerpt }} {% include audio.html %}</div>
   {% capture excerpted %}{{ content | has_excerpt }}{% endcapture %}
