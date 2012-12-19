@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>
+            http://philsturgeon.github.com/phptownhall/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/
+        </loc>
+        <lastmod>2012-12-19T10:57:22-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://philsturgeon.github.com/phptownhall/blog/2012/11/30/episode-2-php-5.5/</loc>
+        <lastmod>2012-12-19T10:57:22-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://philsturgeon.github.com/phptownhall/blog/archives/</loc>
+        <lastmod>2012-12-19T10:57:22-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://philsturgeon.github.com/phptownhall/</loc>
+        <lastmod>2012-12-19T10:57:22-05:00</lastmod>
+    </url>
+</urlset>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[PHP Town Hall]]></title>
+  <link href="http://philsturgeon.github.com/phptownhall/atom.xml" rel="self"/>
+  <link href="http://philsturgeon.github.com/phptownhall/"/>
+  <updated>2012-12-19T11:01:09-05:00</updated>
+  <id>http://philsturgeon.github.com/phptownhall/</id>
+  <author>
+    <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 2 - A Node hipster, beardy Python fan, PHP contributor and a Bristolian talk about PHP 5.5]]></title>
+    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/11/30/episode-2-php-5.5/"/>
+    <updated>2012-11-30T21:02:00-05:00</updated>
+    <id>http://philsturgeon.github.com/phptownhall/blog/2012/11/30/episode-2-php-5.5</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/2.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>We&#8217;re back for an &#8220;IRL&#8221; episode, with <a href="https://twitter.com/zackkitzmiller">Zack Kitzmiller</a>, <a href="https://twitter.com/seejohncode">John Crepezzi</a> and <a href="https://twitter.com/ircmaxell">Anthony Ferrera</a>, discussing PHP 5.5 and the new features it will bring.</p>
+
+<p><em>Note: The sound quality in this one is just awful, so sorry about that. This is the first time I have tried recording a podcast in a group like this, The quality will be considerably better next time around. If you want to skip this one then fair enough, but please come back for the third episode. Phil</em></p>
+
+<ul>
+<li><a href="http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/">PHP: Innocent Villagefolk or a Pillagin’ Pirate?</a></li>
+<li><a href="http://nikic.github.com/2012/07/10/What-PHP-5-5-might-look-like.html">What PHP 5.5 might look like</a></li>
+<li><a href="https://github.com/ircmaxell/ErrorExceptions">ErrorExceptions</a></li>
+<li><a href="https://github.com/ircmaxell/password_compat">Password API for 5.3</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 1 - Composer kicks ass, Laravel 4 is coming, and PHP Hosting sucks - guest Taylor Otwell]]></title>
+    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/"/>
+    <updated>2012-10-10T17:10:00-04:00</updated>
+    <id>http://philsturgeon.github.com/phptownhall/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/1.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>In the first episode of the PHP Town Hall podcast, Phil Sturgeon and Ben Edmunds rant about how awesome Composer is; chat with Taylor Otwell about the upcoming Laravel 4 release; and whine about how horrible PHP PAAS hosting is.</p>
+]]></content>
+  </entry>
+  
+</feed>
