@@ -46,7 +46,6 @@ $header-padding-bottom: 0.7em !default;
 body {
   -webkit-text-size-adjust: none;
   max-width: $max-width;
-  position: relative;
   margin: 0 auto;
   > header, > nav, > footer, #content > article, #content > div > article, #content > div > section {
     @extend .group;
