@@ -13,8 +13,10 @@ new [EE StackExchange site][stack]. We talk about Inversion of Control (IoC), wh
 We also talk a little bit about how PHP has been (and is continuing) to move towards a post-framework world thanks to independant framework-agnostic components - and of course we talk with Chris about unit-testing.
 
 * [ExpressionEngine StackExchange][stack]
+* [/dev/hell Postcast](http://devhell.info/)
 * [The Grumpy Programmer's Guide To Building Testable PHP Applications](https://leanpub.com/grumpy-testing)
 * [Laravel 4 - IoC Controller Injection & Unit Testing](http://vimeo.com/53029232)
+* [So You Want To Write Tests](http://www.littlehart.net/atthekeyboard/2012/12/17/so-you-want-to-write-tests/)
 
   [phil]: https://twitter.com/philsturgeon
   [ben]: https://twitter.com/benedmunds

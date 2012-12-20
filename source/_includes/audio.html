@@ -1,10 +1,10 @@
 <div>
 	<audio controls>
-	   <source src="http://s3.amazonaws.com/phptownhall/{{ page.filename }}.mp3" />
-	   <source src="http://s3.amazonaws.com/phptownhall/{{ page.filename }}.ogg" />
+	   <source src="http://s3.amazonaws.com/phptownhall/{% if post %}{{ post.filename }}{% else %}{{ page.filename }}{% endif %}.mp3" />
+	   <source src="http://s3.amazonaws.com/phptownhall/{% if post %}{{ post.filename }}{% else %}{{ page.filename }}{% endif %}.ogg" />
 	</audio>
 </div>
 
 <div>
-	<a href="http://s3.amazonaws.com/phptownhall/{{ page.filename }}.mp3" target="_blank">Download</a>
+	<a href="http://s3.amazonaws.com/phptownhall/{% if post %}{{ post.filename }}{% else %}{{ page.filename }}{% endif %}.mp3" target="_blank">Download</a>
 </div>
