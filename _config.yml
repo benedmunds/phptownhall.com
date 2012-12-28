@@ -7,7 +7,7 @@ title: PHP Town Hall
 subtitle: A simple podcast where Phil, Ben and an super-star guest answer questions and talk about current events in the PHP world.
 author: Phil Sturgeon &amp; Ben Edmunds
 simple_search: http://google.com/search
-description:
+description: Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,10 +16,10 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /itunes.rss
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: email@philsturgeon.co.uk
 
 # ----------------------- #
 #    Jekyll & Plugins     #

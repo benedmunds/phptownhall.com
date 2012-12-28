@@ -1,0 +1,43 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+  <title><![CDATA[{{ site.title }}]]></title>
+  <link>{{ site.url }}</link>
+  <language>en-us</language>
+  <copyright><![CDATA[{{ site.author | strip_html }}]]></copyright>
+  <itunes:author><![CDATA[{{ site.author | strip_html }}]]></itunes:author>
+
+  <itunes:subtitle><![CDATA[{{ site.subtitle }}]]></itunes:subtitle>
+  <description><![CDATA[{{ site.description }}]]></description>
+
+  <itunes:owner>
+    <itunes:name>Phil Sturgeon</itunes:name>
+    <itunes:email>email@philsturgeon.co.uk</itunes:email>
+  </itunes:owner>
+
+  <itunes:image href="https://s3.amazonaws.com/phptownhall/logo.png" />
+  <itunes:category text="Technology">
+    <itunes:category text="Programming"/>
+  </itunes:category>
+
+  <itunes:category text="Web Development"/>
+
+  {% for post in site.posts limit: 20 %}
+  <item>
+    <title><![CDATA[{{ post.title | cdata_escape }}]]></title>
+    <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
+    <link>{{ site.url }}{{ post.url }}</link>
+    <guid>{{ site.url }}{{ post.url }}</guid>
+    <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+    <itunes:author><![CDATA[{{ site.author | strip_html }}]]></itunes:author>
+    <itunes:summary><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
+    <enclosure url="http://s3.amazonaws.com/phptownhall/{{ post.filename }}.mp3" type="audio/mp3" />
+  </item>
+  {% endfor %}
+
+</channel>
+
+</rss>
