@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 1 - Composer kicks ass, Laravel 4 is coming, and PHP Hosting sucks - guest Taylor Otwell"
+title: "Episode 1: Composer kicks ass, Laravel 4 is coming, and PHP Hosting sucks - guest Taylor Otwell"
 date: 2012-10-10 17:10
 comments: true
 categories: 
