@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 7: Web Sockets Are Fast"
-date: 2013-06-18 13:12
+date: 2013-05-18 13:12
 comments: true
 categories: 
 filename: 7
