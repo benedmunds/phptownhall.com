@@ -5,6 +5,8 @@ date: 2013-05-18 13:12
 comments: true
 categories: 
 filename: 7
+bytes: 42986005
+duration: "44:46"
 ---
 
 [Chris Boden](https://twitter.com/boden_c) joins us to talk about a [Ratchet](http://socketo.me/) and [React](http://reactphp.org/). The conversation is basically Ben and Phil asking a bunch of questions about how Ratchet works, pretending we know what is going on while Chris uses lots of words like "concurrency" and "non-blocking".

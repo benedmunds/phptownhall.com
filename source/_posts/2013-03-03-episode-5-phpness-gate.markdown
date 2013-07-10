@@ -5,6 +5,8 @@ date: 2013-03-03 15:20
 comments: true
 categories: 
 filename: 5
+bytes: 76370084
+duration: "1:19:33"
 ---
 
 <p>This was a tricky episode where we talk about some big genuine issues that affect PHP developers around the world, and we talked a lot about a t-shirt.</p>

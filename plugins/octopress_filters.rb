@@ -130,6 +130,10 @@ module OctopressLiquidFilters
     input.titlecase
   end
 
+  def date_to_rss(input)
+    input.rfc2822
+  end
+
 end
 Liquid::Template.register_filter OctopressLiquidFilters
 

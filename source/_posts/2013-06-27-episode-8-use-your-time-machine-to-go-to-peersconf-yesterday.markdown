@@ -5,6 +5,8 @@ date: 2013-06-27 14:12
 comments: true
 categories: 
 filename: 8
+bytes: 45105476
+duration: "46:59"
 ---
 
 In this episode Ben and Phil talk to the super-talented conference organiser [Jessica D'Amico][jess], joined 

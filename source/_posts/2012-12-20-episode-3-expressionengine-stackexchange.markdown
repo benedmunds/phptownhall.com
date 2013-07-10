@@ -5,6 +5,8 @@ date: 2012-12-20 10:47
 comments: true
 categories: 
 filename: 3
+bytes: 52409154
+duration: "54:35"
 ---
 
 ExpressionEngine Pro [Anna Brown][anna] and Testing Hero [Chris Hartjes][chris] join [Ben Edmunds][ben] and [Phil Sturgeon][phil] to discuss the recent rumblings in the ExpressionEngine community and the 

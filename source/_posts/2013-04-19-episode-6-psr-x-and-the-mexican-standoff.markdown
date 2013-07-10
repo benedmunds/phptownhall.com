@@ -5,6 +5,8 @@ date: 2013-04-19 10:02
 comments: true
 categories: 
 filename: 6
+bytes: 72042107
+duration: "1:15:02"
 ---
 
 PHP-FIG member Paul M. Jones and PHP contributor Anthony Ferrera come on the podcast with Ben, Phil and regular guest Zack Kitzmiller to discuss the new Package Orientated Autoloader Proposal (a.k.a PSR-X), and whether or not PSR's should ever be amended.

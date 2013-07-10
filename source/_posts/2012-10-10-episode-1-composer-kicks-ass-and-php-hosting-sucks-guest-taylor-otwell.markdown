@@ -5,6 +5,8 @@ date: 2012-10-10 17:10
 comments: true
 categories: 
 filename: 1
+bytes: 45881050
+duration: "47:47"
 ---
 
 In the first episode of the PHP Town Hall podcast, Phil Sturgeon and Ben Edmunds rant about how awesome Composer is; chat with Taylor Otwell about the upcoming Laravel 4 release; and whine about how horrible PHP PAAS hosting is.

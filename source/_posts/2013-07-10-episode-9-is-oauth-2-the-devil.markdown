@@ -5,6 +5,8 @@ date: 2013-07-10 11:34
 comments: true
 categories: 
 filename: 9
+bytes: 52465737
+duration: "54:39"
 ---
 
 [Alex Bilbie][alex] and [Zackary Blank][zach] come on the show to talk about OAuth 2, which has been getting a lot of 
