@@ -16,7 +16,7 @@ when considering it as a replacement for the PHP's defacto-standard relational D
 We ask "Why are so few of the "cool kids" using Postgresql?" and "What are the most important differences between MySQL & Postgres?", and after a bunch of useful discussion on things like true full text search, 
 complex indexes, PostGIS and Foreign Data Wrappers we end up discussing cider and chickens. Standard.
 
-* [Planet Postgres](planet.postgres.com)
+* [Planet Postgres](http://planet.postgresql.org)
 * [Taps](https://github.com/ricardochimal/taps) - Simple database import/export app
 * [Multicorn][multicorn] - Unified data access library
 * [SQL Alchemy](http://www.sqlalchemy.org/)
