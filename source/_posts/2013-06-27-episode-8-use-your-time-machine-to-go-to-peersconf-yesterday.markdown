@@ -10,7 +10,7 @@ duration: "46:59"
 ---
 
 In this episode Ben and Phil talk to the super-talented conference organiser [Jessica D'Amico][jess], joined 
-by avoid conference goer and PHP rockstar Matt Frost. We all gab a bunch about conferences in general, 
+by avid conference goer and PHP rockstar Matt Frost. We all gab a bunch about conferences in general, 
 specifically LaraCon, PeersConf and php|tek.
 
 We fucked up and didn't get this episode out soon enough to actually get her any sales for her 
