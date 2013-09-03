@@ -13,8 +13,9 @@ spin when you jump out of a plane.
 
 We also talk about code.
 
-* [Charles](http://www.charlesproxy.com/) - An HTTP proxy
+* [Charles](http://www.charlesproxy.com/) - A HTTP proxy
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - REST Client
 * [The PHP League of Extraordinary Packages](http://www.thephpleague.com/)
 * [PHP RFC: Constant Scalar Expressions](https://wiki.php.net/rfc/const_scalar_expressions)
+* [GothamJS](http://gothamjs.com/) - The New York JavaScript Conference
 * [SkiPHP](https://www.skiphp.com/index.php)
