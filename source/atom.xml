@@ -15,6 +15,8 @@ layout: nil
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  <itunes:new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</itunes:new-feed-url>
+
   {% for post in site.posts limit: 20 %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>

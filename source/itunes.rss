@@ -9,8 +9,6 @@ layout: nil
     <language>en-us</language>
     <copyright><![CDATA[{{ site.author | strip_html }}]]></copyright>
 
-    <itunes:new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</itunes:new-feed-url>
-
     <itunes:author><![CDATA[{{ site.author | strip_html }}]]></itunes:author>
     <itunes:subtitle><![CDATA[{{ site.subtitle }}]]></itunes:subtitle>
     <description><![CDATA[{{ site.description }}]]></description>
@@ -25,6 +23,8 @@ layout: nil
     <itunes:category text="Technology">
       <itunes:category text="Tech News"/>
     </itunes:category>
+
+    <itunes:new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</itunes:new-feed-url>
 
     {% for post in site.posts %}
     <item>
