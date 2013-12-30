@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Episode 14 - Ship Like a Candia, Eh?"
-date: 2013-10-24 09:04
+title: "Episode 14 - Ship Like a Candian, Eh?"
+date: 2013-10-24 09:30
 comments: true
 filename: 14
 bytes: 62497595
@@ -24,3 +24,5 @@ from a very early point.
 * [Hardly Working Start-up Guys](http://www.collegehumor.com/video/6507690/hardly-working-start-up-guys)
 * [Offload.io](https://offload.io/) - Offload the work you just don't have time for onto friends.
 * [Ghostery](https://www.ghostery.com/) - See which companies are tracking you, and block them.
+* [evANIMAL](http://cargocollective.com/evanimal)
+* [True North PHP Conference](http://truenorthphp.com/) - Toronto, Canada on November 7 - 9, 2013
