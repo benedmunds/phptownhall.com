@@ -4,8 +4,8 @@ title: "Episode 17: Authors Galore, Conferences and Game Changers"
 date: 2013-12-30 13:42
 comments: true
 filename: 17
-bytes: 74497621
-duration: "01:17:36"
+bytes: 60249393
+duration: "01:02:45"
 ---
 
 Cal Evans talks with us about some of the great projects he is (and has) been involved with, including training days, writing books, speaking, organising conferences and a bunch more.
