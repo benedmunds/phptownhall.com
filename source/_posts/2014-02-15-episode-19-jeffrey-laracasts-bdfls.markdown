@@ -8,9 +8,9 @@ bytes: 57033615
 duration: "00:59:25"
 ---
 
-Well known PHP/Laravel nice-guy [Jeffrey Way] from [NetTuts] and [Laracasts] joins regular guest [Zack Kitzmiller] to discuss the wonderful world of 
-Laravel once again. This time tje discussion focuses on some of the silly complaints people have with an otherwise wonderful system, 
-and on the reusability of its packages.
+Well known PHP/Laravel nice-guy [Jeffrey Way] from [NetTuts] and [Laracasts] joins regular guest [Zack Kitzmiller] to
+discuss the wonderful world of Laravel once again. This time the discussion focuses on some of the silly complaints 
+people have with an otherwise wonderful system, and on the reusability of its packages.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/L6YEgfnHOpo" frameborder="0" allowfullscreen></iframe>
 
