@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 17: Authors Galore, Conferences and Game Changers"
-date: 2013-12-30 13:42
+date: 2013-12-30 13:42:00 -0500
 comments: true
 filename: 17
 bytes: 60249393

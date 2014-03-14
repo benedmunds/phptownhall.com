@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 12: Awesome RFCs and Yolo"
-date: 2013-09-11 16:45
+date: 2013-09-11 16:45:00 -0500
 comments: true
 filename: 12
 bytes: 61761569

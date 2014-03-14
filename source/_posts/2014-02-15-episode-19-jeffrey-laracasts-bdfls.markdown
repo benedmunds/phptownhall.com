@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 19: Jeffrey Way, Laracasts and BDFLs"
-date: 2014-02-15 17:42
+date: 2014-02-15 17:42:00 -0500
 comments: true
 filename: 19
 bytes: 57033615

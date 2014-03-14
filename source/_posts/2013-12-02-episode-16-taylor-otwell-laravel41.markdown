@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 16: Laravel 4.1, Go and the Vagrant Fistfight"
-date: 2013-12-02 21:45
+date: 2013-12-02 21:45:00 -0500
 comments: true
 filename: 16
 bytes: 74497621

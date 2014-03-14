@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 14 - Ship Like a Candian, Eh?"
-date: 2013-10-24 09:30
+date: 2013-10-24 09:30:00 -0500
 comments: true
 filename: 14
 bytes: 62497595
