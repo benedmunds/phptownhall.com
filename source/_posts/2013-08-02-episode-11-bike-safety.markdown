@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 11: Bike Safety"
-date: 2013-09-03 08:45
+date: 2013-09-03 08:45:00 -0500
 comments: true
 filename: 11
 bytes: 72783989

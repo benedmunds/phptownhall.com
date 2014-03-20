@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Episode 15: Joomla, PHP-FIG again and PSR-4"
-date: 2013-11-13 22:36
+title: "Episode 15: The Joomla Framework and the ongoing history of PSR-4"
+date: 2013-11-13 22:36:00 -0500
 comments: true
 filename: 15
 bytes: 69345439
