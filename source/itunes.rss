@@ -36,7 +36,7 @@ layout: nil
       <itunes:author><![CDATA[{{ site.author | strip_html }}]]></itunes:author>
       <itunes:summary><![CDATA[{{ post.summary }}]]></itunes:summary>
       <itunes:duration>{{ post.duration }}</itunes:duration>
-      <enclosure url="http://s3.amazonaws.com/phptownhall/{{ post.filename }}.mp3" type="audio/mp3" length="{{ post.bytes }}" />
+      <enclosure url="http://download.phptownhall.com/{{ post.filename }}.mp3" type="audio/mp3" length="{{ post.bytes }}" />
     </item>
     {% endfor %}
 
