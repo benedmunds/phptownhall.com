@@ -16,7 +16,6 @@ Go buy Steve's book [Scaling PHP](https://www.scalingphpbook.com/) if you want t
 
 <br />
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/tHF4H5-iQMg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="//www.youtube.com/embed/9MEpiUu-E48" frameborder="0" allowfullscreen></iframe>
 
 As always, you can subscribe to [the channel](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded.
----
