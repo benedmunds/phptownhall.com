@@ -8,7 +8,7 @@ bytes: 51297827
 duration: "53:26"
 ---
 
-The Front Range (Denver) PHP user-group joins the show as a live audience for the episode 26, in a new crazy bonus format which Phil thought might be fun. The idea of the episode is for people to generally pick our brain about PHP and code and tech and things. It kinda worked but the sound quality was terrible. Sorry about that folks.
+The [Front Range](http://frontrangephp.org/) PHP user-group joins the show as a live audience for the episode 26, in a new crazy bonus format which Phil thought might be fun. The idea of the episode is for people to generally pick our brain about PHP and code and tech and things. It kinda worked but the sound quality was terrible. Sorry about that folks.
 
 They ask us a bunch of questions about how we got started in PHP.
 
