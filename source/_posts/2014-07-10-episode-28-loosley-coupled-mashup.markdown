@@ -8,7 +8,7 @@ bytes: 109846386
 duration: "1:54:25"
 ---
 
-In this episode, Ben and Phil join forces with [Loosely Coupled] to talk about Open Source, burn out and briefly discuss their favorite open source projects. was out of action for a lot of it due to unexpected wifi troubles (in San Francisco of all places) so he sadly did not get to take part as much as he would have liked.
+In this episode, Ben and Phil join forces with [Loosely Coupled] to talk about Open Source, burn out and briefly discuss their favorite open source projects. Jeff was out of action for a lot of it due to unexpected wifi troubles (in San Francisco of all places) so he sadly did not get to take part as much as he would have liked.
 
 Questions this time around:
 
