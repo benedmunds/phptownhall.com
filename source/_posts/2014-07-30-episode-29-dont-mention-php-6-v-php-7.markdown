@@ -11,7 +11,7 @@ duration: "1:19:35"
 This week Ben and Phil are joined by long distance target shooter [Paul M. Jones] and the handsome man that is [Daniel Lowrey], to talk about a whole bunch of PHP relating things.
 
 Paul has recently been talking a lot about "Action Domain Responder" which is billed as a more representative 
-representation of the often mis-used "Model View Controller" architecture. Luckily he does a good job of ELI5 so we don't get too lost, and we talk a bit about how [ADR helps with putting content negotiation in a logical place].
+replacement of the often mis-used "Model View Controller" architecture. Luckily he does a good job of ELI5 so we don't get too lost, and we talk a bit about how [ADR helps with putting content negotiation in a logical place].
 
 Daniel then goes on to talk about a few awesome topics, including some of the [OpenSSL changes in 5.6], and a HTTP server he is working on built entirely from PHP. It's async, non-blocking _and_ web-scale. 
 
@@ -22,6 +22,8 @@ We cover [HTTP 2] and its effect on PHP, give some thoughts on [PSR-7 HTTP Messa
 
 Anyway. Here are a few extra links.
 
+* [PHP RFC: Improved TLS Defaults](https://wiki.php.net/rfc/improved-tls-defaults)
+* [PHP RFC: TLS Peer Verification](https://wiki.php.net/rfc/tls-peer-verification)
 * [Aura PHP Components][Aura]
 * [Modernize Your Legacy PHP Application]
 * [The PHP League Mailing List](https://groups.google.com/forum/#!forum/thephpleague)
