@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Specs, Implementations, and New Engines OH MY!"
+title: "Episode 30: Specs, Implementations, and New Engines OH MY!"
 date: 2014-08-25 18:18:50 -0700
 comments: true
 categories:
