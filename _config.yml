@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /itunes.rss
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: email@philsturgeon.co.uk
+email: me@philsturgeon.uk
 
 # ----------------------- #
 #    Jekyll & Plugins     #
