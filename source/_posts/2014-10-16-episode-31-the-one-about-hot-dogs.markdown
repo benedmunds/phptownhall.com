@@ -9,7 +9,7 @@ bytes: 45280469
 duration: "0:47:10"
 ---
 
-This week Ben and Phil are joined by last minute by repeat guests [Kayla Daniels] and [Matt Frost].
+This week Ben and Phil are joined last minute by repeat guests [Kayla Daniels] and [Matt Frost].
 
 We talk waaaaay too much about hotdogs, Phil's fun-employment, cocaine, and what's new in PHP-land.
 
