@@ -11,7 +11,7 @@ duration: "0:59:19"
 This episode we're joined by two two top CakePHPers [Jose Diaz-Gonzalez](https://twitter.com/savant) and 
 [Bryan Crowe](https://twitter.com/_beakman).
 
-Ben is AWOL, Phil is insanely jet-lagged and has no idea what he is talking about. Our awesome guests try their best to carry Phil through the show, where we discuss exciting new stuff happening with CakePHP, and what we think of a few current RFCs being discussed in PHP land.
+Ben is AWOL, Phil is insanely jet-lagged and has no idea what he is talking about. Our awesome guests try their best to carry Phil through the show, where we discuss [exciting](http://bakery.cakephp.org/articles/markstory/2014/11/17/cakephp_3_0_0-beta3_released) new [stuff](http://bakery.cakephp.org/articles/jameswatts/2014/12/16/cakephp_3_to_fully_adopt_psr-2) happening with [CakePHP](http://cakephp.org/), and what we think of a few current RFCs being discussed in PHP land.
 
 We also talk a bit about [Monga](https://github.com/thephpleague/monga), a [League](http://thephpleague.com) package which Bryan has now assumed the role of project lead. 
 
