@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-01-12T11:20:14-05:00</updated>
+  <updated>2015-01-12T11:29:04-05:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -30,6 +30,8 @@
 <p>The last chunk of this podcast ends with a discussion around CodeIgniter 3.0 supporting PHP 5.2 and up. Should it be higher? Is it feckless to release like this? Should this be a documentation change to warn users away or a hard change to make it not even work there? </p>
 
 <p>Also, who has the best beard? Hint: it isn’t Phil. </p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/FfVZ_Erl0DU" frameborder="0" allowfullscreen=""></iframe>
 
 <ul>
   <li><a href="https://github.com/apiaryio/api-blueprint">Api Blueprint</a></li>
