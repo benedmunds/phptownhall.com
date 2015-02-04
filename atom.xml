@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-01-12T11:29:04-05:00</updated>
+  <updated>2015-02-04T18:45:02-05:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -14,6 +14,21 @@
 
   <itunes:new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</itunes:new-feed-url>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 35: Developer to CTO and Back]]></title>
+    <link href="http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back/"/>
+    <updated>2015-01-09T11:53:47-05:00</updated>
+    <id>http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/35.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>The grass is always greener on the other side, but we have a little talk with <a href="https://twitter.com/geeh">Gary Hockin</a> and regular guest <a href="https://twitter.com/jacques_thekit">Jacques Woodcock</a> about the pros and cons of going up and down the chain of command in the developer world. After all, it doesn’t just need to be a one-way street.﻿</p>
+
+<p>We also talk about a few general bits, like whether <a href="https://wiki.php.net/rfc/php57">PHP 5.7 should have happened</a>, <a href="https://wiki.php.net/rfc/remove_php4_constructors">should we cry over spilled constructors</a> and Gary bangs on for ages about how Waterfall is better than Agile.</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/t6yekb66atE" frameborder="0" allowfullscreen=""></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 34: /dev/hell Mashup]]></title>
@@ -565,26 +580,6 @@ into letting him speak at LaraCon 2014. </p>
 <p>The Google Hangouts on Air hooked up with YouTube seem to be working out nicely so we’ll be sticking with them. Subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
 
 <p>The next will be tomorrow! December 2nd, 2013 at 8:00pm EST. </p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 15: The Joomla Framework and the ongoing history of PSR-4]]></title>
-    <link href="http://phptownhall.com/blog/2013/11/13/episode-15-joomla-fig-psr4/"/>
-    <updated>2013-11-13T22:36:00-05:00</updated>
-    <id>http://phptownhall.com/blog/2013/11/13/episode-15-joomla-fig-psr4</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/15.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>The wonderfully handsome <a href="http://twitter.com/dilbert4life">Don Gilbert</a> joins us on our new <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube Channel</a> for our first live-recording of PHP Town Hall! </p>
-
-<p>He’s been working on the <a href="https://github.com/joomla/joomla-framework">Joomla Framework</a> to get it up to scratch with modern standards ready for a <a href="http://joomla.org">Joomla CMS</a> rewrite, much in the same way that EllisLab pulled CodeIgniter out of ExpressionEngine… except for the standards bit, because they didn’t exist and PHP developers were too busy clubbing each other to death over tabs v spaces.</p>
-
-<p>We discuss how that whole situation is going, how they’ve been implementing various standards, how did they decide to build a framework instead of use an existing one, how the <a href="http://www.php-fig.org/">FIG</a> is going and why Phil fucked up the <a href="https://groups.google.com/forum/#!searchin/php-fig/acceptance$20vote/php-fig/NWfyAeF7Psk/_xk2QQuCYsIJ">PSR-4 Acceptance Vote</a> three hours before the vote finished.</p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/B62Ys-XW5h8" frameborder="0" allowfullscreen=""></iframe>
-
-<p>You might notice that video was recorded a while ago. Normally it won’t take us two weeks to get the audio out, but the video’s will always be out on the channel first. You should subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
-
-<p>The next will be done November 18th, 2013 at 9:30pm EST. </p>
 ]]></content>
   </entry>
   
