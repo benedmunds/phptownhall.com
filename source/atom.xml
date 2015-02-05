@@ -15,9 +15,10 @@ layout: nil
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  <itunes:new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</itunes:new-feed-url>
+  <new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</new-feed-url>
 
   {% for post in site.posts limit: 20 %}
+      {% if post.filename %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
     <link href="{{ site.url }}{{ post.url }}"/>
@@ -26,5 +27,6 @@ layout: nil
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/{{ post.filename }}.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
+    {% endif %}
   {% endfor %}
 </feed>

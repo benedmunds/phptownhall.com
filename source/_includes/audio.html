@@ -1,3 +1,5 @@
+{% if post.filename %}
+
 <div>
 	<audio controls>
 	   <source src="http://download.phptownhall.com/{% if post %}{{ post.filename }}{% else %}{{ page.filename }}{% endif %}.mp3" />
@@ -8,3 +10,9 @@
 <div>
 	<a href="http://download.phptownhall.com/{% if post %}{{ post.filename }}{% else %}{{ page.filename }}{% endif %}.mp3" target="_blank">Download</a>
 </div>
+
+{% else %}
+
+<p>The audo is not quite ready yet. Why don't you subscribe to our <a href="pcast://feeds.feedburner.com/phptownhall/drDl">iTunes RSS</a> or <a href="/atom.xml">Atom</a> feed to be alerted when we get it up?</p>
+
+{% endif %}
