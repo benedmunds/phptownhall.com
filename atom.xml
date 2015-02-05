@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-02-04T18:46:24-05:00</updated>
+  <updated>2015-02-05T11:32:49-05:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -12,9 +12,12 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  <itunes:new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</itunes:new-feed-url>
+  <new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</new-feed-url>
 
   
+      
+  
+      
   <entry>
     <title type="html"><![CDATA[Episode 35: Developer to CTO and Back]]></title>
     <link href="http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back/"/>
@@ -29,7 +32,9 @@
 
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 34: /dev/hell Mashup]]></title>
     <link href="http://phptownhall.com/blog/2015/01/09/episode-34-dev-hell-mashup/"/>
@@ -60,7 +65,9 @@
 </ul>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 33: CakePHP, Monga and RFCs]]></title>
     <link href="http://phptownhall.com/blog/2014/11/19/episode-33-cakes-monga-rfcs/"/>
@@ -81,7 +88,9 @@
 <p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 32: Ben and Phil Catch Up]]></title>
     <link href="http://phptownhall.com/blog/2014/11/04/episode-32-ben-and-phil-catch-up/"/>
@@ -103,7 +112,9 @@
 <p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 31: The One about Hot Dogs]]></title>
     <link href="http://phptownhall.com/blog/2014/10/16/episode-31-the-one-about-hot-dogs/"/>
@@ -131,7 +142,9 @@
 <p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 30: Specs, Implementations, and New Engines OH MY!]]></title>
     <link href="http://phptownhall.com/blog/2014/08/25/episode-30-specs-implementations-and-new-engines-oh-my/"/>
@@ -147,7 +160,9 @@
 <p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 29: Dont Mention PHP 6 v PHP 7]]></title>
     <link href="http://phptownhall.com/blog/2014/07/30/episode-29-dont-mention-php-6-v-php-7/"/>
@@ -181,7 +196,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness. </p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 28: Loosley Coupled Mashup]]></title>
     <link href="http://phptownhall.com/blog/2014/07/10/episode-28-loosley-coupled-mashup/"/>
@@ -221,7 +238,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 27: Josh Lockhart and Jeremy Mikola]]></title>
     <link href="http://phptownhall.com/blog/2014/06/29/episode-27-foo/"/>
@@ -256,7 +275,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 26: Hello Front Range!]]></title>
     <link href="http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range/"/>
@@ -280,7 +301,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 25: Girls Aren't Any Different]]></title>
     <link href="http://phptownhall.com/blog/2014/05/28/episode-25-girls-arent-any-different/"/>
@@ -319,7 +342,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 24: But is it Web Scale?]]></title>
     <link href="http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale/"/>
@@ -339,7 +364,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 23: VirtPHP - Managing your Herd of ElePHPants]]></title>
     <link href="http://phptownhall.com/blog/2014/04/10/virtphp-managing-your-herd-of-php-versions/"/>
@@ -366,7 +393,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 22: The Great Joomla! License Battle of 2014]]></title>
     <link href="http://phptownhall.com/blog/2014/03/26/episode-22-the-great-joomla-license-battle-of-2014/"/>
@@ -391,7 +420,9 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 21: Attack of the Brazilians]]></title>
     <link href="http://phptownhall.com/blog/2014/03/14/episode-21-attack-of-the-brazilians/"/>
@@ -423,7 +454,9 @@ about provisioning, comparing Chef, Puppet and Ansible.</p>
 
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 20: A nice friendly chat about Sculpin, Guzzle and PSR-7]]></title>
     <link href="http://phptownhall.com/blog/2014/03/06/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/"/>
@@ -481,7 +514,9 @@ Phil are the three FIG members who make up the working group for PSR-7 who will 
 
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 19: Jeffrey Way, Laracasts and BDFLs]]></title>
     <link href="http://phptownhall.com/blog/2014/02/15/episode-19-jeffrey-laracasts-bdfls/"/>
@@ -506,7 +541,9 @@ people have with an otherwise wonderful system, and on the reusability of its pa
 
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 18: PHPDBG, HHVM and Internals]]></title>
     <link href="http://phptownhall.com/blog/2014/01/29/episode-18-phpdbg-hhvm-internals/"/>
@@ -526,7 +563,9 @@ people have with an otherwise wonderful system, and on the reusability of its pa
 <p>As always, you can subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
 ]]></content>
   </entry>
+    
   
+      
   <entry>
     <title type="html"><![CDATA[Episode 17: Authors Galore, Conferences and Game Changers]]></title>
     <link href="http://phptownhall.com/blog/2013/12/30/episode-17-cal-evans-nomad-bat-shit/"/>
@@ -561,26 +600,6 @@ people have with an otherwise wonderful system, and on the reusability of its pa
 <p>The next will be recorded on January 9th, 2014.</p>
 ]]></content>
   </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Episode 16: Laravel 4.1, Go and the Vagrant Fistfight]]></title>
-    <link href="http://phptownhall.com/blog/2013/12/02/episode-16-taylor-otwell-laravel41/"/>
-    <updated>2013-12-02T21:45:00-05:00</updated>
-    <id>http://phptownhall.com/blog/2013/12/02/episode-16-taylor-otwell-laravel41</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/16.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>Taylor Otwell comes back on the show for a second time and regular guest Zack Kitzmiller turns up to coerce Taylor 
-into letting him speak at LaraCon 2014. </p>
-
-<p>Taylor was the first guest we ever had on PHP Town Hall talking about his plans for Laravel 4 before it was even released, so it gives us a great opportunity to look back on the year and see how things have gone. We discuss the changes to Laravel and it’s community, and discuss how various changes in the PHP ecosystem (like PHP 5.3 support becoming less of a demand) could effect Laravel 4.1.</p>
-
-<p>We also argue about Go and fight about Vagrant and Chef for a bit. </p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/ZPj48A98JDg" frameborder="0" allowfullscreen=""></iframe>
-
-<p>The Google Hangouts on Air hooked up with YouTube seem to be working out nicely so we’ll be sticking with them. Subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
-
-<p>The next will be tomorrow! December 2nd, 2013 at 8:00pm EST. </p>
-]]></content>
-  </entry>
+    
   
 </feed>
