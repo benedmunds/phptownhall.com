@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-02-10T16:48:54-05:00</updated>
+  <updated>2015-02-10T16:52:26-05:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -18,9 +18,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 36: PSR-7 and The World of Tomorrow]]></title>
-    <link href="http://phptownhall.com/blog/2015/01/09/episode-36-psr-7-the-world-of-tomorrow/"/>
-    <updated>2015-01-09T11:53:47-05:00</updated>
-    <id>http://phptownhall.com/blog/2015/01/09/episode-36-psr-7-the-world-of-tomorrow</id>
+    <link href="http://phptownhall.com/blog/2015/02/02/episode-36-psr-7-the-world-of-tomorrow/"/>
+    <updated>2015-02-02T22:00:10-05:00</updated>
+    <id>http://phptownhall.com/blog/2015/02/02/episode-36-psr-7-the-world-of-tomorrow</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/36.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>Two awesome guests join this week, from two different framework projects, both who have been very vocal about their interest in <a href="https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md">PSR-7: HTTP Message</a>. These two chaps were <a href="http://harikt.com/">Hari K T</a> and <a href="https://twitter.com/mwop">Matthew Weier O’Phinney</a>.</p>
 
