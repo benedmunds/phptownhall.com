@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Episode 36: PSR-7 and The World of Tomorrow"
-date: 2015-01-09 11:53:47 -0500
+date: 2015-02-02 22:00:10 -0500
 comments: true
-filename: 
-bytes: 
-duration: 
+filename: 36
+bytes: 50558040
+duration: "52:39"
 ---
 
 
