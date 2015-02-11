@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-02-11T15:39:22-05:00</updated>
+  <updated>2015-02-11T15:40:44-05:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -18,9 +18,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 37: Sunshine Round-Hall? Town-Table?]]></title>
-    <link href="http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-subshine/"/>
+    <link href="http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-sunshine/"/>
     <updated>2015-02-07T21:00:00-05:00</updated>
-    <id>http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-subshine</id>
+    <id>http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-sunshine</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/37.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>We all know that SunshinePHP is one of the PHP communities finest conferences. It attends an amazing group of people, wonderful speakers and Rasmus usually pops in for a drive-by-keynote. </p>
 
