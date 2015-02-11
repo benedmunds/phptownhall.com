@@ -26,6 +26,40 @@
     
       
     <item>
+      <title><![CDATA[Episode 37: Sunshine Round-Hall? Town-Table?]]></title>
+      <description><![CDATA[<p>We all know that SunshinePHP is one of the PHP communities finest conferences. It attends an amazing group of people, wonderful speakers and Rasmus usually pops in for a drive-by-keynote. </p>
+
+<p>Every conference Phil or Ben attend has some vague promise of “yeah we’ll probably try and do a recording there or something,” but this SunshinePHP we actually did it, all thanks to the wonderful <a href="http://twitter.com/SammyK">Sammy K</a> off of <a href="https://www.phproundtable.com/">PHP Roundtable</a>. </p>
+
+<p>The topic this time around was that of APIs, and we were joined by an <em>all star</em> panel: </p>
+
+<ul>
+  <li><a href="https://twitter.com/saramg">Sara Golemon</a></li>
+  <li><a href="https://twitter.com/codeguy">Josh Lockart</a></li>
+  <li><a href="https://twitter.com/eryno">Eryn O’Neil</a></li>
+  <li><a href="https://twitter.com/mwop">Matthew Weier O’Phinney</a></li>
+  <li><a href="https://twitter.com/dshafik">Davey Shafik</a></li>
+  <li><a href="https://twitter.com/mikegstowe">Mike Stowe</a></li>
+</ul>
+
+<p>Watch this. It’s hilarious.</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/6XtOtFU7bY4" frameborder="0" allowfullscreen=""></iframe>
+
+<p>Shownotes are lacking, because we clearly weren’t writing anything down.</p>
+]]></description>
+      <link>http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-subshine/</link>
+      <guid>http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-subshine/</guid>
+      <pubDate>Sat, 07 Feb 2015 21:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>52:39</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/37.mp3" type="audio/mp3" length="70455823" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 36: PSR-7 and The World of Tomorrow]]></title>
       <description><![CDATA[<p>Two awesome guests join this week, from two different framework projects, both who have been very vocal about their interest in <a href="https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md">PSR-7: HTTP Message</a>. These two chaps were <a href="http://harikt.com/">Hari K T</a> and <a href="https://twitter.com/mwop">Matthew Weier O’Phinney</a>.</p>
 
