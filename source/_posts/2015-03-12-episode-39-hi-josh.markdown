@@ -8,7 +8,7 @@ bytes: 51992867
 duration: 54:09
 ---
 
-For ages Phil and Ben catch up with [Josh Lockhart](https://twitter.com/codeguy) who has been on the show a few times before.
+Phil and Ben catch up with [Josh Lockhart](https://twitter.com/codeguy) who has been on the show a few times before.
 
 Josh is involved in some great projects and interested in some new tools, which all kinda wind in together. PHP, FIG, League, etc.
 
