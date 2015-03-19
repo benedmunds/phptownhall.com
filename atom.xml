@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-03-19T00:07:32-04:00</updated>
+  <updated>2015-03-19T13:29:19-04:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -22,7 +22,7 @@
     <updated>2015-03-12T13:03:58-04:00</updated>
     <id>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/39.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>For ages Phil and Ben have wanted to get <a href="https://twitter.com/codeguy">Josh Lockhart</a> on the show, and for some reason it took until Episode 39 to happen.</p>
+    <content type="html"><![CDATA[<p>For ages Phil and Ben catch up with <a href="https://twitter.com/codeguy">Josh Lockhart</a> who has been on the show a few times before.</p>
 
 <p>Josh is involved in some great projects and interested in some new tools, which all kinda wind in together. PHP, FIG, League, etc.</p>
 
