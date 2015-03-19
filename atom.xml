@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-02-23T11:15:31-05:00</updated>
+  <updated>2015-03-19T00:07:32-04:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -14,6 +14,31 @@
 
   <new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</new-feed-url>
 
+  
+      
+  <entry>
+    <title type="html"><![CDATA[Episode 39: Hi Josh!]]></title>
+    <link href="http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh/"/>
+    <updated>2015-03-12T13:03:58-04:00</updated>
+    <id>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/39.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>For ages Phil and Ben have wanted to get <a href="https://twitter.com/codeguy">Josh Lockhart</a> on the show, and for some reason it took until Episode 39 to happen.</p>
+
+<p>Josh is involved in some great projects and interested in some new tools, which all kinda wind in together. PHP, FIG, League, etc.</p>
+
+<ul>
+  <li><a href="https://groups.google.com/forum/#!topic/php-fig/E3H6sUjonCk">Josh joined the FIG</a></li>
+  <li><a href="https://mwop.net/blog/2015-01-08-on-http-middleware-and-psr-7.html">PSR-7</a> which is gonna be used in Slim 3</li>
+  <li><a href="http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html">New Stuff in Slim PHP 3.0</a></li>
+  <li><a href="https://github.com/thephpleague/uploads">The new league/uploads project</a> - more info <a href="https://groups.google.com/forum/#!searchin/thephpleague/uploads/thephpleague/pW4oapw9u-U/Ivv2EqGYLe4J">on the League mailing list</a></li>
+</ul>
+
+<p>We touch on a few topics, and really this one is just a fun fluid chat with a really relaxed guest.</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/O0D6DvA4gIg" frameborder="0" allowfullscreen=""></iframe>
+]]></content>
+  </entry>
+    
   
       
   
@@ -569,33 +594,6 @@ Phil are the three FIG members who make up the working group for PSR-7 who will 
 <p>So, plenty for you folks to watch here on the YouTube video!</p>
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/neq7o8DG68k" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
-
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 19: Jeffrey Way, Laracasts and BDFLs]]></title>
-    <link href="http://phptownhall.com/blog/2014/02/15/episode-19-jeffrey-laracasts-bdfls/"/>
-    <updated>2014-02-15T17:42:00-05:00</updated>
-    <id>http://phptownhall.com/blog/2014/02/15/episode-19-jeffrey-laracasts-bdfls</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/19.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>Well known PHP/Laravel nice-guy <a href="http://twitter.com/jeffrey_way">Jeffrey Way</a> from <a href="http://nettuts.com">NetTuts</a> and <a href="https://laracasts.com/">Laracasts</a> joins regular guest <a href="http://twitter.com/zackkitzmiller">Zack Kitzmiller</a> to
-discuss the wonderful world of Laravel once again. This time the discussion focuses on some of the silly complaints 
-people have with an otherwise wonderful system, and on the reusability of its packages.</p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/L6YEgfnHOpo" frameborder="0" allowfullscreen=""></iframe>
-
-<ul>
-  <li><a href="https://laracasts.com/">Laracasts</a> - “Hi, I’m Jeffrey. What would you like to learn today?”</li>
-  <li><a href="https://leanpub.com/mlaphp">Modernizing Legacy Applications In PHP</a> - Get your PHP code under control in a series of small, specific steps</li>
-  <li><a href="http://dbad-license.org">DBAD (Dont Be a Dick) Public License</a> - Something between <a href="http://www.wtfpl.net/">WTFPL</a> and <a href="http://opensource.org/licenses/MIT">MIT</a></li>
-  <li><a href="https://github.com/illuminate/">Illuminate</a> - The components that make up the Laravel PHP framework</li>
-  <li><a href="https://github.com/laravel/envoy">Laravel: Envoy</a> - Elegant SSH tasks for PHP</li>
-</ul>
 
 <p>As always, you can subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
 

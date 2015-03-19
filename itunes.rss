@@ -25,6 +25,34 @@
 
     
       
+    <item>
+      <title><![CDATA[Episode 39: Hi Josh!]]></title>
+      <description><![CDATA[<p>For ages Phil and Ben have wanted to get <a href="https://twitter.com/codeguy">Josh Lockhart</a> on the show, and for some reason it took until Episode 39 to happen.</p>
+
+<p>Josh is involved in some great projects and interested in some new tools, which all kinda wind in together. PHP, FIG, League, etc.</p>
+
+<ul>
+  <li><a href="https://groups.google.com/forum/#!topic/php-fig/E3H6sUjonCk">Josh joined the FIG</a></li>
+  <li><a href="https://mwop.net/blog/2015-01-08-on-http-middleware-and-psr-7.html">PSR-7</a> which is gonna be used in Slim 3</li>
+  <li><a href="http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html">New Stuff in Slim PHP 3.0</a></li>
+  <li><a href="https://github.com/thephpleague/uploads">The new league/uploads project</a> - more info <a href="https://groups.google.com/forum/#!searchin/thephpleague/uploads/thephpleague/pW4oapw9u-U/Ivv2EqGYLe4J">on the League mailing list</a></li>
+</ul>
+
+<p>We touch on a few topics, and really this one is just a fun fluid chat with a really relaxed guest.</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/O0D6DvA4gIg" frameborder="0" allowfullscreen=""></iframe>
+]]></description>
+      <link>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh/</link>
+      <guid>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh/</guid>
+      <pubDate>Thu, 12 Mar 2015 13:03:58 -0400</pubDate>
+      <itunes:author><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>194940</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/39.mp3" type="audio/mp3" length="51992867" />
+    </item>
+      
+    
+      
     
       
     <item>
