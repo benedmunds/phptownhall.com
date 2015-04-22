@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-03-19T14:35:33-04:00</updated>
+  <updated>2015-04-22T14:38:08-04:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -14,6 +14,23 @@
 
   <new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</new-feed-url>
 
+  
+      
+  <entry>
+    <title type="html"><![CDATA[Episode 40: Return of the Ferrara]]></title>
+    <link href="http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints/"/>
+    <updated>2015-03-20T21:15:00-04:00</updated>
+    <id>http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/40.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>Regular guest <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> joins us “in the studio” to talk about the new version of his <a href="https://wiki.php.net/rfc/scalar_type_hints_v5">scalar type hints</a>, which since recording - a f**king month ago - has been accepted for PHP 7.</p>
+
+<p>We thought it would be good to have a bit of a chat about the feature, the nonsense that surrounded it and a bunch of other random internals and PHP 7 related blathering. </p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/JF2t0Rc0zm8" frameborder="0" allowfullscreen=""></iframe>
+
+]]></content>
+  </entry>
+    
   
       
   <entry>
@@ -534,66 +551,6 @@ about provisioning, comparing Chef, Puppet and Ansible.</p>
 </blockquote>
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/1pCgpCDzGb0" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
-
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 20: A nice friendly chat about Sculpin, Guzzle and PSR-7]]></title>
-    <link href="http://phptownhall.com/blog/2014/03/06/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/"/>
-    <updated>2014-03-06T10:23:12-05:00</updated>
-    <id>http://phptownhall.com/blog/2014/03/06/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/20.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>Trying out a slightly more professional format with questions, Phil manages to avoid talking over everyone. Winner!</p>
-
-<p>This show has a history of talking about FIG stuff as it is hard to avoid. The group is working on so much cool stuff
-and prominent figures of the community are involved. We got two more prominent figures, who also happen to be involved
-with FIG stuff: <a href="http://twitter.com/beausimensen">Beau Simensen</a> lead developer of <a href="https://sculpin.io">Sculpin</a> and <a href="http://twitter.com/mtdowling">Michael Dowling</a> lead developer of the wonderful
-HTTP library <a href="http://docs.guzzlephp.org">Guzzle</a>, who also works at AWS on their <a href="http://aws.amazon.com/sdkforphp/">PHP SDK</a>.</p>
-
-<p>We discussed each of their projects, some of the plans for the future, specifically whats coming up in Guzzle 4 and
-how that all ties in with the new <a href="https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md">PSR-7: HTTP Message</a>, currently in “Draft” status. Conveniently Beau, Michael and
-Phil are the three FIG members who make up the working group for PSR-7 who will all be working to get this “Accepted”.</p>
-
-<p>See, it all fits!</p>
-
-<blockquote>
-  <p>What are your thoughts on using Bash as a provisioner? Why or why not use it?
-– Edmund Zynda</p>
-</blockquote>
-
-<blockquote>
-  <p>Thoughts on the new github Atom editor
-– Matthew Reschke</p>
-</blockquote>
-
-<blockquote>
-  <p>Beau &amp; Michael, you’ve both been managing open source packages (OSP) for a few years. What’s the best and worst part of managing an OSP?
-– <a href="https://twitter.com/jeremeamia">Jeremy Lindblom</a></p>
-</blockquote>
-
-<blockquote>
-  <p>@Michael do you think a simple HTTP Server interface would fit PSR-7? That would be a good replacement for StackPHP, no?
-– <a href="https://twitter.com/Ocramius">Marco Pivetta</a></p>
-</blockquote>
-
-<blockquote>
-  <p>I’m curious about how this HTTP client relates to the <a href="http://php.net/http">pecl/http extension</a>. There’s been talk in the past of including that extension in the core.
-– <a href="https://twitter.com/ramsey">Ben Ramsey</a></p>
-</blockquote>
-
-<blockquote>
-  <p>What different circumstances dictate how long a PSR takes to get from proposal to blessed by FIG?
-– Edmund Zynda</p>
-</blockquote>
-
-<p>So, plenty for you folks to watch here on the YouTube video!</p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/neq7o8DG68k" frameborder="0" allowfullscreen=""></iframe>
 
 <p>As always, you can subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
 

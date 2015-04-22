@@ -26,6 +26,26 @@
     
       
     <item>
+      <title><![CDATA[Episode 40: Return of the Ferrara]]></title>
+      <description><![CDATA[<p>Regular guest <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> joins us “in the studio” to talk about the new version of his <a href="https://wiki.php.net/rfc/scalar_type_hints_v5">scalar type hints</a>, which since recording - a f**king month ago - has been accepted for PHP 7.</p>
+
+<p>We thought it would be good to have a bit of a chat about the feature, the nonsense that surrounded it and a bunch of other random internals and PHP 7 related blathering. </p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/JF2t0Rc0zm8" frameborder="0" allowfullscreen=""></iframe>
+
+]]></description>
+      <link>http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints/</link>
+      <guid>http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints/</guid>
+      <pubDate>Fri, 20 Mar 2015 21:15:00 -0400</pubDate>
+      <itunes:author><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>5073</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/40.mp3" type="audio/mp3" length="81168926" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 39: Hi Josh!]]></title>
       <description><![CDATA[<p>Phil and Ben catch up with <a href="https://twitter.com/codeguy">Josh Lockhart</a> who has been on the show a few times before.</p>
 
