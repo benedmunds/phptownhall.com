@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-04-22T14:38:08-04:00</updated>
+  <updated>2015-05-18T20:17:00-04:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -14,6 +14,24 @@
 
   <new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</new-feed-url>
 
+  
+      
+  <entry>
+    <title type="html"><![CDATA[Episode 41: Loosely Town Hall - Dallas Edition]]></title>
+    <link href="http://phptownhall.com/blog/2015/04/18/episode-41-loosely-town-hall-dallas/"/>
+    <updated>2015-04-18T21:30:00-04:00</updated>
+    <id>http://phptownhall.com/blog/2015/04/18/episode-41-loosely-town-hall-dallas</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/41.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>This episode is brought to you from thunderstruck Dallas, as part of the awesome conference that is <a href="http://lonestarphp.com">Lone Star PHP</a>. We are joined once again by the dynamic duo <a href="https://twitter.com/jcarouth">Jeff Carouth</a> and <a href="https://twitter.com/shrtwhitebldguy">Matt Frost</a> off of the [Loosely Coupled] podcast!</p>
+
+<p>We mostly make a bunch of bad jokes then drag up the audience to talk about stuff. Lets be honest, this was a bit of a crapshoot, but Elizabeth Smith goes into some detail on PECL and the problems of ownership. PSR-7 is chatted about for the 19th time and Jordi talks a bit about pickles.</p>
+
+<p>Also, we debate “haytch” vs. “atch” as the correct pronunciation of the “H” in HTTP. Important stuff.</p>
+
+<p>Audio only this time folks!</p>
+]]></content>
+  </entry>
+    
   
       
   <entry>
@@ -520,40 +538,6 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/61Q7a15KkmQ" frameborder="0" allowfullscreen=""></iframe>
 
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 21: Attack of the Brazilians]]></title>
-    <link href="http://phptownhall.com/blog/2014/03/14/episode-21-attack-of-the-brazilians/"/>
-    <updated>2014-03-14T04:20:12-04:00</updated>
-    <id>http://phptownhall.com/blog/2014/03/14/episode-21-attack-of-the-brazilians</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/21.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>This week author of “<a href="https://leanpub.com/vagrantcookbook">Vagrant CookBook</a>” <a href="https://twitter.com/erikaheidi">Érika Heidi</a> and serial usergroup creator <a href="https://twitter.com/rdohms">Rafael Dohms</a> join the show to 
-talk about… well, all of that. Two Brazilian PHP developers now living in Amsterdam, tell their stories and talk 
-about what they do.</p>
-
-<p>We cover a lot of conversation connected to Vagrant and some of its upcoming features and functionality. We also talk 
-about provisioning, comparing Chef, Puppet and Ansible.</p>
-
-<p>This weeks questions from the audience:</p>
-
-<blockquote>
-  <p>What are your thoughts on using Bash as a provisioner? Why or why not use it?
-– Edmund Zynda</p>
-</blockquote>
-
-<blockquote>
-  <p>Thoughts on the new github Atom editor
-– Matthew Reschke</p>
-</blockquote>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/1pCgpCDzGb0" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded. </p>
-
 ]]></content>
   </entry>
     
