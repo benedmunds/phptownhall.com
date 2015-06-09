@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-05-18T20:21:47-04:00</updated>
+  <updated>2015-06-09T17:45:20-04:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -14,6 +14,8 @@
 
   <new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</new-feed-url>
 
+  
+      
   
       
   <entry>
@@ -510,33 +512,6 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p>Jordan will be speaking at <a href="http://jqueryuk.com/">jQuery UK</a> in May and at <a href="http://www.phpconference.nl/">Dutch PHP</a> in June.</p>
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/94wOO8P13wA" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 22: The Great Joomla! License Battle of 2014]]></title>
-    <link href="http://phptownhall.com/blog/2014/03/26/episode-22-the-great-joomla-license-battle-of-2014/"/>
-    <updated>2014-03-26T02:04:16-04:00</updated>
-    <id>http://phptownhall.com/blog/2014/03/26/episode-22-the-great-joomla-license-battle-of-2014</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/22.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>This week <a href="https://twitter.com/benedmunds">Ben Edmunds</a> is joined by new guest <a href="https://twitter.com/davidstanley01">David Stanley</a> and recurring guest <a href="https://twitter.com/dilbert4life">Don Gilbert</a> to discuss the latest <a href="http://forum.joomla.org/viewtopic.php?f=704&amp;t=836361&amp;sid=42e55238e2fe91f582af1b69440d219b">Joomla! framework licensing drama</a>.  Phil was too busy having a real world life to join us this week, boo!</p>
-
-<p>Don does a great job of articulating why switching the Joomla! Framework to an LGPL license would be best for everyone and just might cure cancer.  Ben tries to play devil’s advocate but eventually can’t even maintain the ruse.  David talks now and then, mostly about his new found love of the AeroPress.</p>
-
-<p><br /></p>
-
-<h3 id="cool-things-of-the-week">Cool things of the week</h3>
-<p>Don recommends you check out <a href="http://gitter.im">Gitter.IM</a> and <a href="http://pagekit.com">PageKit</a>.</p>
-
-<p>David says you should start using <a href="http://angularjs.org/">AngularJS</a> and <a href="http://foundation.zurb.com/">Foundation</a> if you want to be one of the cool kids.</p>
-
-<p>Ben promotes <a href="http://www.divshot.com/">DivShot</a> and hasn’t received any sponsorship money yet <strong><em>hint hint</em></strong>.</p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/61Q7a15KkmQ" frameborder="0" allowfullscreen=""></iframe>
 
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
