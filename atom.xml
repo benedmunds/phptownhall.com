@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-06-09T17:45:20-04:00</updated>
+  <updated>2015-06-18T11:53:10-04:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -16,6 +16,26 @@
 
   
       
+  <entry>
+    <title type="html"><![CDATA[Episode 42: Paul and Vance]]></title>
+    <link href="http://phptownhall.com/blog/2015/05/22/episode-42-paul-and-vance/"/>
+    <updated>2015-05-22T22:00:00-04:00</updated>
+    <id>http://phptownhall.com/blog/2015/05/22/episode-42-paul-and-vance</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/42.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>After a little hiatus Phil and Ben back at it, joined this time by <a href="https://twitter.com/dr4goonis">Paul Dragoonis</a> and <a href="https://twitter.com/vlucas">Vance Lucas</a>.</p>
+
+<p>Paul does some fairly call stuff, manages the <a href="http://www.ppi.io/">PPI framework</a> and contributes to building the actual <a href="http://php.net/">PHP.net website</a>, the poor sod. Paul is also the winner in the “PHP developers from the UK who are hard to understand” contest two years running, only beating Phil to the title due to being slightly better at handling his booze. </p>
+
+<p>Vance works at <a href="http://www.netsuite.org/">NetSuite</a> and has open-sourced a bunch of code things, most notably <a href="https://github.com/vlucas/phpdotenv">phpdotenv</a> and <a href="https://github.com/vlucas/frisby">frisby</a>.</p>
+
+<p>We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil’s recent blog post about how hard it is to be a famous PHP rockstar guru.</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/tXfOQdYwADA" frameborder="0" allowfullscreen=""></iframe>
+
+<p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness. </p>
+]]></content>
+  </entry>
+    
   
       
   <entry>
