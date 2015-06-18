@@ -3,9 +3,9 @@ layout: post
 title: "Episode 42: Paul and Vance"
 date: 2015-05-22 21:00:00 -0500
 comments: true
-filename:
-bytes:
-duration:
+filename: 42
+bytes: 62265573
+duration: 1:04:51
 ---
 
 After a little hiatus Phil and Ben back at it, joined this time by [Paul Dragoonis](https://twitter.com/dr4goonis) and [Vance Lucas](https://twitter.com/vlucas).
@@ -17,3 +17,5 @@ Vance works at [NetSuite](http://www.netsuite.org/) and has open-sourced a bunch
 We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil's recent blog post about how hard it is to be a famous PHP rockstar guru.
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/tXfOQdYwADA" frameborder="0" allowfullscreen></iframe>
+
+You can find more announcements, episodes and random stuff on [iTunes Store](https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2), [Twitter](https://twitter.com/phptownhall), [Google](https://plus.google.com/b/114546315704097272137/+Phptownhall), [YouTube](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and... you get the idea. Follow for free Sturgeon points and eternal happiness. 
