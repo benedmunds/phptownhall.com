@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-06-18T11:53:10-04:00</updated>
+  <updated>2015-07-24T23:38:02+01:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -17,10 +17,28 @@
   
       
   <entry>
+    <title type="html"><![CDATA[Episode 43: Midnight Express]]></title>
+    <link href="http://phptownhall.com/blog/2015/06/12/episode-43-midnight-express/"/>
+    <updated>2015-06-12T03:00:00+01:00</updated>
+    <id>http://phptownhall.com/blog/2015/06/12/episode-43-midnight-express</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/43.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>Your two favourite PHP developers are joined this episode by <a href="https://twitter.com/dr4goonis">Emir Karşıyakalı</a> off of <a href="http://phpkonf.org/">PHPKonf and IstanbulPHP</a>.</p>
+
+<p>Istanbul is not only a beautiful and awesome city, but it’s got a thriving PHP community too, who are currently hosting a whole bunch of PHP stars for their annual conference. </p>
+
+<p>Once again we promised to get this up before the conference to advertise it, and we’re releasing this audio version the night before, but what can we say… we’re shit at this.</p>
+
+<p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness. </p>
+]]></content>
+  </entry>
+    
+  
+      
+  <entry>
     <title type="html"><![CDATA[Episode 42: Paul and Vance]]></title>
-    <link href="http://phptownhall.com/blog/2015/05/22/episode-42-paul-and-vance/"/>
-    <updated>2015-05-22T22:00:00-04:00</updated>
-    <id>http://phptownhall.com/blog/2015/05/22/episode-42-paul-and-vance</id>
+    <link href="http://phptownhall.com/blog/2015/05/23/episode-42-paul-and-vance/"/>
+    <updated>2015-05-23T03:00:00+01:00</updated>
+    <id>http://phptownhall.com/blog/2015/05/23/episode-42-paul-and-vance</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/42.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>After a little hiatus Phil and Ben back at it, joined this time by <a href="https://twitter.com/dr4goonis">Paul Dragoonis</a> and <a href="https://twitter.com/vlucas">Vance Lucas</a>.</p>
 
@@ -40,9 +58,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 41: Loosely Town Hall - Dallas Edition]]></title>
-    <link href="http://phptownhall.com/blog/2015/04/18/episode-41-loosely-town-hall-dallas/"/>
-    <updated>2015-04-18T21:30:00-04:00</updated>
-    <id>http://phptownhall.com/blog/2015/04/18/episode-41-loosely-town-hall-dallas</id>
+    <link href="http://phptownhall.com/blog/2015/04/19/episode-41-loosely-town-hall-dallas/"/>
+    <updated>2015-04-19T02:30:00+01:00</updated>
+    <id>http://phptownhall.com/blog/2015/04/19/episode-41-loosely-town-hall-dallas</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/41.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This episode is brought to you from thunderstruck Dallas, as part of the awesome conference that is <a href="http://lonestarphp.com">Lone Star PHP</a>. We are joined once again by the dynamic duo <a href="https://twitter.com/jcarouth">Jeff Carouth</a> and <a href="https://twitter.com/shrtwhitebldguy">Matt Frost</a> off of the <a href="http://looselycoupled.info/">Loosely Coupled</a> podcast!</p>
 
@@ -59,9 +77,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 40: Return of the Ferrara]]></title>
-    <link href="http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints/"/>
-    <updated>2015-03-20T21:15:00-04:00</updated>
-    <id>http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints</id>
+    <link href="http://phptownhall.com/blog/2015/03/21/episode-40-ferrara-scalar-type-hints/"/>
+    <updated>2015-03-21T01:15:00+00:00</updated>
+    <id>http://phptownhall.com/blog/2015/03/21/episode-40-ferrara-scalar-type-hints</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/40.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>Regular guest <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> joins us “in the studio” to talk about the new version of his <a href="https://wiki.php.net/rfc/scalar_type_hints_v5">scalar type hints</a>, which since recording - a f**king month ago - has been accepted for PHP 7.</p>
 
@@ -77,7 +95,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 39: Hi Josh!]]></title>
     <link href="http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh/"/>
-    <updated>2015-03-12T13:03:58-04:00</updated>
+    <updated>2015-03-12T17:03:58+00:00</updated>
     <id>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/39.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>Phil and Ben catch up with <a href="https://twitter.com/codeguy">Josh Lockhart</a> who has been on the show a few times before.</p>
@@ -103,9 +121,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 37: Sunshine Round-Hall? Town-Table?]]></title>
-    <link href="http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-sunshine/"/>
-    <updated>2015-02-07T21:00:00-05:00</updated>
-    <id>http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-sunshine</id>
+    <link href="http://phptownhall.com/blog/2015/02/08/episode-37-round-hall-sunshine/"/>
+    <updated>2015-02-08T02:00:00+00:00</updated>
+    <id>http://phptownhall.com/blog/2015/02/08/episode-37-round-hall-sunshine</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/37.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>We all know that SunshinePHP is one of the PHP communities finest conferences. It attends an amazing group of people, wonderful speakers and Rasmus usually pops in for a drive-by-keynote. </p>
 
@@ -134,9 +152,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 36: PSR-7 and The World of Tomorrow]]></title>
-    <link href="http://phptownhall.com/blog/2015/02/02/episode-36-psr-7-the-world-of-tomorrow/"/>
-    <updated>2015-02-02T22:00:10-05:00</updated>
-    <id>http://phptownhall.com/blog/2015/02/02/episode-36-psr-7-the-world-of-tomorrow</id>
+    <link href="http://phptownhall.com/blog/2015/02/03/episode-36-psr-7-the-world-of-tomorrow/"/>
+    <updated>2015-02-03T03:00:10+00:00</updated>
+    <id>http://phptownhall.com/blog/2015/02/03/episode-36-psr-7-the-world-of-tomorrow</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/36.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>Two awesome guests join this week, from two different framework projects, both who have been very vocal about their interest in <a href="https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md">PSR-7: HTTP Message</a>. These two chaps were <a href="http://harikt.com/">Hari K T</a> and <a href="https://twitter.com/mwop">Matthew Weier O’Phinney</a>.</p>
 
@@ -164,7 +182,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 35: Developer to CTO and Back]]></title>
     <link href="http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back/"/>
-    <updated>2015-01-09T11:53:47-05:00</updated>
+    <updated>2015-01-09T16:53:47+00:00</updated>
     <id>http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/35.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>The grass is always greener on the other side, but we have a little talk with <a href="https://twitter.com/geeh">Gary Hockin</a> and regular guest <a href="https://twitter.com/jacques_thekit">Jacques Woodcock</a> about the pros and cons of going up and down the chain of command in the developer world. After all, it doesn’t just need to be a one-way street.﻿</p>
@@ -181,7 +199,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 34: /dev/hell Mashup]]></title>
     <link href="http://phptownhall.com/blog/2015/01/09/episode-34-dev-hell-mashup/"/>
-    <updated>2015-01-09T11:53:47-05:00</updated>
+    <updated>2015-01-09T16:53:47+00:00</updated>
     <id>http://phptownhall.com/blog/2015/01/09/episode-34-dev-hell-mashup</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/34.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This is a big one. We’ve had Chris “The Grumpy Programmer” Hartjes and Ed “The Grumpy Podcaster” Finkler on our show before, but this time they both join us for a mashup!</p>
@@ -214,7 +232,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 33: CakePHP, Monga and RFCs]]></title>
     <link href="http://phptownhall.com/blog/2014/11/19/episode-33-cakes-monga-rfcs/"/>
-    <updated>2014-11-19T13:50:20-05:00</updated>
+    <updated>2014-11-19T18:50:20+00:00</updated>
     <id>http://phptownhall.com/blog/2014/11/19/episode-33-cakes-monga-rfcs</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/33.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This episode we’re joined by two two top CakePHPers <a href="https://twitter.com/savant">Jose Diaz-Gonzalez</a> and 
@@ -237,7 +255,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 32: Ben and Phil Catch Up]]></title>
     <link href="http://phptownhall.com/blog/2014/11/04/episode-32-ben-and-phil-catch-up/"/>
-    <updated>2014-11-04T15:50:20-05:00</updated>
+    <updated>2014-11-04T20:50:20+00:00</updated>
     <id>http://phptownhall.com/blog/2014/11/04/episode-32-ben-and-phil-catch-up</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/32.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This week <a href="https://twitter.com/benedmunds">Ben</a> and <a href="https://twitter.com/philsturgeon">Phil</a> take some time to catch up on each others lives and let you listen in.  Ben doesn’t remember how to code.  Phil is leaving PHP for Rails.  They’re both moving again.</p>
@@ -260,9 +278,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 31: The One about Hot Dogs]]></title>
-    <link href="http://phptownhall.com/blog/2014/10/16/episode-31-the-one-about-hot-dogs/"/>
-    <updated>2014-10-16T20:51:20-04:00</updated>
-    <id>http://phptownhall.com/blog/2014/10/16/episode-31-the-one-about-hot-dogs</id>
+    <link href="http://phptownhall.com/blog/2014/10/17/episode-31-the-one-about-hot-dogs/"/>
+    <updated>2014-10-17T01:51:20+01:00</updated>
+    <id>http://phptownhall.com/blog/2014/10/17/episode-31-the-one-about-hot-dogs</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/31.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This week Ben and Phil are joined last minute by repeat guests <a href="https://twitter.com/kayladnls">Kayla Daniels</a> and <a href="https://twitter.com/shrtwhitebldguy">Matt Frost</a>.</p>
 
@@ -290,9 +308,9 @@
       
   <entry>
     <title type="html"><![CDATA[Episode 30: Specs, Implementations, and New Engines OH MY!]]></title>
-    <link href="http://phptownhall.com/blog/2014/08/25/episode-30-specs-implementations-and-new-engines-oh-my/"/>
-    <updated>2014-08-25T21:18:50-04:00</updated>
-    <id>http://phptownhall.com/blog/2014/08/25/episode-30-specs-implementations-and-new-engines-oh-my</id>
+    <link href="http://phptownhall.com/blog/2014/08/26/episode-30-specs-implementations-and-new-engines-oh-my/"/>
+    <updated>2014-08-26T02:18:50+01:00</updated>
+    <id>http://phptownhall.com/blog/2014/08/26/episode-30-specs-implementations-and-new-engines-oh-my</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/30.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This week Ben and Phil are joined by core PHP developer extraordinaires <a href="https://twitter.com/AndreaFaulds">Andrea Faulds</a> and <a href="https://twitter.com/morrisonlevi">Levi Morrison</a>.</p>
 
@@ -309,7 +327,7 @@
   <entry>
     <title type="html"><![CDATA[Episode 29: Dont Mention PHP 6 v PHP 7]]></title>
     <link href="http://phptownhall.com/blog/2014/07/30/episode-29-dont-mention-php-6-v-php-7/"/>
-    <updated>2014-07-30T15:18:48-04:00</updated>
+    <updated>2014-07-30T20:18:48+01:00</updated>
     <id>http://phptownhall.com/blog/2014/07/30/episode-29-dont-mention-php-6-v-php-7</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/29.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This week Ben and Phil are joined by long distance target shooter <a href="https://twitter.com/pmjones">Paul M. Jones</a> and the handsome man that is <a href="https://twitter.com/rdlowrey">Daniel Lowrey</a>, to talk about a whole bunch of PHP relating things.</p>
@@ -345,7 +363,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
   <entry>
     <title type="html"><![CDATA[Episode 28: Loosley Coupled Mashup]]></title>
     <link href="http://phptownhall.com/blog/2014/07/10/episode-28-loosley-coupled-mashup/"/>
-    <updated>2014-07-10T10:40:49-04:00</updated>
+    <updated>2014-07-10T15:40:49+01:00</updated>
     <id>http://phptownhall.com/blog/2014/07/10/episode-28-loosley-coupled-mashup</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/28.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>In this episode, Ben and Phil join forces with <a href="http://looselycoupled.info/">Loosely Coupled</a> to talk about Open Source, burn out and briefly discuss their favorite open source projects. Jeff was out of action for a lot of it due to unexpected wifi troubles (in San Francisco of all places) so he sadly did not get to take part as much as he would have liked.</p>
@@ -387,7 +405,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
   <entry>
     <title type="html"><![CDATA[Episode 27: Josh Lockhart and Jeremy Mikola]]></title>
     <link href="http://phptownhall.com/blog/2014/06/29/episode-27-foo/"/>
-    <updated>2014-06-29T15:03:01-04:00</updated>
+    <updated>2014-06-29T20:03:01+01:00</updated>
     <id>http://phptownhall.com/blog/2014/06/29/episode-27-foo</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/27.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This episode is a long one, but we are back to improved audio and the video is not just one dude eating pzza for an hour. <a href="http://twitter.com/codeguy">Josh Lockhart</a> of <a href="http://phptherightway.com">PHP The Right Way</a> and <a href="http://www.slimframework.com/">Slim</a> fame, and <a href="http://twitter.com/jmikola">Jeremy Mikola</a> who is well known for banging on about <a href="http://vimeo.com/89325708">clouds</a> and playing magic the gathering. Oh, he also works for MongoDB.</p>
@@ -424,7 +442,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
   <entry>
     <title type="html"><![CDATA[Episode 26: Hello Front Range!]]></title>
     <link href="http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range/"/>
-    <updated>2014-06-18T14:25:01-04:00</updated>
+    <updated>2014-06-18T19:25:01+01:00</updated>
     <id>http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/26.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>The <a href="http://frontrangephp.org/">Front Range</a> PHP user-group joins the show as a live audience for the episode 26, in a new crazy bonus format which Phil thought might be fun. The idea of the episode is for people to generally pick our brain about PHP and code and tech and things. It kinda worked but the sound quality was terrible. Sorry about that folks.</p>
@@ -450,7 +468,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
   <entry>
     <title type="html"><![CDATA[Episode 25: Girls Aren't Any Different]]></title>
     <link href="http://phptownhall.com/blog/2014/05/28/episode-25-girls-arent-any-different/"/>
-    <updated>2014-05-28T15:39:38-04:00</updated>
+    <updated>2014-05-28T20:39:38+01:00</updated>
     <id>http://phptownhall.com/blog/2014/05/28/episode-25-girls-arent-any-different</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/25.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>Talking about feminism in tech is always difficult. This episode was quite a heated discussion with <a href="https://twitter.com/kayladnls">Kayla Daniels</a> and <a href="http://twitter.com/justjessdc">Jessica D’Amico</a> discussing their opinions about women-orientated groups such as <a href="http://phpwomen.org/">PHPWomen</a> and <a href="http://girlswhocode.com/">Girls Who Code</a>.</p>
@@ -491,7 +509,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
   <entry>
     <title type="html"><![CDATA[Episode 24: But is it Web Scale?]]></title>
     <link href="http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale/"/>
-    <updated>2014-05-14T13:52:29-04:00</updated>
+    <updated>2014-05-14T18:52:29+01:00</updated>
     <id>http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/24.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>This week <a href="http://benedmunds.com">Ben Edmunds</a> calls in from Portland and <a href="http://philsturgeon.co.uk">Phil Sturgeon</a> calls in from THE FUTURE.  They are joined by <a href="http://stevecorona.com/">Steve Corona</a> to discuss <a href="https://www.scalingphpbook.com/">Scaling PHP</a>.</p>
@@ -503,35 +521,6 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p><br /></p>
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/9MEpiUu-E48" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 23: VirtPHP - Managing your Herd of ElePHPants]]></title>
-    <link href="http://phptownhall.com/blog/2014/04/10/virtphp-managing-your-herd-of-php-versions/"/>
-    <updated>2014-04-10T01:08:31-04:00</updated>
-    <id>http://phptownhall.com/blog/2014/04/10/virtphp-managing-your-herd-of-php-versions</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/23.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>This week <a href="http://benedmunds.com">Ben Edmunds</a> and <a href="http://philsturgeon.co.uk">Phil Sturgeon</a> are joined by <a href="https://twitter.com/jacques_thekit">Jacques Woodcock</a> and <a href="https://twitter.com/jakerella">Jordan Kasper</a> to discuss <a href="http://virtphp.org/">virtPHP</a>.</p>
-
-<p>virtPHP is a tool for managing multiple environments on your development machine.  It is similar to Python’s virtualenv or Ruby’s rbenv, but for PHP.</p>
-
-<p><br /></p>
-
-<h3 id="upcoming-conferences">Upcoming Conferences</h3>
-<p>Phil will be speaking at <a href="http://www.phpsouthafrica.com/">PHP South Africa</a> in April.</p>
-
-<p>Ben has no idea what he will attend this year.</p>
-
-<p>Jacques will likely be speaking at <a href="http://truenorthphp.ca/">True North PHP</a> later this year.</p>
-
-<p>Jordan will be speaking at <a href="http://jqueryuk.com/">jQuery UK</a> in May and at <a href="http://www.phpconference.nl/">Dutch PHP</a> in June.</p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/94wOO8P13wA" frameborder="0" allowfullscreen=""></iframe>
 
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
