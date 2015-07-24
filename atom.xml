@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-07-24T23:38:02+01:00</updated>
+  <updated>2015-07-24T23:41:34+01:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -14,6 +14,8 @@
 
   <new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</new-feed-url>
 
+  
+      
   
       
   <entry>
@@ -501,28 +503,6 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 
 <p>Please subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the YouTube channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 24: But is it Web Scale?]]></title>
-    <link href="http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale/"/>
-    <updated>2014-05-14T18:52:29+01:00</updated>
-    <id>http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/24.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>This week <a href="http://benedmunds.com">Ben Edmunds</a> calls in from Portland and <a href="http://philsturgeon.co.uk">Phil Sturgeon</a> calls in from THE FUTURE.  They are joined by <a href="http://stevecorona.com/">Steve Corona</a> to discuss <a href="https://www.scalingphpbook.com/">Scaling PHP</a>.</p>
-
-<p>Most of this conversation centers around Phil and Ben’s horrible facial hair with a few questions thrown Steve’s way to educate us on getting the most out of your LAMP stack.  The main takeaways are to stop using Apache and to start using Postgres.</p>
-
-<p>Go buy Steve’s book <a href="https://www.scalingphpbook.com/">Scaling PHP</a> if you want to be Web Scale.</p>
-
-<p><br /></p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/9MEpiUu-E48" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
   </entry>
     
