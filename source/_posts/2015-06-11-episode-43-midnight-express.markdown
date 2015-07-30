@@ -8,7 +8,7 @@ bytes: 22452467
 duration: 23:23
 ---
 
-Your two favourite PHP developers are joined this episode by [Emir Karşıyakalı](https://twitter.com/dr4goonis) off of [PHPKonf and IstanbulPHP](http://phpkonf.org/).
+Your two favourite PHP developers are joined this episode by [Emir Karşıyakalı](https://twitter.com/EmirKarsiyakali) off of [PHPKonf and IstanbulPHP](http://phpkonf.org/).
 
 Istanbul is not only a beautiful and awesome city, but it's got a thriving PHP community too, who are currently hosting a whole bunch of PHP stars for their annual conference. 
 
