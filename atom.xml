@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-07-30T16:26:31-04:00</updated>
+  <updated>2015-08-12T10:10:38-04:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -16,6 +16,20 @@
 
   
       
+  <entry>
+    <title type="html"><![CDATA[Episode 44: API Madness!]]></title>
+    <link href="http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/"/>
+    <updated>2015-07-22T08:30:00-04:00</updated>
+    <id>http://phptownhall.com/blog/2015/07/22/episode-44-api-madness</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/44.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>Phil’s gonna have to listen to this one to get some notes, because he bailed on the show to take a nap or some rubbish.</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/7qIQkpSa9yI" frameborder="0" allowfullscreen=""></iframe>
+
+<p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness. </p>
+]]></content>
+  </entry>
+    
   
       
   <entry>
