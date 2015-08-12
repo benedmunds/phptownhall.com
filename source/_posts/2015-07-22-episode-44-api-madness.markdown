@@ -3,9 +3,9 @@ layout: post
 title: "Episode 44: API Madness!"
 date: 2015-07-22 7:30:00 -0500
 comments: true
-filename: 
-bytes: 
-duration: 
+filename: 44
+bytes: 60327713
+duration: 1:02:49
 ---
 
 Phil's gonna have to listen to this one to get some notes, because he bailed on the show to take a nap or some rubbish.
