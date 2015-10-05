@@ -27,7 +27,30 @@
       
     <item>
       <title><![CDATA[Episode 44: API Madness!]]></title>
-      <description><![CDATA[<p>Phil’s gonna have to listen to this one to get some notes, because he bailed on the show to take a nap or some rubbish.</p>
+      <description><![CDATA[<p>Live from <a href="http://pnwphp.com/">PNWPHP ‘15</a>, Ben and Phil are joined by guests <a href="https://twitter.com/benmarks">Ben Marks</a>, <a href="https://twitter.com/coderabbi">Yitzchok Willroth</a> and later we are joined by returning guest <a href="https://twitter.com/SaraMG">Sara Golemon</a> who popped in to talk about HHVM/Hack while Phil played waiter for the rest of the episode.</p>
+
+<p>Ben talks about Magento and some of his conference traveling madness, as does Yitz, who got trapped in a hotel for a whole weekend due to some interesting combination of Jewish holidays and an argument over the interational date line in New Zealand. Phil also tells us all about NZ, his speeding ticket, mowing down possums like it’s Carmageddon, and makes a few terrible jokes because <a href="https://philsturgeon.uk/charity/2015/08/22/no-booze/">he’s scarily sober</a>.</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/uva9K6aZ0Ho" frameborder="0" allowfullscreen=""></iframe>
+
+<p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness. </p>
+]]></description>
+      <link>http://phptownhall.com/blog/2015/09/12/episode-45-good-evening-seattle/</link>
+      <guid>http://phptownhall.com/blog/2015/09/12/episode-45-good-evening-seattle/</guid>
+      <pubDate>Sat, 12 Sep 2015 08:30:00 -0400</pubDate>
+      <itunes:author><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>181140</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/45.mp3" type="audio/mp3" length="48325014" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 44: API Madness!]]></title>
+      <description><![CDATA[<p>Listen to API pros <a href="https://twitter.com/AmbassadorAwsum">Amanda Folson</a> and <a href="https://twitter.com/mikegstowe">Mike Stowe</a> talk about API versioning, RAML, and all sorts of interesting API stuff.</p>
+
+<p>Phil ended up having a listen to this after the fact, and found it awesome! This episode is probably better for him not being there, as there are some opinions that didn’t initially match his, but they’re really interesting and make him reconsider a few things.</p>
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/7qIQkpSa9yI" frameborder="0" allowfullscreen=""></iframe>
 
