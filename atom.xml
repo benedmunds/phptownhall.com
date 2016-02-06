@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2015-10-05T10:46:00-04:00</updated>
+  <updated>2016-02-06T17:42:46-05:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -17,7 +17,27 @@
   
       
   <entry>
-    <title type="html"><![CDATA[Episode 44: Live from PNWPHP]]></title>
+    <title type="html"><![CDATA[Episode 46: Christmas Theraphpy]]></title>
+    <link href="http://phptownhall.com/blog/2015/12/27/episode-46-christmas-theraphpy/"/>
+    <updated>2015-12-27T19:00:00-05:00</updated>
+    <id>http://phptownhall.com/blog/2015/12/27/episode-46-christmas-theraphpy</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/46.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about daft people are on the Internet.</p>
+
+<p>For some reason he accidentally read some /r/lolphp and got into an argument about how they think that PHP 7 is purely a cosmetic change. This was a good excuse to re-emphisize what an awesome set of fundamental changes PHP 7 really was.</p>
+
+<p>Ben and Phil then discuss the FIGs identity crisis before Phil goes off on another ramble about that. We’ll cover that better on later episodes!</p>
+
+<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/QVB_pG1wioc" frameborder="0" allowfullscreen=""></iframe>
+
+<p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a>, or look in the nearest pub that sells cider.</p>
+]]></content>
+  </entry>
+    
+  
+      
+  <entry>
+    <title type="html"><![CDATA[Episode 45: Live from PNWPHP]]></title>
     <link href="http://phptownhall.com/blog/2015/09/12/episode-45-good-evening-seattle/"/>
     <updated>2015-09-12T08:30:00-04:00</updated>
     <id>http://phptownhall.com/blog/2015/09/12/episode-45-good-evening-seattle</id>
@@ -28,7 +48,7 @@
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/uva9K6aZ0Ho" frameborder="0" allowfullscreen=""></iframe>
 
-<p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness. </p>
+<p>You can find more announcements, episodes and random stuff on <a href="https://itunes.apple.com/us/podcast/php-town-hall/id585240066?mt=2">iTunes Store</a>, <a href="https://twitter.com/phptownhall">Twitter</a>, <a href="https://plus.google.com/b/114546315704097272137/+Phptownhall">Google</a>, <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube</a> and… you get the idea. Follow for free Sturgeon points and eternal happiness.</p>
 ]]></content>
   </entry>
     
@@ -468,32 +488,6 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p><em>The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version.</em></p>
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/fRcA7Ui9ZpA" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 26: Hello Front Range!]]></title>
-    <link href="http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range/"/>
-    <updated>2014-06-18T14:25:01-04:00</updated>
-    <id>http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/26.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>The <a href="http://frontrangephp.org/">Front Range</a> PHP user-group joins the show as a live audience for the episode 26, in a new crazy bonus format which Phil thought might be fun. The idea of the episode is for people to generally pick our brain about PHP and code and tech and things. It kinda worked but the sound quality was terrible. Sorry about that folks.</p>
-
-<p>They ask us a bunch of questions about how we got started in PHP.</p>
-
-<ul>
-  <li>Picking a framework that would last 10 years for enterprise?</li>
-  <li>How to migrate from CodeIgniter to Laravel?</li>
-  <li>What do you use for integration tests?</li>
-</ul>
-
-<p>The video provides great insight into what you lot look like when you’re sat at a user group shoving pizza into your face, which we thought might be different for our viewers. That might also be a lie, and we accidentally left it on the wrong camera, but hey… there is a MP3 version too.</p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/9MEpiUu-E48" frameborder="0" allowfullscreen=""></iframe>
 
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
