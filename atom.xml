@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://phptownhall.com/atom.xml" rel="self"/>
   <link href="http://phptownhall.com/"/>
-  <updated>2016-02-06T17:42:46-05:00</updated>
+  <updated>2016-02-09T20:59:59-05:00</updated>
   <id>http://phptownhall.com/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -204,6 +204,8 @@
 ]]></content>
   </entry>
     
+  
+      
   
       
   <entry>
@@ -451,43 +453,6 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 <p><em>The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version.</em></p>
 
 <iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/HVuWqQdZ4lk" frameborder="0" allowfullscreen=""></iframe>
-
-<p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
-]]></content>
-  </entry>
-    
-  
-      
-  <entry>
-    <title type="html"><![CDATA[Episode 27: Josh Lockhart and Jeremy Mikola]]></title>
-    <link href="http://phptownhall.com/blog/2014/06/29/episode-27-foo/"/>
-    <updated>2014-06-29T15:03:01-04:00</updated>
-    <id>http://phptownhall.com/blog/2014/06/29/episode-27-foo</id>
-    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/27.mp3" type="audio/mpeg" />
-    <content type="html"><![CDATA[<p>This episode is a long one, but we are back to improved audio and the video is not just one dude eating pzza for an hour. <a href="http://twitter.com/codeguy">Josh Lockhart</a> of <a href="http://phptherightway.com">PHP The Right Way</a> and <a href="http://www.slimframework.com/">Slim</a> fame, and <a href="http://twitter.com/jmikola">Jeremy Mikola</a> who is well known for banging on about <a href="http://vimeo.com/89325708">clouds</a> and playing magic the gathering. Oh, he also works for MongoDB.</p>
-
-<p><em><strong>Warning:</strong> Puns and occasional swears.</em></p>
-
-<p>Some projects have been discovering they use language which can be offensive like master/slave. How do they deal with it, and how should they deal with it?</p>
-
-<p>We ask Joshua what the plans for are for Slim 3, and talk a bit about the differences between Slim and Silex. We also ask him about the history of <a href="http://phptherightway.com">PHP The Right Way</a>: how it got started and how it has evolved over time with contributions and huge efforts from the PHP community.</p>
-
-<p>Phil rants about <a href="https://github.com/illuminate/pagination">illuminate/pagination</a> having hard dependencies and tries to make excuses up for not sending a pull request, then comically days later caves and <a href="https://github.com/laravel/framework/pull/4582">sends a pull request</a>.</p>
-
-<p>The whole gang discuss difficulties of managing pull requests, covering how to handle the expectations of the pull “requester” and the pull “requestee”, how to handle feedback and a few other bits and bobs.</p>
-
-<p>This is a fairly chunky episode but these guests were long overdue, and they’re such nice guys we had to chat and answer as many questions as we could. </p>
-
-<ul>
-  <li><a href="http://blog.ircmaxell.com/2014/05/the-tale-of-wrecked-fire-engine.html">The Tale of the Wrecked Fire Engine</a></li>
-  <li><a href="http://thephpleague.com">The PHP League</a></li>
-  <li><a href="http://csv.thephpleague.com">league/csv</a></li>
-  <li><a href="https://packagist.org/packages/keboola/csv">keboola/csv</a></li>
-</ul>
-
-<p><em>The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version.</em></p>
-
-<iframe width="640" height="360" src="http://phptownhall.com//www.youtube.com/embed/fRcA7Ui9ZpA" frameborder="0" allowfullscreen=""></iframe>
 
 <p>As always, you can subscribe to <a href="https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">the channel</a> and follow us on <a href="https://twitter.com/phptownhall">Twitter</a> for announcements about when new live shows will be recorded.</p>
 ]]></content>
