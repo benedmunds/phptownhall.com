@@ -2,51 +2,21 @@
 layout: post
 title: "Episode 48: Code of Conduct"
 date: 2016-02-15T13:14:50-05:00
-
+filename:
+bytes:
+duration:
 ---
 
+User-group and meet-up organizer [Jenny Wong](https://twitter.com/miss_jwo) swings by for a chat about the [PHP RFC for a Code of Conduct](https://wiki.php.net/rfc/adopt-code-of-conduct).
 
-1. Accidentally for and against
+Whilst all three of us think a Code of Conduct is a good idea, we talk through some of the various for and against reasoning that people have, and try to outline the logical failures behind some of the FUD being spread around during this discussion.
 
-Pro-sure they're a good idea i guess
-Pro-everyone needs a coc and anyone against it is a bigot fuck
-Pro-but dont wanna talk about it
-Pro-think they're a stupid neccessity
+We cover a few things, from the intent of a Code of Conduct, explain it's reach is not as scary as many seem to think, outline a few things that a Code of Conduct does not try to do, and talk about some of the problems minorities have at conferences and online which could be simplified over time with a useful CoC.
 
-Anti-they're unneccessary this doesnt happen
-Anti-we're already doing this
-Anti-the SJWs will steal our freedom of speech
+This is one of our best episodes yet. Even if you hate Phil and think he's turned into some sort of social justice warrior white knighting whatever, listen to this and see if the conversation is starting to make more sense to you.
 
-2. Contributor Covenant
-Myriads of conflation:
+The goal here is to open a few minds, and bring people to the table so a useful conversation can be had, instead of the usual reaction to Code of Conducts which is immediate screaming into the keyboard, mashing out wall-o-text's about freedom of speech, and assuming people are only interested in inclusivity to impress women...
 
-- It somehow affects you on Twitter, where as the RFC specifically says thats not true
-- "her politics"
-- "Enforcing the Contributor Covenant" guidelines on the community
-  - no more relevant to the running of the mediation than "npm install covgen"
+We can make our community a better place, and Jenny has a few tips on how you can help with that goal.
 
-3. "Opalgate" https://github.com/opal/opal/issues/941
-
-4. Anti-harrasment policy
-
-5. Not talking about your whole life
-
-6. Adam Culp at sunshine
-that stuff happens, people dont know
-
-7. minor comments vs ass grab
-
-8. Shouting at victims
-
-9. "People say Anthony was not listening or responding to feedback"
-i.e he said he was not listening on the thread and said specifically he'd ignore it.
-
-10. "diversity is a false goal"
-
-
-
-https://github.com/ContributorCovenant/contributor_covenant/pull/226
-
-http://contributor-covenant.org/
-
-https://wiki.php.net/rfc/adopt-code-of-conduct
+<iframe width="640" height="360" src="//www.youtube.com/embed/HTeIi8dLGMU" frameborder="0" allowfullscreen></iframe>

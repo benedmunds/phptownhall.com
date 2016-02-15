@@ -36,10 +36,10 @@ paginate_path: "archive/:num"
 # ----------------------- #
 
 # Twitter
-twitter_username:
+twitter_username: phptownhall
 
 # Google Analytics
 google_analytics_tracking_id: UA-37199526-1
 
-# Facebook Like
-facebook_like: false
+# Google Plus
+google_plus_username: PHPTownHall
