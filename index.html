@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="pagination">
+      {% if paginator.next_page %}
+        <a class="prev" href="{{paginator.next_page_path}}">&larr; Older</a>
+      {% endif %}
+      {% if paginator.previous_page %}
+      <a class="next" href="{{paginator.previous_page_path}}">Newer &rarr;</a>
+      {% endif %}
+  </p>
+
+  <p class="rss-subscribe">Want more PHP Town Hall? Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> to get updates as videos come out, or <a href="{{ "/itunes.rss" | prepend: site.baseurl }}">shove this</a> into iTunes (or similar) to get audio-only updates.</p>
+
+</div>

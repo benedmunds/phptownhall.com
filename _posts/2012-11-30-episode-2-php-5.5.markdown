@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Episode 2: A Node hipster, beardy Python fan, PHP contributor and a Bristolian talk about PHP 5.5"
+date: 2012-12-04 21:02
+comments: true
+categories: 
+filename: 2
+bytes: 66601377
+duration: "01:09:22"
+---
+
+We're back for an "IRL" episode, with [Zack Kitzmiller][zack], [John Crepezzi][john] and [Anthony Ferrera][anthony], discussing PHP 5.5 and the new features it will bring.
+
+_Note: The sound quality in this one is just awful, so sorry about that. This is the first time I have tried recording a podcast in a group like this, The quality will be considerably better next time around. If you want to skip this one then fair enough, but please come back for the third episode. Phil_
+
+* [PHP: Innocent Villagefolk or a Pillagin’ Pirate?](http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/)
+* [What PHP 5.5 might look like](http://nikic.github.com/2012/07/10/What-PHP-5-5-might-look-like.html)
+* [ErrorExceptions](https://github.com/ircmaxell/ErrorExceptions)
+* [Password API for 5.3](https://github.com/ircmaxell/password_compat)
+* [Crucial Web Host](http://www.crucialwebhost.com/) (the host with PHP 5.5 alpha1)
+
+  [zack]: https://twitter.com/zackkitzmiller
+  [john]: https://twitter.com/seejohncode
+  [anthony]: https://twitter.com/ircmaxell

@@ -1,0 +1,42 @@
+---
+layout: post
+title: "Episode 27: Josh Lockhart and Jeremy Mikola"
+date: 2014-06-29 20:03:01 +0100
+comments: true
+filename: 27
+bytes: 91001860
+duration: "1:34:47"
+---
+
+This episode is a long one, but we are back to improved audio and the video is not just one dude eating pzza for an hour. [Josh Lockhart] of [PHP The Right Way] and [Slim] fame, and [Jeremy Mikola] who is well known for banging on about [clouds] and playing magic the gathering. Oh, he also works for MongoDB.
+
+_**Warning:** Puns and occasional swears._
+
+Some projects have been discovering they use language which can be offensive like master/slave. How do they deal with it, and how should they deal with it?
+
+We ask Joshua what the plans for are for Slim 3, and talk a bit about the differences between Slim and Silex. We also ask him about the history of [PHP The Right Way]: how it got started and how it has evolved over time with contributions and huge efforts from the PHP community.
+
+Phil rants about [illuminate/pagination] having hard dependencies and tries to make excuses up for not sending a pull request, then comically days later caves and [sends a pull request].
+
+The whole gang discuss difficulties of managing pull requests, covering how to handle the expectations of the pull "requester" and the pull "requestee", how to handle feedback and a few other bits and bobs.
+
+This is a fairly chunky episode but these guests were long overdue, and they're such nice guys we had to chat and answer as many questions as we could. 
+
+* [The Tale of the Wrecked Fire Engine](http://blog.ircmaxell.com/2014/05/the-tale-of-wrecked-fire-engine.html)
+* [The PHP League](http://thephpleague.com)
+* [league/csv](http://csv.thephpleague.com)
+* [keboola/csv](https://packagist.org/packages/keboola/csv)
+
+[Josh Lockhart]: http://twitter.com/codeguy
+[PHP The Right Way]: http://phptherightway.com
+[Slim]: http://www.slimframework.com/
+[Jeremy Mikola]: http://twitter.com/jmikola
+[clouds]: http://vimeo.com/89325708
+[illuminate/pagination]: https://github.com/illuminate/pagination
+[sends a pull request]: https://github.com/laravel/framework/pull/4582
+
+_The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version._
+
+<iframe width="640" height="360" src="//www.youtube.com/embed/fRcA7Ui9ZpA" frameborder="0" allowfullscreen></iframe>
+
+As always, you can subscribe to [the channel](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded.
