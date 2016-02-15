@@ -18,7 +18,7 @@ The last chunk of this podcast ends with a discussion around CodeIgniter 3.0 sup
 
 Also, who has the best beard? Hint: it isn't Phil. 
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/FfVZ_Erl0DU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FfVZ_Erl0DU" frameborder="0" allowfullscreen></iframe>
 
 * [Api Blueprint](https://github.com/apiaryio/api-blueprint)
 * [Apiary](http://apiary.com/)

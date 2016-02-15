@@ -14,4 +14,4 @@ For some reason he accidentally read some /r/lolphp and got into an argument abo
 
 Ben and Phil then discuss the FIGs identity crisis before Phil goes off on another ramble about that. We'll cover that better on later episodes!
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/QVB_pG1wioc" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/QVB_pG1wioc" frameborder="0" allowfullscreen></iframe>

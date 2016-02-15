@@ -12,4 +12,4 @@ Listen to API pros [Amanda Folson](https://twitter.com/AmbassadorAwsum) and [Mik
 
 Phil ended up having a listen to this after the fact, and found it awesome! This episode is probably better for him not being there, as there are some opinions that didn't initially match his, but they're really interesting and make him reconsider a few things.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/7qIQkpSa9yI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/7qIQkpSa9yI" frameborder="0" allowfullscreen></iframe>

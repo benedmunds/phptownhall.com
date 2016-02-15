@@ -30,6 +30,6 @@ If you aren't following Jeff and Matt then definitely go and do that:
 
 _The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version._
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/HVuWqQdZ4lk" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HVuWqQdZ4lk" frameborder="0" allowfullscreen></iframe>
 
 As always, you can subscribe to [the channel](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded.

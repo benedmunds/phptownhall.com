@@ -19,4 +19,4 @@ We wont be putting the audio for this version online, because the conversation e
 
 Watch the video if you are interested in learning more about the idea of why weak and strict should be available in PHP, and we'll get back to being a podcast next episode.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/GTwbT7i9-Z4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/GTwbT7i9-Z4" frameborder="0" allowfullscreen></iframe>

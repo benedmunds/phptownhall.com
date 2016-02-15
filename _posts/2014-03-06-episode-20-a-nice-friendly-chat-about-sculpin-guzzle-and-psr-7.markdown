@@ -41,7 +41,7 @@ See, it all fits!
 
 So, plenty for you folks to watch here on the YouTube video!
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/neq7o8DG68k" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/neq7o8DG68k" frameborder="0" allowfullscreen></iframe>
 
 As always, you can subscribe to [the channel](http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded. 
 

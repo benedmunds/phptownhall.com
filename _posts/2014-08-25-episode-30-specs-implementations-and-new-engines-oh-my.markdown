@@ -16,4 +16,4 @@ We discuss the new PHP engine spec, various RFCs, and all things internals.  Als
 [Andrea Faulds]: https://twitter.com/AndreaFaulds
 [Levi Morrison]: https://twitter.com/morrisonlevi
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/qxvVEdpmTt8" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/qxvVEdpmTt8" frameborder="0" allowfullscreen></iframe>

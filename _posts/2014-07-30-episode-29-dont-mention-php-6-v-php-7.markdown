@@ -36,4 +36,4 @@ Anyway. Here are a few extra links.
 [Paul M. Jones]: https://twitter.com/pmjones
 [Daniel Lowrey]: https://twitter.com/rdlowrey
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/lRlpBZmaspI" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lRlpBZmaspI" frameborder="0" allowfullscreen></iframe>

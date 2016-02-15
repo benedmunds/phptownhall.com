@@ -12,7 +12,7 @@ Well known PHP/Laravel nice-guy [Jeffrey Way] from [NetTuts] and [Laracasts] joi
 discuss the wonderful world of Laravel once again. This time the discussion focuses on some of the silly complaints 
 people have with an otherwise wonderful system, and on the reusability of its packages.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/L6YEgfnHOpo" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/L6YEgfnHOpo" frameborder="0" allowfullscreen></iframe>
 
 * [Laracasts] - "Hi, I'm Jeffrey. What would you like to learn today?"
 * [Modernizing Legacy Applications In PHP](https://leanpub.com/mlaphp) - Get your PHP code under control in a series of small, specific steps

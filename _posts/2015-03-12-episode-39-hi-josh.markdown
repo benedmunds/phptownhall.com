@@ -19,4 +19,4 @@ Josh is involved in some great projects and interested in some new tools, which 
 
 We touch on a few topics, and really this one is just a fun fluid chat with a really relaxed guest.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/O0D6DvA4gIg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/O0D6DvA4gIg" frameborder="0" allowfullscreen></iframe>

@@ -19,4 +19,4 @@ The goal here is to open a few minds, and bring people to the table so a useful 
 
 We can make our community a better place, and Jenny has a few tips on how you can help with that goal.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/HTeIi8dLGMU" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/HTeIi8dLGMU" frameborder="0" allowfullscreen></iframe>

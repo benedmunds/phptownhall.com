@@ -15,7 +15,7 @@ Taylor was the first guest we ever had on PHP Town Hall talking about his plans 
 
 We also argue about Go and fight about Vagrant and Chef for a bit. 
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/ZPj48A98JDg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ZPj48A98JDg" frameborder="0" allowfullscreen></iframe>
 
 The Google Hangouts on Air hooked up with YouTube seem to be working out nicely so we'll be sticking with them. Subscribe to [the channel](http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded. 
 

@@ -20,6 +20,6 @@ So basically... THEY'RE SMARTER THAN YOU ARE SO LISTEN TO THEM DAMMIT!
 [PHPDBG]: https://wiki.php.net/rfc/phpdbg
 [HHVM]: http://www.hhvm.com/
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/ufnGydu58os" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/ufnGydu58os" frameborder="0" allowfullscreen></iframe>
 
 As always, you can subscribe to [the channel](http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded. 

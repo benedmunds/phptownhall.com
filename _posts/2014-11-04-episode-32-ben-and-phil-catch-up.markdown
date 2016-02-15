@@ -26,4 +26,4 @@ Since we don't have any cool tools to recommend this week you should buy our boo
 
 
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/W4z_YAJuxvg" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/W4z_YAJuxvg" frameborder="0" allowfullscreen></iframe>

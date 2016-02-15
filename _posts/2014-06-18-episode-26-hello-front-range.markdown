@@ -18,6 +18,6 @@ They ask us a bunch of questions about how we got started in PHP.
 
 The video provides great insight into what you lot look like when you're sat at a user group shoving pizza into your face, which we thought might be different for our viewers. That might also be a lie, and we accidentally left it on the wrong camera, but hey... there is a MP3 version too.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/9MEpiUu-E48" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/9MEpiUu-E48" frameborder="0" allowfullscreen></iframe>
 
 As always, you can subscribe to [the channel](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded.

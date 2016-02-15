@@ -23,6 +23,6 @@ Jacques will likely be speaking at [True North PHP](http://truenorthphp.ca/) lat
 
 Jordan will be speaking at [jQuery UK](http://jqueryuk.com/) in May and at [Dutch PHP](http://www.phpconference.nl/) in June.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/94wOO8P13wA" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/94wOO8P13wA" frameborder="0" allowfullscreen></iframe>
 
 As always, you can subscribe to [the channel](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded.

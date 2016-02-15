@@ -16,4 +16,4 @@ Vance works at [NetSuite](http://www.netsuite.org/) and has open-sourced a bunch
 
 We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil's recent blog post about how hard it is to be a famous PHP rockstar guru.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/tXfOQdYwADA" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/tXfOQdYwADA" frameborder="0" allowfullscreen></iframe>

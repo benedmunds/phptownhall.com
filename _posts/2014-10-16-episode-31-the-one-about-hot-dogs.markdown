@@ -32,4 +32,4 @@ Dossier - super secret stealth mode project for managing talk abstracts
 
 
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/nC3CKXjVx2I" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/nC3CKXjVx2I" frameborder="0" allowfullscreen></iframe>

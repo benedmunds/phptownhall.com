@@ -23,6 +23,6 @@ Ben promotes [DivShot](http://www.divshot.com/) and hasn't received any sponsors
 
 
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/61Q7a15KkmQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/61Q7a15KkmQ" frameborder="0" allowfullscreen></iframe>
 
 As always, you can subscribe to [the channel](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded.

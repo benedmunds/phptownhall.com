@@ -23,6 +23,6 @@ The topic this time around was that of APIs, and we were joined by an _all star_
 
 Watch this. It's hilarious.
 
-<iframe width="640" height="360" src="//www.youtube.com/embed/6XtOtFU7bY4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6XtOtFU7bY4" frameborder="0" allowfullscreen></iframe>
 
 Shownotes are lacking, because we clearly weren't writing anything down.
