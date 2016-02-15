@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PHP Town Hall</title>
+    <description>Town Hall is a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.</description>
+    <link>http://phptownhall.com/</link>
+    <atom:link href="http://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 Feb 2016 17:23:01 -0500</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2016 17:23:01 -0500</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 48: Code of Conduct</title>
+        <description>&lt;p&gt;User-group and meet-up organizer &lt;a href=&quot;https://twitter.com/miss_jwo&quot;&gt;Jenny Wong&lt;/a&gt; swings by for a chat about the &lt;a href=&quot;https://wiki.php.net/rfc/adopt-code-of-conduct&quot;&gt;PHP RFC for a Code of Conduct&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Whilst all three of us think a Code of Conduct is a good idea, we talk through some of the various for and against reasoning that people have, and try to outline the logical failures behind some of the FUD being spread around during this discussion.&lt;/p&gt;
+
+&lt;p&gt;We cover a few things, from the intent of a Code of Conduct, explain it’s reach is not as scary as many seem to think, outline a few things that a Code of Conduct does not try to do, and talk about some of the problems minorities have at conferences and online which could be simplified over time with a useful CoC.&lt;/p&gt;
+
+&lt;p&gt;This is one of our best episodes yet. Even if you hate Phil and think he’s turned into some sort of social justice warrior white knighting whatever, listen to this and see if the conversation is starting to make more sense to you.&lt;/p&gt;
+
+&lt;p&gt;The goal here is to open a few minds, and bring people to the table so a useful conversation can be had, instead of the usual reaction to Code of Conducts which is immediate screaming into the keyboard, mashing out wall-o-text’s about freedom of speech, and assuming people are only interested in inclusivity to impress women…&lt;/p&gt;
+
+&lt;p&gt;We can make our community a better place, and Jenny has a few tips on how you can help with that goal.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/HTeIi8dLGMU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2016 13:14:50 -0500</pubDate>
+        <link>http://phptownhall.com/episode-48-code-of-conduct/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-48-code-of-conduct/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 47: SunshinePHP Town Stack Hall Radio</title>
+        <description>&lt;p&gt;Another SunshinePHP, and another rotating panel of excellent guests talking about stuff like podcasting, making a bit of money on the side from projects like books and whatnot, and we get some folks on to cover the FIG Secretary positions, which will hopefully help the FIG solve their identity problems.&lt;/p&gt;
+
+&lt;p&gt;Oh and Ben Marks was definitely talking about Magento again.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/OpPnIwh_Q6w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2016 19:30:00 -0500</pubDate>
+        <link>http://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 46: Christmas Theraphpy</title>
+        <description>&lt;p&gt;Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about daft people are on the Internet.&lt;/p&gt;
+
+&lt;p&gt;For some reason he accidentally read some /r/lolphp and got into an argument about how they think that PHP 7 is purely a cosmetic change. This was a good excuse to re-emphisize what an awesome set of fundamental changes PHP 7 really was.&lt;/p&gt;
+
+&lt;p&gt;Ben and Phil then discuss the FIGs identity crisis before Phil goes off on another ramble about that. We’ll cover that better on later episodes!&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/QVB_pG1wioc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 27 Dec 2015 19:00:00 -0500</pubDate>
+        <link>http://phptownhall.com/episode-46-christmas-theraphpy/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-46-christmas-theraphpy/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 45: Live from PNWPHP</title>
+        <description>&lt;p&gt;Live from &lt;a href=&quot;http://pnwphp.com/&quot;&gt;PNWPHP ‘15&lt;/a&gt;, Ben and Phil are joined by guests &lt;a href=&quot;https://twitter.com/benmarks&quot;&gt;Ben Marks&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/coderabbi&quot;&gt;Yitzchok Willroth&lt;/a&gt; and later we are joined by returning guest &lt;a href=&quot;https://twitter.com/SaraMG&quot;&gt;Sara Golemon&lt;/a&gt; who popped in to talk about HHVM/Hack while Phil played waiter for the rest of the episode.&lt;/p&gt;
+
+&lt;p&gt;Ben talks about Magento and some of his conference traveling madness, as does Yitz, who got trapped in a hotel for a whole weekend due to some interesting combination of Jewish holidays and an argument over the interational date line in New Zealand. Phil also tells us all about his NZ speeding ticket, mowing down possums like it’s Carmageddon, and makes a few terrible jokes because &lt;a href=&quot;https://philsturgeon.uk/charity/2015/08/22/no-booze/&quot;&gt;he’s scarily sober&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/uva9K6aZ0Ho&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 12 Sep 2015 08:30:00 -0400</pubDate>
+        <link>http://phptownhall.com/episode-45-good-evening-seattle/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-45-good-evening-seattle/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 44: API Madness!</title>
+        <description>&lt;p&gt;Listen to API pros &lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/mikegstowe&quot;&gt;Mike Stowe&lt;/a&gt; talk about API versioning, RAML, and all sorts of interesting API stuff.&lt;/p&gt;
+
+&lt;p&gt;Phil ended up having a listen to this after the fact, and found it awesome! This episode is probably better for him not being there, as there are some opinions that didn’t initially match his, but they’re really interesting and make him reconsider a few things.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/7qIQkpSa9yI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Wed, 22 Jul 2015 08:30:00 -0400</pubDate>
+        <link>http://phptownhall.com/episode-44-api-madness/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-44-api-madness/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 43: Midnight Express</title>
+        <description>&lt;p&gt;Your two favourite PHP developers are joined this episode by &lt;a href=&quot;https://twitter.com/EmirKarsiyakali&quot;&gt;Emir Karşıyakalı&lt;/a&gt; off of &lt;a href=&quot;http://phpkonf.org/&quot;&gt;PHPKonf and IstanbulPHP&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Istanbul is not only a beautiful and awesome city, but it’s got a thriving PHP community too, who are currently hosting a whole bunch of PHP stars for their annual conference.&lt;/p&gt;
+
+&lt;p&gt;Once again we promised to get this up before the conference to advertise it, and we’re releasing this audio version the night before, but what can we say… we’re shit at this.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 11 Jun 2015 22:00:00 -0400</pubDate>
+        <link>http://phptownhall.com/episode-43-midnight-express/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-43-midnight-express/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 42: Paul and Vance</title>
+        <description>&lt;p&gt;After a little hiatus Phil and Ben back at it, joined this time by &lt;a href=&quot;https://twitter.com/dr4goonis&quot;&gt;Paul Dragoonis&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/vlucas&quot;&gt;Vance Lucas&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Paul does some fairly call stuff, manages the &lt;a href=&quot;http://www.ppi.io/&quot;&gt;PPI framework&lt;/a&gt; and contributes to building the actual &lt;a href=&quot;http://php.net/&quot;&gt;PHP.net website&lt;/a&gt;, the poor sod. Paul is also the winner in the “PHP developers from the UK who are hard to understand” contest two years running, only beating Phil to the title due to being slightly better at handling his booze.&lt;/p&gt;
+
+&lt;p&gt;Vance works at &lt;a href=&quot;http://www.netsuite.org/&quot;&gt;NetSuite&lt;/a&gt; and has open-sourced a bunch of code things, most notably &lt;a href=&quot;https://github.com/vlucas/phpdotenv&quot;&gt;phpdotenv&lt;/a&gt; and &lt;a href=&quot;https://github.com/vlucas/frisby&quot;&gt;frisby&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil’s recent blog post about how hard it is to be a famous PHP rockstar guru.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/tXfOQdYwADA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 22 May 2015 22:00:00 -0400</pubDate>
+        <link>http://phptownhall.com/episode-42-paul-and-vance/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-42-paul-and-vance/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 41: Loosely Town Hall - Dallas Edition</title>
+        <description>&lt;p&gt;This episode is brought to you from thunderstruck Dallas, as part of the awesome conference that is &lt;a href=&quot;http://lonestarphp.com&quot;&gt;Lone Star PHP&lt;/a&gt;. We are joined once again by the dynamic duo &lt;a href=&quot;https://twitter.com/jcarouth&quot;&gt;Jeff Carouth&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/shrtwhitebldguy&quot;&gt;Matt Frost&lt;/a&gt; off of the &lt;a href=&quot;http://looselycoupled.info/&quot;&gt;Loosely Coupled&lt;/a&gt; podcast!&lt;/p&gt;
+
+&lt;p&gt;We mostly make a bunch of bad jokes then drag up the audience to talk about stuff. Lets be honest, this was a bit of a crapshoot, but Elizabeth Smith goes into some detail on PECL and the problems of ownership. PSR-7 is chatted about for the 19th time and Jordi talks a bit about pickles.&lt;/p&gt;
+
+&lt;p&gt;Also, we debate “haytch” vs. “atch” as the correct pronunciation of the “H” in HTTP. Important stuff.&lt;/p&gt;
+
+&lt;p&gt;Audio only this time folks!&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 18 Apr 2015 21:30:00 -0400</pubDate>
+        <link>http://phptownhall.com/episode-41-loosely-town-hall-dallas/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-41-loosely-town-hall-dallas/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 40: Return of the Ferrara</title>
+        <description>&lt;p&gt;Regular guest &lt;a href=&quot;https://twitter.com/ircmaxell&quot;&gt;Anthony Ferrara&lt;/a&gt; joins us “in the studio” to talk about the new version of his &lt;a href=&quot;https://wiki.php.net/rfc/scalar_type_hints_v5&quot;&gt;scalar type hints&lt;/a&gt;, which since recording - a f**king month ago - has been accepted for PHP 7.&lt;/p&gt;
+
+&lt;p&gt;We thought it would be good to have a bit of a chat about the feature, the nonsense that surrounded it and a bunch of other random internals and PHP 7 related blathering.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/JF2t0Rc0zm8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+</description>
+        <pubDate>Fri, 20 Mar 2015 21:15:00 -0400</pubDate>
+        <link>http://phptownhall.com/episode-40-ferrara-scalar-type-hints/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-40-ferrara-scalar-type-hints/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 39: Hi Josh!</title>
+        <description>&lt;p&gt;Phil and Ben catch up with &lt;a href=&quot;https://twitter.com/codeguy&quot;&gt;Josh Lockhart&lt;/a&gt; who has been on the show a few times before.&lt;/p&gt;
+
+&lt;p&gt;Josh is involved in some great projects and interested in some new tools, which all kinda wind in together. PHP, FIG, League, etc.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://groups.google.com/forum/#!topic/php-fig/E3H6sUjonCk&quot;&gt;Josh joined the FIG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mwop.net/blog/2015-01-08-on-http-middleware-and-psr-7.html&quot;&gt;PSR-7&lt;/a&gt; which is gonna be used in Slim 3&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html&quot;&gt;New Stuff in Slim PHP 3.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/thephpleague/uploads&quot;&gt;The new league/uploads project&lt;/a&gt; - more info &lt;a href=&quot;https://groups.google.com/forum/#!searchin/thephpleague/uploads/thephpleague/pW4oapw9u-U/Ivv2EqGYLe4J&quot;&gt;on the League mailing list&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We touch on a few topics, and really this one is just a fun fluid chat with a really relaxed guest.&lt;/p&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;//www.youtube.com/embed/O0D6DvA4gIg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 12 Mar 2015 13:03:58 -0400</pubDate>
+        <link>http://phptownhall.com/episode-39-hi-josh/</link>
+        <guid isPermaLink="true">http://phptownhall.com/episode-39-hi-josh/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
