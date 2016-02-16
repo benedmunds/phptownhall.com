@@ -32,7 +32,7 @@ layout: null
       <title><![CDATA[{{ post.title | cdata_escape }}]]></title>
       <description><![CDATA[{{ post.content | expand_urls: site.url | cdata_escape }}]]></description>
       <link>{{ site.url }}{{ post.url }}</link>
-      <guid>{{ site.url }}{{ post.url }}</guid>
+      <guid>{% if post.filename < 47 %}http://phptownhall.com{{ post.date | date: "/blog/%Y/%m/%d" }}{{ post.url }}{% else %}{{ site.url }}{{ post.url }}{% endif %}</guid>
       <pubDate>{{ post.date | date_to_rss }}</pubDate>
       <itunes:author><![CDATA[{{ site.author | strip_html }}]]></itunes:author>
       <itunes:summary><![CDATA[{{ post.summary }}]]></itunes:summary>
