@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is a casual little podcast that Ben and Phil started doing in 2012. The
+This is a casual little podcast that [Ben](#ben-edmunds) and [Phil](#phil-sturgeon) started doing in 2012. The
 initial idea was to get a few guests on the show and ask them about "goings on"
 in the world of PHP.
 
