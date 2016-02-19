@@ -28,7 +28,7 @@ highlighter: pygments # default python pygments have been replaced by pygments.r
 gems:
   - jekyll-paginate
 
-paginate: 15
+paginate: 10
 paginate_path: "archive/:num"
 
 # ----------------------- #

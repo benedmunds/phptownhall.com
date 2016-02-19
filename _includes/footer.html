@@ -1,29 +1,15 @@
-<footer class="site-footer">
+<div class="site-footer">
+    <div class="container footer-container">
+        <ol class="breadcrumb">
+            {% for my_page in site.pages %}
+              {% if my_page.title %}
+              <li role="presentation">
+                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+        </ol>
 
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-3">
-        <p>You can find us on:</p>
-        <ul class="social-media-list">
-          {% if site.twitter_username %}
-          <li>
-          {% include icon-twitter.html %}
-          </li>
-          {% endif %}
-          {% if site.google_plus_username %}
-          <li>
-            {% include icon-google-plus.html %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-      <p>{{ site.description }}</p>
-      </div>
+        <p>&copy; PHP Town Hall 2012-2016. All Rights Reserved.</p>
     </div>
-
-  </div>
-
-</footer>
+</div>

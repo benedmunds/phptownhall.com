@@ -4,31 +4,62 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Episodes</h1>
+  <div class="row">
+    <div class="col-md-6">
 
-  <ul class="post-list">
-    {% for post in paginator.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h2 class="page-heading">Previous Episodes</h2>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+      <ul class="post-list">
+        {% for post in paginator.posts %}
+          <li>
+            <h3>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h3>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -
+            {{ post.excerpt | strip_html }}
+          </li>
+        {% endfor %}
+      </ul>
 
-        <p>{{ post.excerpt }}</p>
-      </li>
-    {% endfor %}
-  </ul>
+      <p class="pagination">
+          {% if paginator.next_page %}
+            <a class="prev" href="{{paginator.next_page_path}}">&larr; Older</a>
+          {% endif %}
+          {% if paginator.previous_page %}
+          <a class="next" href="{{paginator.previous_page_path}}">Newer &rarr;</a>
+          {% endif %}
+      </p>
+  </div>
+  <div class="col-md-6">
+      <div class="well feeds">
+          <h2>Want more PHP Town Hall?</h2>
+          <!-- We stole this code right off of phproundtable.com. Just like that vermouth -->
+          <p class="lead">Subscribe to the PHP Town Hall using your favorite podcast app.</p>
+          <div class="row">
+              <div class="col-sm-6">
+                  <a href="{{ "/itunes.rss" | prepend: site.baseurl }}" class="btn btn-info btn-lg btn-block" target="_blank"><i class="fa fa-music"></i> iTunes</a>
+              </div>
+              <div class="col-sm-6">
+                  <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="btn btn-warning btn-lg btn-block" target="_blank"><i class="fa fa-rss"></i> RSS Feed</a>
+              </div>
+          </div>
+      </div>
 
-  <p class="pagination">
-      {% if paginator.next_page %}
-        <a class="prev" href="{{paginator.next_page_path}}">&larr; Older</a>
-      {% endif %}
-      {% if paginator.previous_page %}
-      <a class="next" href="{{paginator.previous_page_path}}">Newer &rarr;</a>
-      {% endif %}
-  </p>
+      <div class="well signup">
+        <h2>Get notified of upcoming episodes</h2>
+        <p>Sometimes we actually plan these things more than a few hours ahead of time. On the off-chance we do, shove your email in here and get a reminder to come and watch it live!</p>
 
-  <p class="rss-subscribe">Want more PHP Town Hall? Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a> to get updates as videos come out, or <a href="{{ "/itunes.rss" | prepend: site.baseurl }}">shove this</a> into iTunes (or similar) to get audio-only updates.</p>
+        <form class="" role="form" action="//phptownhall.us12.list-manage.com/subscribe/post?u=4033a7dac6503f30b742391b4&amp;id=7baecd6807" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
+            <div class="input-group">
+                <label class="sr-only" for="mce-EMAIL">Email address</label>
+                <input type="email" name="EMAIL" class="form-control input-lg" id="mce-EMAIL" placeholder="Email Address">
+                <span class="input-group-btn">
+                    <button type="submit" class="btn btn-success btn-lg">Submit</button>
+                </span>
+            </div>
+            <div class="hidden"><input type="text" name="b_4033a7dac6503f30b742391b4_7baecd6807" tabindex="-1" value=""></div>
+        </form>
+    </div>
+  </div>
 
 </div>
