@@ -6,13 +6,12 @@ comments: true
 filename: 19
 bytes: 57033615
 duration: "00:59:25"
+youtube_id: L6YEgfnHOpo
 ---
 
 Well known PHP/Laravel nice-guy [Jeffrey Way] from [NetTuts] and [Laracasts] joins regular guest [Zack Kitzmiller] to
-discuss the wonderful world of Laravel once again. This time the discussion focuses on some of the silly complaints 
+discuss the wonderful world of Laravel once again. This time the discussion focuses on some of the silly complaints
 people have with an otherwise wonderful system, and on the reusability of its packages.
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/L6YEgfnHOpo" frameborder="0" allowfullscreen></iframe>
 
 * [Laracasts] - "Hi, I'm Jeffrey. What would you like to learn today?"
 * [Modernizing Legacy Applications In PHP](https://leanpub.com/mlaphp) - Get your PHP code under control in a series of small, specific steps
@@ -20,7 +19,6 @@ people have with an otherwise wonderful system, and on the reusability of its pa
 * [Illuminate] - The components that make up the Laravel PHP framework
 * [Laravel: Envoy](https://github.com/laravel/envoy) - Elegant SSH tasks for PHP
 
-As always, you can subscribe to [the channel](http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded. 
 
 [Jeffrey Way]: http://twitter.com/jeffrey_way
 [Zack Kitzmiller]: http://twitter.com/zackkitzmiller

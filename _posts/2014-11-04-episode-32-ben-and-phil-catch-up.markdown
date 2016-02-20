@@ -7,14 +7,13 @@ categories:
 filename: 32
 bytes: 60134703
 duration: "1:02:38"
+youtube_id: W4z_YAJuxvg
 ---
 
 This week [Ben] and [Phil] take some time to catch up on each others lives and let you listen in.  Ben doesn't remember how to code.  Phil is leaving PHP for Rails.  They're both moving again.
 
 [Ben]: https://twitter.com/benedmunds
 [Phil]: https://twitter.com/philsturgeon
-
-
 
 Since we don't have any cool tools to recommend this week you should buy our books to support the podcast:
 
@@ -23,7 +22,3 @@ Since we don't have any cool tools to recommend this week you should buy our boo
 [Build APIs You Won't Hate](https://leanpub.com/build-apis-you-wont-hate) - Phil Sturgeon
 
 [PHP APIs and Security Bundle](https://leanpub.com/b/philbensexcellentadventuresincodephpapisandsecuritybundle) - Bundle of both books together
-
-
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/W4z_YAJuxvg" frameborder="0" allowfullscreen></iframe>

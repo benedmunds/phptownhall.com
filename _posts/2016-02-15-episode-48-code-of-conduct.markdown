@@ -5,6 +5,7 @@ date: 2016-02-15T13:14:50-05:00
 filename:
 bytes:
 duration:
+youtube_id: HTeIi8dLGMU
 ---
 
 User-group and meet-up organizer [Jenny Wong](https://twitter.com/miss_jwo) swings by for a chat about the [PHP RFC for a Code of Conduct](https://wiki.php.net/rfc/adopt-code-of-conduct).
@@ -18,5 +19,3 @@ This is one of our best episodes yet. Even if you hate Phil and think he's turne
 The goal here is to open a few minds, and bring people to the table so a useful conversation can be had, instead of the usual reaction to Code of Conducts which is immediate screaming into the keyboard, mashing out wall-o-text's about freedom of speech, and assuming people are only interested in inclusivity to impress women...
 
 We can make our community a better place, and Jenny has a few tips on how you can help with that goal.
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HTeIi8dLGMU" frameborder="0" allowfullscreen></iframe>

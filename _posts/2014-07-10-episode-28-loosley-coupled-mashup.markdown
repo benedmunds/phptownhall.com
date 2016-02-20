@@ -6,6 +6,7 @@ comments: true
 filename: 28
 bytes: 109846386
 duration: "1:54:25"
+youtube_id: HVuWqQdZ4lk
 ---
 
 In this episode, Ben and Phil join forces with [Loosely Coupled] to talk about Open Source, burn out and briefly discuss their favorite open source projects. Jeff was out of action for a lot of it due to unexpected wifi troubles (in San Francisco of all places) so he sadly did not get to take part as much as he would have liked.
@@ -29,7 +30,3 @@ If you aren't following Jeff and Matt then definitely go and do that:
 [Loosely Coupled]: http://looselycoupled.info/
 
 _The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version._
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/HVuWqQdZ4lk" frameborder="0" allowfullscreen></iframe>
-
-As always, you can subscribe to [the channel](https://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded.

@@ -6,6 +6,7 @@ comments: true
 filename: 20
 bytes: 64906294
 duration: "01:03:35"
+youtube_id: neq7o8DG68k
 ---
 
 Trying out a slightly more professional format with questions, Phil manages to avoid talking over everyone. Winner!
@@ -40,10 +41,6 @@ See, it all fits!
 -- Edmund Zynda
 
 So, plenty for you folks to watch here on the YouTube video!
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/neq7o8DG68k" frameborder="0" allowfullscreen></iframe>
-
-As always, you can subscribe to [the channel](http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw?feature=watch) and follow us on [Twitter](https://twitter.com/phptownhall) for announcements about when new live shows will be recorded. 
 
 [PSR-7: HTTP Message]: https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md
 [Jeremy Lindblom]: https://twitter.com/jeremeamia

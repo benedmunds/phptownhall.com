@@ -6,6 +6,7 @@ comments: true
 filename: 29
 bytes: 76407979
 duration: "1:19:35"
+youtube_id: lRlpBZmaspI
 ---
 
 This week Ben and Phil are joined by long distance target shooter [Paul M. Jones] and the handsome man that is [Daniel Lowrey], to talk about a whole bunch of PHP relating things.
@@ -35,5 +36,3 @@ Anyway. Here are a few extra links.
 [Modernize Your Legacy PHP Application]: http://mlaphp.com
 [Paul M. Jones]: https://twitter.com/pmjones
 [Daniel Lowrey]: https://twitter.com/rdlowrey
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/lRlpBZmaspI" frameborder="0" allowfullscreen></iframe>

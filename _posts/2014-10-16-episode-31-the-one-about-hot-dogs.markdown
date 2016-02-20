@@ -7,6 +7,7 @@ categories:
 filename: 31
 bytes: 45280469
 duration: "0:47:10"
+youtube_id: nC3CKXjVx2I
 ---
 
 This week Ben and Phil are joined last minute by repeat guests [Kayla Daniels] and [Matt Frost].
@@ -29,7 +30,3 @@ Dossier - super secret stealth mode project for managing talk abstracts
 [SideSwell](http://sideswell.com/) - beautiful side project execution tool
 
 [Treehouse](http://teamtreehouse.com/) - learn to program yo
-
-
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/nC3CKXjVx2I" frameborder="0" allowfullscreen></iframe>

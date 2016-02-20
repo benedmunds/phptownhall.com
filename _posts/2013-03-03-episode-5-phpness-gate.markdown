@@ -3,7 +3,7 @@ layout: post
 title: "Episode 5: PHPness Gate, Sexism and Mental Illness"
 date: 2013-03-03 15:20
 comments: true
-categories: 
+categories:
 filename: 5
 bytes: 76370084
 duration: "1:19:33"

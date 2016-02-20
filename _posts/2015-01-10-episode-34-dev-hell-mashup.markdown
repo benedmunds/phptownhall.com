@@ -6,6 +6,7 @@ comments: true
 filename: 34
 bytes: 89408182
 duration: "1:33:20"
+youtube_id: FfVZ_Erl0DU
 ---
 
 This is a big one. We've had Chris "The Grumpy Programmer" Hartjes and Ed "The Grumpy Podcaster" Finkler on our show before, but this time they both join us for a mashup!
@@ -14,11 +15,9 @@ We talk about the perils of being opinionated people speaking in public. Chris b
 
 We move on to chatting about PHP, and how people feel about a strong new demand for more async features. Is it better to leave that to other tools, or should we try and fit some into the language itself, and the ecosystem around it?
 
-The last chunk of this podcast ends with a discussion around CodeIgniter 3.0 supporting PHP 5.2 and up. Should it be higher? Is it feckless to release like this? Should this be a documentation change to warn users away or a hard change to make it not even work there? 
+The last chunk of this podcast ends with a discussion around CodeIgniter 3.0 supporting PHP 5.2 and up. Should it be higher? Is it feckless to release like this? Should this be a documentation change to warn users away or a hard change to make it not even work there?
 
-Also, who has the best beard? Hint: it isn't Phil. 
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FfVZ_Erl0DU" frameborder="0" allowfullscreen></iframe>
+Also, who has the best beard? Hint: it isn't Phil.
 
 * [Api Blueprint](https://github.com/apiaryio/api-blueprint)
 * [Apiary](http://apiary.com/)

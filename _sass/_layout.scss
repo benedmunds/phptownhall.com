@@ -18,21 +18,30 @@
     }
 }
 
+.slogan {
+  color: $grey-color-light;
+  font-size: 15px;
+}
 @media (min-width: 768px) {
   .navbar-right {
-    margin: 20px 20px;
+    margin: 10px 20px;
   }
-
   .slogan {
-    color: $grey-color-light;
     clear: right;
-    font-size: 15px;
     text-align: right;
-    padding: 10px 10px;
+    margin: 30px 0 0;
   }
 }
+@media (min-width: 380px) {
+  .slogan {
+
+    margin: 30px 0 0;
+  }
+}
+
 .site-nav {
     float: right;
+    padding-right: 10px;
 
     .menu-icon {
         display: none;
@@ -47,55 +56,6 @@
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
             margin-right: 20px;
-        }
-    }
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 20px;
         }
     }
 }
