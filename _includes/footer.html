@@ -1,6 +1,9 @@
 <div class="site-footer">
     <div class="container footer-container">
         <ol class="breadcrumb">
+            <li role="presentation">
+              <a class="page-link" href="{{ site.baseurl }}">Home</a>
+            </li>
             {% for my_page in site.pages %}
               {% if my_page.title %}
               <li role="presentation">
