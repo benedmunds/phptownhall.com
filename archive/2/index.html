@@ -12,6 +12,10 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="https://phptownhall.com/archive/2/">
   <link rel="alternate" type="application/rss+xml" title="PHP Town Hall" href="https://phptownhall.com/feed.xml">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </head>
 
@@ -22,43 +26,48 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/">PHP Town Hall</a>
+    <div class="row podcast-header-top">
+        <div class="col-sm-5">
+            <a class="site-title" href="/"><img src="/img/logo.png" alt="PHP Town Hall"></a>
+        </div>
+        <div class="col-sm-7">
+            <p class="slogan">Town Hall is a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.</p>
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-      <div class="trigger">
-        
-          
-          <a class="page-link" href="/about/">About</a>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-          <a class="page-link" href="/merchandise/">Merchandise</a>
-          
-        
-          
-        
-          
-        
-          
-        
-      </div>
-    </nav>
+            <nav class="site-nav">
+              <ul class="nav nav-pills navbar-right">
+                
+                  
+                  <li role="presentation">
+                    <a class="page-link" href="/about/">About</a>
+                  </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                  <li role="presentation">
+                    <a class="page-link" href="/merchandise/">Merchandise</a>
+                  </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+              </ul>
+            </nav>
+        </div>
+    </div>
 
   </div>
 
@@ -69,244 +78,200 @@
       <div class="wrapper">
         <div class="home">
 
-  <h1 class="page-heading">Episodes</h1>
+  <div class="row">
+    <div class="col-md-6">
 
-  <ul class="post-list">
-    
-      <li>
-        <span class="post-meta">Nov 19, 2014</span>
+      <h2 class="page-heading">Previous Episodes</h2>
 
-        <h2>
-          <a class="post-link" href="/episode-33-cakes-monga-rfcs/">Episode 33: CakePHP, Monga and RFCs</a>
-        </h2>
+      <ul class="post-list">
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-38-scalar-type-hints-v03/">Episode 38: Weak, Strict or Go Home?</a>
+            </h3>
+            <span class="post-meta">Feb 10, 2015</span> -
+            With the vote for Strict Types in the balance, we have a chat with two core contributors about why they are for or against this RFC. On one side, Andrea Faulds, who wrote the RFC. On the other, Levi Morrison, who is responsible for one of PHP 7’s greatest features yet: return type hints.
 
-        <p><p>This episode we’re joined by two two top CakePHPers <a href="https://twitter.com/savant">Jose Diaz-Gonzalez</a> and
-<a href="https://twitter.com/_beakman">Bryan Crowe</a>.</p>
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Nov 4, 2014</span>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-37-round-hall-sunshine/">Episode 37: Sunshine Round-Hall? Town-Table?</a>
+            </h3>
+            <span class="post-meta">Feb 7, 2015</span> -
+            We all know that SunshinePHP is one of the PHP communities finest conferences. It attends an amazing group of people, wonderful speakers and Rasmus usually pops in for a drive-by-keynote.
 
-        <h2>
-          <a class="post-link" href="/episode-32-ben-and-phil-catch-up/">Episode 32: Ben and Phil Catch Up</a>
-        </h2>
 
-        <p><p>This week <a href="https://twitter.com/benedmunds">Ben</a> and <a href="https://twitter.com/philsturgeon">Phil</a> take some time to catch up on each others lives and let you listen in.  Ben doesn’t remember how to code.  Phil is leaving PHP for Rails.  They’re both moving again.</p>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-36-psr-7-the-world-of-tomorrow/">Episode 36: PSR-7 and The World of Tomorrow</a>
+            </h3>
+            <span class="post-meta">Feb 2, 2015</span> -
+            Two awesome guests join this week, from two different framework projects, both who have been very vocal about their interest in PSR-7: HTTP Message. These two chaps were Hari K T and Matthew Weier O’Phinney.
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Oct 16, 2014</span>
 
-        <h2>
-          <a class="post-link" href="/episode-31-the-one-about-hot-dogs/">Episode 31: The One about Hot Dogs</a>
-        </h2>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-35-developer-to-cto-and-back/">Episode 35: Developer to CTO and Back</a>
+            </h3>
+            <span class="post-meta">Jan 9, 2015</span> -
+            The grass is always greener on the other side, but we have a little talk with Gary Hockin and regular guest Jacques Woodcock about the pros and cons of going up and down the chain of command in the developer world. After all, it doesn’t just need to be a one-way street.﻿
 
-        <p><p>This week Ben and Phil are joined last minute by repeat guests <a href="https://twitter.com/kayladnls">Kayla Daniels</a> and <a href="https://twitter.com/shrtwhitebldguy">Matt Frost</a>.</p>
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Aug 25, 2014</span>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-34-dev-hell-mashup/">Episode 34: /dev/hell Mashup</a>
+            </h3>
+            <span class="post-meta">Jan 9, 2015</span> -
+            This is a big one. We’ve had Chris “The Grumpy Programmer” Hartjes and Ed “The Grumpy Podcaster” Finkler on our show before, but this time they both join us for a mashup!
 
-        <h2>
-          <a class="post-link" href="/episode-30-specs-implementations-and-new-engines-oh-my/">Episode 30: Specs, Implementations, and New Engines OH MY!</a>
-        </h2>
 
-        <p><p>This week Ben and Phil are joined by core PHP developer extraordinaires <a href="https://twitter.com/AndreaFaulds">Andrea Faulds</a> and <a href="https://twitter.com/morrisonlevi">Levi Morrison</a>.</p>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-33-cakes-monga-rfcs/">Episode 33: CakePHP, Monga and RFCs</a>
+            </h3>
+            <span class="post-meta">Nov 19, 2014</span> -
+            This episode we’re joined by two two top CakePHPers Jose Diaz-Gonzalez and
+Bryan Crowe.
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jul 30, 2014</span>
 
-        <h2>
-          <a class="post-link" href="/episode-29-dont-mention-php-6-v-php-7/">Episode 29: Dont Mention PHP 6 v PHP 7</a>
-        </h2>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-32-ben-and-phil-catch-up/">Episode 32: Ben and Phil Catch Up</a>
+            </h3>
+            <span class="post-meta">Nov 4, 2014</span> -
+            This week Ben and Phil take some time to catch up on each others lives and let you listen in.  Ben doesn’t remember how to code.  Phil is leaving PHP for Rails.  They’re both moving again.
 
-        <p><p>This week Ben and Phil are joined by long distance target shooter <a href="https://twitter.com/pmjones">Paul M. Jones</a> and the handsome man that is <a href="https://twitter.com/rdlowrey">Daniel Lowrey</a>, to talk about a whole bunch of PHP relating things.</p>
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jul 10, 2014</span>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-31-the-one-about-hot-dogs/">Episode 31: The One about Hot Dogs</a>
+            </h3>
+            <span class="post-meta">Oct 16, 2014</span> -
+            This week Ben and Phil are joined last minute by repeat guests Kayla Daniels and Matt Frost.
 
-        <h2>
-          <a class="post-link" href="/episode-28-loosley-coupled-mashup/">Episode 28: Loosley Coupled Mashup</a>
-        </h2>
 
-        <p><p>In this episode, Ben and Phil join forces with <a href="http://looselycoupled.info/">Loosely Coupled</a> to talk about Open Source, burn out and briefly discuss their favorite open source projects. Jeff was out of action for a lot of it due to unexpected wifi troubles (in San Francisco of all places) so he sadly did not get to take part as much as he would have liked.</p>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-30-specs-implementations-and-new-engines-oh-my/">Episode 30: Specs, Implementations, and New Engines OH MY!</a>
+            </h3>
+            <span class="post-meta">Aug 25, 2014</span> -
+            This week Ben and Phil are joined by core PHP developer extraordinaires Andrea Faulds and Levi Morrison.
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jun 29, 2014</span>
 
-        <h2>
-          <a class="post-link" href="/episode-27-foo/">Episode 27: Josh Lockhart and Jeremy Mikola</a>
-        </h2>
+          </li>
+        
+          <li>
+            <h3>
+              <a class="post-link" href="/episode-29-dont-mention-php-6-v-php-7/">Episode 29: Dont Mention PHP 6 v PHP 7</a>
+            </h3>
+            <span class="post-meta">Jul 30, 2014</span> -
+            This week Ben and Phil are joined by long distance target shooter Paul M. Jones and the handsome man that is Daniel Lowrey, to talk about a whole bunch of PHP relating things.
 
-        <p><p>This episode is a long one, but we are back to improved audio and the video is not just one dude eating pzza for an hour. <a href="http://twitter.com/codeguy">Josh Lockhart</a> of <a href="http://phptherightway.com">PHP The Right Way</a> and <a href="http://www.slimframework.com/">Slim</a> fame, and <a href="http://twitter.com/jmikola">Jeremy Mikola</a> who is well known for banging on about <a href="http://vimeo.com/89325708">clouds</a> and playing magic the gathering. Oh, he also works for MongoDB.</p>
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Jun 18, 2014</span>
+          </li>
+        
+      </ul>
 
-        <h2>
-          <a class="post-link" href="/episode-26-hello-front-range/">Episode 26: Hello Front Range!</a>
-        </h2>
+      <p class="pagination">
+          
+            <a class="prev" href="/archive/3">&larr; Older</a>
+          
+          
+          <a class="next" href="/index.html">Newer &rarr;</a>
+          
+      </p>
+  </div>
+  <div class="col-md-6">
+      <div class="well feeds">
+    <h2>Want more PHP Town Hall?</h2>
+    <!-- We stole this code right off of phproundtable.com. Just like that vermouth -->
+    <p class="lead">Subscribe to the PHP Town Hall using your favorite podcast app.</p>
+    <div class="row">
+        <div class="col-sm-6">
+            <a href="/itunes.rss" class="btn btn-info btn-lg btn-block" target="_blank"><i class="fa fa-music"></i> iTunes</a>
+        </div>
+        <div class="col-sm-6">
+            <a href="/feed.xml" class="btn btn-warning btn-lg btn-block" target="_blank"><i class="fa fa-rss"></i> RSS Feed</a>
+        </div>
+    </div>
+</div>
 
-        <p><p>The <a href="http://frontrangephp.org/">Front Range</a> PHP user-group joins the show as a live audience for the episode 26, in a new crazy bonus format which Phil thought might be fun. The idea of the episode is for people to generally pick our brain about PHP and code and tech and things. It kinda worked but the sound quality was terrible. Sorry about that folks.</p>
+<div class="well signup">
+  <h2>Get notified of upcoming episodes</h2>
+  <p>Sometimes we actually plan these things more than a few hours ahead of time. On the off-chance we do, shove your email in here and get a reminder to come and watch it live!</p>
 
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">May 28, 2014</span>
+  <form class="" role="form" action="//phptownhall.us12.list-manage.com/subscribe/post?u=4033a7dac6503f30b742391b4&amp;id=7baecd6807" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
+      <div class="input-group">
+          <label class="sr-only" for="mce-EMAIL">Email address</label>
+          <input type="email" name="EMAIL" class="form-control input-lg" id="mce-EMAIL" placeholder="Email Address">
+          <span class="input-group-btn">
+              <button type="submit" class="btn btn-success btn-lg">Submit</button>
+          </span>
+      </div>
+      <div class="hidden"><input type="text" name="b_4033a7dac6503f30b742391b4_7baecd6807" tabindex="-1" value=""></div>
+  </form>
+</div>
 
-        <h2>
-          <a class="post-link" href="/episode-25-girls-arent-any-different/">Episode 25: Girls Aren't Any Different</a>
-        </h2>
-
-        <p><p>Talking about feminism in tech is always difficult. This episode was quite a heated discussion with <a href="https://twitter.com/kayladnls">Kayla Daniels</a> and <a href="http://twitter.com/justjessdc">Jessica D’Amico</a> discussing their opinions about women-orientated groups such as <a href="http://phpwomen.org/">PHPWomen</a> and <a href="http://girlswhocode.com/">Girls Who Code</a>.</p>
-
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">May 14, 2014</span>
-
-        <h2>
-          <a class="post-link" href="/episode-24-but-is-it-web-scale/">Episode 24: But is it Web Scale?</a>
-        </h2>
-
-        <p><p>This week <a href="http://benedmunds.com">Ben Edmunds</a> calls in from Portland and <a href="http://philsturgeon.co.uk">Phil Sturgeon</a> calls in from THE FUTURE.  They are joined by <a href="http://stevecorona.com/">Steve Corona</a> to discuss <a href="https://www.scalingphpbook.com/">Scaling PHP</a>.</p>
-
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Apr 10, 2014</span>
-
-        <h2>
-          <a class="post-link" href="/virtphp-managing-your-herd-of-php-versions/">Episode 23: VirtPHP - Managing your Herd of ElePHPants</a>
-        </h2>
-
-        <p><p>This week <a href="http://benedmunds.com">Ben Edmunds</a> and <a href="http://philsturgeon.co.uk">Phil Sturgeon</a> are joined by <a href="https://twitter.com/jacques_thekit">Jacques Woodcock</a> and <a href="https://twitter.com/jakerella">Jordan Kasper</a> to discuss <a href="http://virtphp.org/">virtPHP</a>.</p>
-
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Mar 26, 2014</span>
-
-        <h2>
-          <a class="post-link" href="/episode-22-the-great-joomla-license-battle-of-2014/">Episode 22: The Great Joomla! License Battle of 2014</a>
-        </h2>
-
-        <p><p>This week <a href="https://twitter.com/benedmunds">Ben Edmunds</a> is joined by new guest <a href="https://twitter.com/davidstanley01">David Stanley</a> and recurring guest <a href="https://twitter.com/dilbert4life">Don Gilbert</a> to discuss the latest <a href="http://forum.joomla.org/viewtopic.php?f=704&amp;t=836361&amp;sid=42e55238e2fe91f582af1b69440d219b">Joomla! framework licensing drama</a>.  Phil was too busy having a real world life to join us this week, boo!</p>
-
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Mar 14, 2014</span>
-
-        <h2>
-          <a class="post-link" href="/episode-21-attack-of-the-brazilians/">Episode 21: Attack of the Brazilians</a>
-        </h2>
-
-        <p><p>This week author of “<a href="https://leanpub.com/vagrantcookbook">Vagrant CookBook</a>” <a href="https://twitter.com/erikaheidi">Érika Heidi</a> and serial usergroup creator <a href="https://twitter.com/rdohms">Rafael Dohms</a> join the show to 
-talk about… well, all of that. Two Brazilian PHP developers now living in Amsterdam, tell their stories and talk 
-about what they do.</p>
-
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Mar 6, 2014</span>
-
-        <h2>
-          <a class="post-link" href="/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/">Episode 20: A nice friendly chat about Sculpin, Guzzle and PSR-7</a>
-        </h2>
-
-        <p><p>Trying out a slightly more professional format with questions, Phil manages to avoid talking over everyone. Winner!</p>
-
-</p>
-      </li>
-    
-      <li>
-        <span class="post-meta">Feb 15, 2014</span>
-
-        <h2>
-          <a class="post-link" href="/episode-19-jeffrey-laracasts-bdfls/">Episode 19: Jeffrey Way, Laracasts and BDFLs</a>
-        </h2>
-
-        <p><p>Well known PHP/Laravel nice-guy <a href="http://twitter.com/jeffrey_way">Jeffrey Way</a> from <a href="http://nettuts.com">NetTuts</a> and <a href="https://laracasts.com/">Laracasts</a> joins regular guest <a href="http://twitter.com/zackkitzmiller">Zack Kitzmiller</a> to
-discuss the wonderful world of Laravel once again. This time the discussion focuses on some of the silly complaints 
-people have with an otherwise wonderful system, and on the reusability of its packages.</p>
-
-</p>
-      </li>
-    
-  </ul>
-
-  <p class="pagination">
-      
-        <a class="prev" href="/archive/3">&larr; Older</a>
-      
-      
-      <a class="next" href="/index.html">Newer &rarr;</a>
-      
-  </p>
-
-  <p class="rss-subscribe">Want more PHP Town Hall? Subscribe <a href="/feed.xml">via RSS</a> to get updates as videos come out, or <a href="/itunes.rss">shove this</a> into iTunes (or similar) to get audio-only updates.</p>
+  </div>
 
 </div>
 
       </div>
     </div>
 
-    <footer class="site-footer">
+    <div class="site-footer">
+    <div class="container footer-container">
+        <ol class="breadcrumb">
+            
+              
+              <li role="presentation">
+                <a class="page-link" href="/about/">About</a>
+              </li>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+              <li role="presentation">
+                <a class="page-link" href="/merchandise/">Merchandise</a>
+              </li>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+        </ol>
 
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-3">
-        <p>You can find us on:</p>
-        <ul class="social-media-list">
-          
-          <li>
-          <a href="https://twitter.com/"><i class="fa fa-twitter"></i>Twitter</span></a>
-
-          </li>
-          
-          
-          <li>
-            <a href="https://plus.google.com/+"><i class="fa fa-google-plus"></i>Google Plus</span></a>
-
-          </li>
-          
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-      <p>Town Hall is a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.</p>
-      </div>
+        <p>&copy; PHP Town Hall 2012-2016. All Rights Reserved.</p>
     </div>
-
-  </div>
-
-</footer>
+</div>
 
 
   </body>

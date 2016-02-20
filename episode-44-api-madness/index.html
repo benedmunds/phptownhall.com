@@ -12,6 +12,10 @@
   <link rel="stylesheet" href="/css/main.css">
   <link rel="canonical" href="https://phptownhall.com/episode-44-api-madness/">
   <link rel="alternate" type="application/rss+xml" title="PHP Town Hall" href="https://phptownhall.com/feed.xml">
+
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 </head>
 
@@ -22,43 +26,48 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="/">PHP Town Hall</a>
+    <div class="row podcast-header-top">
+        <div class="col-sm-5">
+            <a class="site-title" href="/"><img src="/img/logo.png" alt="PHP Town Hall"></a>
+        </div>
+        <div class="col-sm-7">
+            <p class="slogan">Town Hall is a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.</p>
 
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-      <div class="trigger">
-        
-          
-          <a class="page-link" href="/about/">About</a>
-          
-        
-          
-        
-          
-        
-          
-        
-          
-        
-          
-          <a class="page-link" href="/merchandise/">Merchandise</a>
-          
-        
-          
-        
-          
-        
-          
-        
-      </div>
-    </nav>
+            <nav class="site-nav">
+              <ul class="nav nav-pills navbar-right">
+                
+                  
+                  <li role="presentation">
+                    <a class="page-link" href="/about/">About</a>
+                  </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                  <li role="presentation">
+                    <a class="page-link" href="/merchandise/">Merchandise</a>
+                  </li>
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+                  
+                
+              </ul>
+            </nav>
+        </div>
+    </div>
 
   </div>
 
@@ -74,16 +83,19 @@
     <p class="post-meta"><time datetime="2015-07-22T08:30:00-04:00" itemprop="datePublished">Jul 22, 2015</time></p>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
-    <p>Listen to API pros <a href="https://twitter.com/AmbassadorAwsum">Amanda Folson</a> and <a href="https://twitter.com/mikegstowe">Mike Stowe</a> talk about API versioning, RAML, and all sorts of interesting API stuff.</p>
+  <div class="col-md-6">
+      <div class="post-content" itemprop="articleBody">
+        <p>Listen to API pros <a href="https://twitter.com/AmbassadorAwsum">Amanda Folson</a> and <a href="https://twitter.com/mikegstowe">Mike Stowe</a> talk about API versioning, RAML, and all sorts of interesting API stuff.</p>
 
 <p>Phil ended up having a listen to this after the fact, and found it awesome! This episode is probably better for him not being there, as there are some opinions that didn’t initially match his, but they’re really interesting and make him reconsider a few things.</p>
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/7qIQkpSa9yI" frameborder="0" allowfullscreen=""></iframe>
+      </div>
 
-  </div>
+      
+<iframe width="480" height="240" src="https://www.youtube.com/embed/7qIQkpSa9yI" frameborder="0" allowfullscreen></iframe>
 
-  
+
+      
 
     <p><em>If you want to listen to the audio version (which might have actually been edited a bit and have better sound quality) then subscribe to our <a href="pcast://feeds.feedburner.com/phptownhall/drDl">podcast RSS feed</a> in iTunes or whichever podcast app you use.</em></p>
 
@@ -98,43 +110,81 @@
 
 
 
+  </div>
+  <div class="col-md-6">
+      <div class="well feeds">
+    <h2>Want more PHP Town Hall?</h2>
+    <!-- We stole this code right off of phproundtable.com. Just like that vermouth -->
+    <p class="lead">Subscribe to the PHP Town Hall using your favorite podcast app.</p>
+    <div class="row">
+        <div class="col-sm-6">
+            <a href="/itunes.rss" class="btn btn-info btn-lg btn-block" target="_blank"><i class="fa fa-music"></i> iTunes</a>
+        </div>
+        <div class="col-sm-6">
+            <a href="/feed.xml" class="btn btn-warning btn-lg btn-block" target="_blank"><i class="fa fa-rss"></i> RSS Feed</a>
+        </div>
+    </div>
+</div>
 
+<div class="well signup">
+  <h2>Get notified of upcoming episodes</h2>
+  <p>Sometimes we actually plan these things more than a few hours ahead of time. On the off-chance we do, shove your email in here and get a reminder to come and watch it live!</p>
+
+  <form class="" role="form" action="//phptownhall.us12.list-manage.com/subscribe/post?u=4033a7dac6503f30b742391b4&amp;id=7baecd6807" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form">
+      <div class="input-group">
+          <label class="sr-only" for="mce-EMAIL">Email address</label>
+          <input type="email" name="EMAIL" class="form-control input-lg" id="mce-EMAIL" placeholder="Email Address">
+          <span class="input-group-btn">
+              <button type="submit" class="btn btn-success btn-lg">Submit</button>
+          </span>
+      </div>
+      <div class="hidden"><input type="text" name="b_4033a7dac6503f30b742391b4_7baecd6807" tabindex="-1" value=""></div>
+  </form>
+</div>
+
+  </div>
 </article>
 
       </div>
     </div>
 
-    <footer class="site-footer">
+    <div class="site-footer">
+    <div class="container footer-container">
+        <ol class="breadcrumb">
+            
+              
+              <li role="presentation">
+                <a class="page-link" href="/about/">About</a>
+              </li>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+              
+              <li role="presentation">
+                <a class="page-link" href="/merchandise/">Merchandise</a>
+              </li>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+            
+        </ol>
 
-  <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-3">
-        <p>You can find us on:</p>
-        <ul class="social-media-list">
-          
-          <li>
-          <a href="https://twitter.com/"><i class="fa fa-twitter"></i>Twitter</span></a>
-
-          </li>
-          
-          
-          <li>
-            <a href="https://plus.google.com/+"><i class="fa fa-google-plus"></i>Google Plus</span></a>
-
-          </li>
-          
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-      <p>Town Hall is a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.</p>
-      </div>
+        <p>&copy; PHP Town Hall 2012-2016. All Rights Reserved.</p>
     </div>
-
-  </div>
-
-</footer>
+</div>
 
 
   </body>
