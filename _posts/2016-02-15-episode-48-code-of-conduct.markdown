@@ -2,9 +2,9 @@
 layout: post
 title: "Episode 48: Code of Conduct"
 date: 2016-02-15T13:14:50-05:00
-filename:
-bytes:
-duration:
+filename: 48
+bytes: 89605762
+duration: 1:33:19
 youtube_id: HTeIi8dLGMU
 ---
 
