@@ -5,8 +5,8 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil&#39;s turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2016 14:59:17 +0100</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 14:59:17 +0100</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2016 15:01:51 +0100</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 15:01:51 +0100</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,7 +27,7 @@
   &lt;li&gt;&lt;a href=&quot;http://equip.github.io/&quot;&gt;Equip&lt;/a&gt; - Equip is a tiny and powerful PHP micro-framework created and maintained by the engineering team at &lt;a href=&quot;http://wheniwork.com/&quot;&gt;When I Work&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 16 Mar 2016 23:00:00 +0000</pubDate>
+        <pubDate>Tue, 28 Jun 2016 01:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
         
@@ -91,7 +91,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
     
       <item>
         <title>Episode 46: Christmas Theraphpy</title>
-        <description>&lt;p&gt;Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about daft people are on the Internet.&lt;/p&gt;
+        <description>&lt;p&gt;Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about how daft some people are on the Internet.&lt;/p&gt;
 
 &lt;p&gt;For some reason he accidentally read some /r/lolphp and got into an argument about how they think that PHP 7 is purely a cosmetic change. This was a good excuse to re-emphisize what an awesome set of fundamental changes PHP 7 really was.&lt;/p&gt;
 
