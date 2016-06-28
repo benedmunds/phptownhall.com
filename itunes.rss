@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title><![CDATA[PHP Town Hall]]></title>
+    <link>https://phptownhall.com</link>
+    <language>en-us</language>
+    <copyright><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></copyright>
+
+    <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+    <itunes:subtitle><![CDATA[Ben, Phil and a super-star guest answer questions and talk about current events in the PHP world.]]></itunes:subtitle>
+    <description><![CDATA[A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.]]></description>
+    <itunes:explicit>no</itunes:explicit>
+
+    <itunes:owner>
+      <itunes:name>Phil Sturgeon</itunes:name>
+      <itunes:email>me@philsturgeon.uk</itunes:email>
+    </itunes:owner>
+
+    <itunes:image href="http://s3.amazonaws.com/phptownhall/logo.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+
+    <itunes:new-feed-url>http://feeds.feedburner.com/phptownhall/drDl</itunes:new-feed-url>
+
+    
+      
+    <item>
+      <title><![CDATA[Episode 50: Low down on PSR-15]]></title>
+      <description><![CDATA[<p>An all star cast this episode, as Ben and Phil are joined by regular guest <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> - thinker of good ideas and long-time part-time side-line contributor to the PHP-FIG, <a href="https://twitter.com/shadowhand">Woody Gilk</a> - one-speed rider &amp; BDFL of Kohana, and
+<a href="https://twitter.com/beausimensen">Beau Simensen</a> - author of a bunch of stuff including <a href="http://stackphp.com/">StackPHP</a>.</p>
+
+<p>Here we’re talking about some awesome stuff the PHP-FIG is working on: PSR-15 (HTTP Middleware). This PSR is in Draft mode, and is potentially not as well known about as some others. There was a bit of a cuffufle getting it started as before it had even passed an entrance vote there were alternatives and rewrites suggested, but now the major players are on the same page and things are moving forward.</p>
+
+<p>We discuss all this, and the reason PSR-7 (HTTP Message) is not enough for the ecosystem to benefit from shareable middleware. Jumping away from PSR-15 for a second there is an interesting bit of insight into why the PHP-FIG didn’t just slap a “PSR” sticker on Symfony’s HTTP Kernel or HTTP Foundation.</p>
+
+<p>Woody provides a bit of the decision-making process in a very tricky aspect of the FIGs job, which is: should standards be built entirely to match existing implementations, or should standards try to improve on the learnings of the existing implementations to better them all as implementations change to support the standard. It’s all a bit chicken and egg, but a very worthy discussion to have.</p>
+
+<ul>
+  <li><a href="http://blog.ircmaxell.com/2016/05/all-about-middleware.html">All About Middleware</a> - Anthony posts about PHP HTTP Middleware</li>
+  <li><a href="https://philsturgeon.uk/php/2016/05/31/why-care-about-php-middleware/">Why Care About PHP Middleware?</a> - Summary of the initial Anthony vs Woody approaches and background on the HTTP middleware concept</li>
+  <li><a href="http://stackphp.com/">StackPHP</a> - Composing HttpKernelInterface middlewares since 2013!</li>
+  <li><a href="http://equip.github.io/">Equip</a> - Equip is a tiny and powerful PHP micro-framework created and maintained by the engineering team at <a href="http://wheniwork.com/">When I Work</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
+      <guid>https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
+      <pubDate>2016-03-16 23:00:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration></itunes:duration>
+      <enclosure url="http://download.phptownhall.com/50.mp3" type="audio/mp3" length="" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 49: Async and Stuff]]></title>
+      <description><![CDATA[<p>The notes for this episode were lost when Phil spilt some really hipster orange juice over his
+laptop and bricked the whole thing. We do remember that returning guest <a href="https://twitter.com/boden_c">Chris Boden</a> and <a href="https://twitter.com/assertchris">Chris Pitt</a> swing by to talk async in PHP.</p>
+
+<p>In a future episode we’ll probably talk about data backup strategies.</p>
+
+<ul>
+  <li><a href="https://philsturgeon.uk/php/2013/11/12/benchmarking-codswallop-nodejs-v-php/">Benchmarking Codswallop: NodeJS vs PHP</a> - An oldie but a goody, why NodeJS isn’t magically better at async than PHP</li>
+  <li><a href="http://socketo.me/">Ratchet</a> - WebSockets for PHP</li>
+  <li><a href="https://medium.com/async-php/a-case-for-async-php-f33e5e31ebba">A Case for Async PHP</a> - Chris Pitt wrote about this stuff on Medium</li>
+  <li><a href="https://icicle.io/">icicle.io</a> - Write asynchronous code using synchronous coding techniques in PHP</li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-49-async/</link>
+      <guid>https://phptownhall.com/episode-49-async/</guid>
+      <pubDate>2016-03-16 23:00:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration></itunes:duration>
+      <enclosure url="http://download.phptownhall.com/49.mp3" type="audio/mp3" length="" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 48: Code of Conduct]]></title>
+      <description><![CDATA[<p>User-group and meet-up organizer <a href="https://twitter.com/miss_jwo">Jenny Wong</a> swings by for a chat about the <a href="https://wiki.php.net/rfc/adopt-code-of-conduct">PHP RFC for a Code of Conduct</a>.</p>
+
+<p>Whilst all three of us think a Code of Conduct is a good idea, we talk through some of the various for and against reasoning that people have, and try to outline the logical failures behind some of the FUD being spread around during this discussion.</p>
+
+<p>We cover a few things, from the intent of a Code of Conduct, explain it’s reach is not as scary as many seem to think, outline a few things that a Code of Conduct does not try to do, and talk about some of the problems minorities have at conferences and online which could be simplified over time with a useful CoC.</p>
+
+<p>This is one of our best episodes yet. Even if you hate Phil and think he’s turned into some sort of social justice warrior white knighting whatever, listen to this and see if the conversation is starting to make more sense to you.</p>
+
+<p>The goal here is to open a few minds, and bring people to the table so a useful conversation can be had, instead of the usual reaction to Code of Conducts which is immediate screaming into the keyboard, mashing out wall-o-text’s about freedom of speech, and assuming people are only interested in inclusivity to impress women…</p>
+
+<p>We can make our community a better place, and Jenny has a few tips on how you can help with that goal.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-48-code-of-conduct/</link>
+      <guid>https://phptownhall.com/episode-48-code-of-conduct/</guid>
+      <pubDate>2016-02-15 18:14:50 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>5599.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/48.mp3" type="audio/mp3" length="89605762" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 47: SunshinePHP Town Stack Hall Radio]]></title>
+      <description><![CDATA[<p>Another SunshinePHP, and another rotating panel of excellent guests talking about stuff like podcasting, making a bit of money on the side from projects like books and whatnot, and we get some folks on to cover the FIG Secretary positions, which will hopefully help the FIG solve their identity problems.</p>
+
+<p>Oh and Ben Marks was definitely talking about Magento again.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</link>
+      <guid>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</guid>
+      <pubDate>2016-02-07 00:30:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3836.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/47.mp3" type="audio/mp3" length="61402223" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 46: Christmas Theraphpy]]></title>
+      <description><![CDATA[<p>Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about daft people are on the Internet.</p>
+
+<p>For some reason he accidentally read some /r/lolphp and got into an argument about how they think that PHP 7 is purely a cosmetic change. This was a good excuse to re-emphisize what an awesome set of fundamental changes PHP 7 really was.</p>
+
+<p>Ben and Phil then discuss the FIGs identity crisis before Phil goes off on another ramble about that. We’ll cover that better on later episodes!</p>
+]]></description>
+      <link>https://phptownhall.com/episode-46-christmas-theraphpy/</link>
+      <guid>http://phptownhall.com/blog/2015/12/28/episode-46-christmas-theraphpy/</guid>
+      <pubDate>2015-12-28 00:00:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>4250.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/46.mp3" type="audio/mp3" length="67848150" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 45: Live from PNWPHP]]></title>
+      <description><![CDATA[<p>Live from <a href="http://pnwphp.com/">PNWPHP ‘15</a>, Ben and Phil are joined by guests <a href="https://twitter.com/benmarks">Ben Marks</a>, <a href="https://twitter.com/coderabbi">Yitzchok Willroth</a> and later we are joined by returning guest <a href="https://twitter.com/SaraMG">Sara Golemon</a> who popped in to talk about HHVM/Hack while Phil played waiter for the rest of the episode.</p>
+
+<p>Ben talks about Magento and some of his conference traveling madness, as does Yitz, who got trapped in a hotel for a whole weekend due to some interesting combination of Jewish holidays and an argument over the interational date line in New Zealand. Phil also tells us all about his NZ speeding ticket, mowing down possums like it’s Carmageddon, and makes a few terrible jokes because <a href="https://philsturgeon.uk/charity/2015/08/22/no-booze/">he’s scarily sober</a>.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-45-good-evening-seattle/</link>
+      <guid>http://phptownhall.com/blog/2015/09/12/episode-45-good-evening-seattle/</guid>
+      <pubDate>2015-09-12 13:30:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3019.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/45.mp3" type="audio/mp3" length="48325014" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 44: API Madness!]]></title>
+      <description><![CDATA[<p>Listen to API pros <a href="https://twitter.com/AmbassadorAwsum">Amanda Folson</a> and <a href="https://twitter.com/mikegstowe">Mike Stowe</a> talk about API versioning, RAML, and all sorts of interesting API stuff.</p>
+
+<p>Phil ended up having a listen to this after the fact, and found it awesome! This episode is probably better for him not being there, as there are some opinions that didn’t initially match his, but they’re really interesting and make him reconsider a few things.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-44-api-madness/</link>
+      <guid>http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/</guid>
+      <pubDate>2015-07-22 13:30:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3769.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/44.mp3" type="audio/mp3" length="60327713" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 43: Midnight Express]]></title>
+      <description><![CDATA[<p>Your two favourite PHP developers are joined this episode by <a href="https://twitter.com/EmirKarsiyakali">Emir Karşıyakalı</a> off of <a href="http://phpkonf.org/">PHPKonf and IstanbulPHP</a>.</p>
+
+<p>Istanbul is not only a beautiful and awesome city, but it’s got a thriving PHP community too, who are currently hosting a whole bunch of PHP stars for their annual conference.</p>
+
+<p>Once again we promised to get this up before the conference to advertise it, and we’re releasing this audio version the night before, but what can we say… we’re shit at this.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-43-midnight-express/</link>
+      <guid>http://phptownhall.com/blog/2015/06/12/episode-43-midnight-express/</guid>
+      <pubDate>2015-06-12 03:00:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1403.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/43.mp3" type="audio/mp3" length="22452467" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 42: Paul and Vance]]></title>
+      <description><![CDATA[<p>After a little hiatus Phil and Ben back at it, joined this time by <a href="https://twitter.com/dr4goonis">Paul Dragoonis</a> and <a href="https://twitter.com/vlucas">Vance Lucas</a>.</p>
+
+<p>Paul does some fairly call stuff, manages the <a href="http://www.ppi.io/">PPI framework</a> and contributes to building the actual <a href="http://php.net/">PHP.net website</a>, the poor sod. Paul is also the winner in the “PHP developers from the UK who are hard to understand” contest two years running, only beating Phil to the title due to being slightly better at handling his booze.</p>
+
+<p>Vance works at <a href="http://www.netsuite.org/">NetSuite</a> and has open-sourced a bunch of code things, most notably <a href="https://github.com/vlucas/phpdotenv">phpdotenv</a> and <a href="https://github.com/vlucas/frisby">frisby</a>.</p>
+
+<p>We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil’s recent blog post about how hard it is to be a famous PHP rockstar guru.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-42-paul-and-vance/</link>
+      <guid>http://phptownhall.com/blog/2015/05/23/episode-42-paul-and-vance/</guid>
+      <pubDate>2015-05-23 03:00:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3891.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/42.mp3" type="audio/mp3" length="62265573" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 41: Loosely Town Hall - Dallas Edition]]></title>
+      <description><![CDATA[<p>This episode is brought to you from thunderstruck Dallas, as part of the awesome conference that is <a href="http://lonestarphp.com">Lone Star PHP</a>. We are joined once again by the dynamic duo <a href="https://twitter.com/jcarouth">Jeff Carouth</a> and <a href="https://twitter.com/shrtwhitebldguy">Matt Frost</a> off of the <a href="http://looselycoupled.info/">Loosely Coupled</a> podcast!</p>
+
+<p>We mostly make a bunch of bad jokes then drag up the audience to talk about stuff. Lets be honest, this was a bit of a crapshoot, but Elizabeth Smith goes into some detail on PECL and the problems of ownership. PSR-7 is chatted about for the 19th time and Jordi talks a bit about pickles.</p>
+
+<p>Also, we debate “haytch” vs. “atch” as the correct pronunciation of the “H” in HTTP. Important stuff.</p>
+
+<p>Audio only this time folks!</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-41-loosely-town-hall-dallas/</link>
+      <guid>http://phptownhall.com/blog/2015/04/19/episode-41-loosely-town-hall-dallas/</guid>
+      <pubDate>2015-04-19 02:30:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3939.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/41.mp3" type="audio/mp3" length="63021138" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 40: Return of the Ferrara]]></title>
+      <description><![CDATA[<p>Regular guest <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> joins us “in the studio” to talk about the new version of his <a href="https://wiki.php.net/rfc/scalar_type_hints_v5">scalar type hints</a>, which since recording - a f**king month ago - has been accepted for PHP 7.</p>
+
+<p>We thought it would be good to have a bit of a chat about the feature, the nonsense that surrounded it and a bunch of other random internals and PHP 7 related blathering.</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-40-ferrara-scalar-type-hints/</link>
+      <guid>http://phptownhall.com/blog/2015/03/21/episode-40-ferrara-scalar-type-hints/</guid>
+      <pubDate>2015-03-21 01:15:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>5073.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/40.mp3" type="audio/mp3" length="81168926" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 39: Hi Josh!]]></title>
+      <description><![CDATA[<p>Phil and Ben catch up with <a href="https://twitter.com/codeguy">Josh Lockhart</a> who has been on the show a few times before.</p>
+
+<p>Josh is involved in some great projects and interested in some new tools, which all kinda wind in together. PHP, FIG, League, etc.</p>
+
+<ul>
+  <li><a href="https://groups.google.com/forum/#!topic/php-fig/E3H6sUjonCk">Josh joined the FIG</a></li>
+  <li><a href="https://mwop.net/blog/2015-01-08-on-http-middleware-and-psr-7.html">PSR-7</a> which is gonna be used in Slim 3</li>
+  <li><a href="http://www.slimframework.com/2015/02/11/whats-up-with-version-3.html">New Stuff in Slim PHP 3.0</a></li>
+  <li><a href="https://github.com/thephpleague/uploads">The new league/uploads project</a> - more info <a href="https://groups.google.com/forum/#!searchin/thephpleague/uploads/thephpleague/pW4oapw9u-U/Ivv2EqGYLe4J">on the League mailing list</a></li>
+</ul>
+
+<p>We touch on a few topics, and really this one is just a fun fluid chat with a really relaxed guest.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-39-hi-josh/</link>
+      <guid>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh/</guid>
+      <pubDate>2015-03-12 17:03:58 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3249.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/39.mp3" type="audio/mp3" length="51992867" />
+    </item>
+      
+    
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 37: Sunshine Round-Hall? Town-Table?]]></title>
+      <description><![CDATA[<p>We all know that SunshinePHP is one of the PHP communities finest conferences. It attends an amazing group of people, wonderful speakers and Rasmus usually pops in for a drive-by-keynote.</p>
+
+<p>Every conference Phil or Ben attend has some vague promise of “yeah we’ll probably try and do a recording there or something,” but this SunshinePHP we actually did it, all thanks to the wonderful <a href="http://twitter.com/SammyK">Sammy K</a> off of <a href="https://www.phproundtable.com/">PHP Roundtable</a>.</p>
+
+<p>The topic this time around was that of APIs, and we were joined by an <em>all star</em> panel:</p>
+
+<ul>
+  <li><a href="https://twitter.com/saramg">Sara Golemon</a></li>
+  <li><a href="https://twitter.com/codeguy">Josh Lockart</a></li>
+  <li><a href="https://twitter.com/eryno">Eryn O’Neil</a></li>
+  <li><a href="https://twitter.com/mwop">Matthew Weier O’Phinney</a></li>
+  <li><a href="https://twitter.com/dshafik">Davey Shafik</a></li>
+  <li><a href="https://twitter.com/mikegstowe">Mike Stowe</a></li>
+</ul>
+
+<p>Watch this. It’s hilarious.</p>
+
+<p>Shownotes are lacking, because we clearly weren’t writing anything down.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-37-round-hall-sunshine/</link>
+      <guid>http://phptownhall.com/blog/2015/02/08/episode-37-round-hall-sunshine/</guid>
+      <pubDate>2015-02-08 02:00:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:13:23</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/37.mp3" type="audio/mp3" length="70455823" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 36: PSR-7 and The World of Tomorrow]]></title>
+      <description><![CDATA[<p>Two awesome guests join this week, from two different framework projects, both who have been very vocal about their interest in <a href="https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md">PSR-7: HTTP Message</a>. These two chaps were <a href="http://harikt.com/">Hari K T</a> and <a href="https://twitter.com/mwop">Matthew Weier O’Phinney</a>.</p>
+
+<p>Now PSR chats can be a little boring when its about autoloading or tabs v bloody spaces, but this PSR could have some really big impact on the way you write PHP over the next few years.</p>
+
+<p>We talk a bunch about Aura and Zend and their plans around middlewares, what motivated Matthew to get involved with taking over PSR-7, what middlewares mean for PHP in general and some of the concerns that have been fixed in recent iterations of the PSR like mutability, streams, etc.</p>
+
+<p>There also a bit of chat about turtles, standing desks and broken ribs, while Phil slowly goes loopy on pain killers.</p>
+
+<ul>
+  <li><a href="http://7php.com/php-interview-josh-lockhart/">7PHP Interview with Josh Lockhart</a> - “The Guy Behind ‘PHP The Right Way’ – Find Good Online Resources And Communities &amp; Use Them To Your Advantage”</li>
+  <li><a href="http://harikt.com/blog/2015/01/13/experimenting-on-different-framework/">Experimenting on a different Framework</a> - Hari writes about experimenting with bits of Symfony together via Composer packages</li>
+  <li><a href="https://mwop.net/blog/2015-01-26-psr-7-by-example.html">PSR-7 By Example</a> - Matt wrote up some examples of PSR-7 in use</li>
+  <li><a href="http://stackphp.com/">StackPHP</a> - Composing HttpKernelInterface middlewares since 2013!</li>
+  <li><a href="https://github.com/Crell/stacker">Stacker</a> - Larry Garfield’s StackPHP-like implementation of PSR-7</li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-36-psr-7-the-world-of-tomorrow/</link>
+      <guid>http://phptownhall.com/blog/2015/02/03/episode-36-psr-7-the-world-of-tomorrow/</guid>
+      <pubDate>2015-02-03 03:00:10 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>52:39</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/36.mp3" type="audio/mp3" length="50558040" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 35: Developer to CTO and Back]]></title>
+      <description><![CDATA[<p>The grass is always greener on the other side, but we have a little talk with <a href="https://twitter.com/geeh">Gary Hockin</a> and regular guest <a href="https://twitter.com/jacques_thekit">Jacques Woodcock</a> about the pros and cons of going up and down the chain of command in the developer world. After all, it doesn’t just need to be a one-way street.﻿</p>
+
+<p>We also talk about a few general bits, like whether <a href="https://wiki.php.net/rfc/php57">PHP 5.7 should have happened</a>, <a href="https://wiki.php.net/rfc/remove_php4_constructors">should we cry over spilled constructors</a> and Gary bangs on for ages about how Waterfall is better than Agile.</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-35-developer-to-cto-and-back/</link>
+      <guid>http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back/</guid>
+      <pubDate>2015-01-09 16:53:47 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:21:54</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/35.mp3" type="audio/mp3" length="78633612" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 34: /dev/hell Mashup]]></title>
+      <description><![CDATA[<p>This is a big one. We’ve had Chris “The Grumpy Programmer” Hartjes and Ed “The Grumpy Podcaster” Finkler on our show before, but this time they both join us for a mashup!</p>
+
+<p>We talk about the perils of being opinionated people speaking in public. Chris basically just says fuck Reddit and all of its minions of evil, and Phil gives a bit of insight into why he gets stuck in so many arguments.</p>
+
+<p>We move on to chatting about PHP, and how people feel about a strong new demand for more async features. Is it better to leave that to other tools, or should we try and fit some into the language itself, and the ecosystem around it?</p>
+
+<p>The last chunk of this podcast ends with a discussion around CodeIgniter 3.0 supporting PHP 5.2 and up. Should it be higher? Is it feckless to release like this? Should this be a documentation change to warn users away or a hard change to make it not even work there?</p>
+
+<p>Also, who has the best beard? Hint: it isn’t Phil.</p>
+
+<ul>
+  <li><a href="https://github.com/apiaryio/api-blueprint">Api Blueprint</a></li>
+  <li><a href="http://apiary.com/">Apiary</a></li>
+  <li><a href="https://github.com/apiaryio/dredd">Dredd</a></li>
+  <li><a href="http://reactphp.org/">ReactPHP</a></li>
+  <li><a href="http://hhvm.com/blog/7091/async-cooperative-multitasking-for-hack">Hack’s Async stuff</a></li>
+  <li><a href="http://php-fig.org">PHP-FIG</a></li>
+  <li><a href="http://pyrocms.com">PyroCMS</a></li>
+  <li><a href="http://blog.ircmaxell.com/2014/12/on-php-version-requirements.html">On PHP Version Requirements</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-34-dev-hell-mashup/</link>
+      <guid>http://phptownhall.com/blog/2015/01/09/episode-34-dev-hell-mashup/</guid>
+      <pubDate>2015-01-09 16:53:47 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:33:20</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/34.mp3" type="audio/mp3" length="89408182" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 33: CakePHP, Monga and RFCs]]></title>
+      <description><![CDATA[<p>This episode we’re joined by two two top CakePHPers <a href="https://twitter.com/savant">Jose Diaz-Gonzalez</a> and
+<a href="https://twitter.com/_beakman">Bryan Crowe</a>.</p>
+
+<p>Ben is AWOL, Phil is insanely jet-lagged and has no idea what he is talking about. Our awesome guests try their best to carry Phil through the show, where we discuss <a href="http://bakery.cakephp.org/articles/markstory/2014/11/17/cakephp_3_0_0-beta3_released">exciting</a> new <a href="http://bakery.cakephp.org/articles/jameswatts/2014/12/16/cakephp_3_to_fully_adopt_psr-2">stuff</a> happening with <a href="http://cakephp.org/">CakePHP</a>, and what we think of a few current RFCs being discussed in PHP land.</p>
+
+<p>We also talk a bit about <a href="https://github.com/thephpleague/monga">Monga</a>, a <a href="http://thephpleague.com">League</a> package which Bryan has now assumed the role of project lead.</p>
+
+<p>It took a while to get this one out, but the next recording will be <a href="https://plus.google.com/b/114546315704097272137/events/cjaeesv1vt4bphb36pb33m4p2gc">December 28th</a> and it’s going to be a Christmas mash-up with <a href="http://devhell.info/post/2014-12-18/lets-get-this-thing-over-with/">/dev/hell</a>.</p>
+
+<p>Now that Phil has stopped being homeless we’re going to get more regular, and drastically improve the quality of this podcast. Do not miss out!</p>
+]]></description>
+      <link>https://phptownhall.com/episode-33-cakes-monga-rfcs/</link>
+      <guid>http://phptownhall.com/blog/2014/11/19/episode-33-cakes-monga-rfcs/</guid>
+      <pubDate>2014-11-19 18:50:20 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>0:59:19</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/33.mp3" type="audio/mp3" length="49279085" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 32: Ben and Phil Catch Up]]></title>
+      <description><![CDATA[<p>This week <a href="https://twitter.com/benedmunds">Ben</a> and <a href="https://twitter.com/philsturgeon">Phil</a> take some time to catch up on each others lives and let you listen in.  Ben doesn’t remember how to code.  Phil is leaving PHP for Rails.  They’re both moving again.</p>
+
+<p>Since we don’t have any cool tools to recommend this week you should buy our books to support the podcast:</p>
+
+<p><a href="http://buildsecurephpapps.com/">Building Secure PHP Apps</a> - Ben Edmunds</p>
+
+<p><a href="https://leanpub.com/build-apis-you-wont-hate">Build APIs You Won’t Hate</a> - Phil Sturgeon</p>
+
+<p><a href="https://leanpub.com/b/philbensexcellentadventuresincodephpapisandsecuritybundle">PHP APIs and Security Bundle</a> - Bundle of both books together</p>
+]]></description>
+      <link>https://phptownhall.com/episode-32-ben-and-phil-catch-up/</link>
+      <guid>http://phptownhall.com/blog/2014/11/04/episode-32-ben-and-phil-catch-up/</guid>
+      <pubDate>2014-11-04 20:50:20 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:02:38</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/32.mp3" type="audio/mp3" length="60134703" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 31: The One about Hot Dogs]]></title>
+      <description><![CDATA[<p>This week Ben and Phil are joined last minute by repeat guests <a href="https://twitter.com/kayladnls">Kayla Daniels</a> and <a href="https://twitter.com/shrtwhitebldguy">Matt Frost</a>.</p>
+
+<p>We talk waaaaay too much about hotdogs, Phil’s fun-employment, cocaine, and what’s new in PHP-land.</p>
+
+<p>The recommended cool stuff of the episode is:</p>
+
+<p>Dossier - super secret stealth mode project for managing talk abstracts</p>
+
+<p><a href="http://nocapes.github.io/">No Capes</a> - Live Interviews with prominent speakers, community members and package developers in the PHP Community</p>
+
+<p><a href="http://wurstcon.com/">WurstCon</a> - The wurst conference in the US of A</p>
+
+<p><a href="http://sideswell.com/">SideSwell</a> - beautiful side project execution tool</p>
+
+<p><a href="http://teamtreehouse.com/">Treehouse</a> - learn to program yo</p>
+]]></description>
+      <link>https://phptownhall.com/episode-31-the-one-about-hot-dogs/</link>
+      <guid>http://phptownhall.com/blog/2014/10/17/episode-31-the-one-about-hot-dogs/</guid>
+      <pubDate>2014-10-17 01:51:20 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>0:47:10</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/31.mp3" type="audio/mp3" length="45280469" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 30: Specs, Implementations, and New Engines OH MY!]]></title>
+      <description><![CDATA[<p>This week Ben and Phil are joined by core PHP developer extraordinaires <a href="https://twitter.com/AndreaFaulds">Andrea Faulds</a> and <a href="https://twitter.com/morrisonlevi">Levi Morrison</a>.</p>
+
+<p>We discuss the new PHP engine spec, various RFCs, and all things internals.  Also PHP 6 is officially dead, let’s have a moment of silence.</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-30-specs-implementations-and-new-engines-oh-my/</link>
+      <guid>http://phptownhall.com/blog/2014/08/26/episode-30-specs-implementations-and-new-engines-oh-my/</guid>
+      <pubDate>2014-08-26 02:18:50 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:14:57</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/30.mp3" type="audio/mp3" length="71955460" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 29: Dont Mention PHP 6 v PHP 7]]></title>
+      <description><![CDATA[<p>This week Ben and Phil are joined by long distance target shooter <a href="https://twitter.com/pmjones">Paul M. Jones</a> and the handsome man that is <a href="https://twitter.com/rdlowrey">Daniel Lowrey</a>, to talk about a whole bunch of PHP relating things.</p>
+
+<p>Paul has recently been talking a lot about “Action Domain Responder” which is billed as a more representative
+replacement of the often mis-used “Model View Controller” architecture. Luckily he does a good job of ELI5 so we don’t get too lost, and we talk a bit about how <a href="http://paul-m-jones.com/archives/6020">ADR helps with putting content negotiation in a logical place</a>.</p>
+
+<p>Daniel then goes on to talk about a few awesome topics, including some of the <a href="http://php.net/manual/en/migration56.openssl.php">OpenSSL changes in 5.6</a>, and a HTTP server he is working on built entirely from PHP. It’s async, non-blocking <em>and</em> web-scale.</p>
+
+<p>We cover <a href="https://en.wikipedia.org/wiki/HTTP_2.0">HTTP 2</a> and its effect on PHP, give some thoughts on <a href="https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md">PSR-7 HTTP Message</a>, talk about <a href="http://auraphp.com">Aura</a> and finally when Phil could hold it no more, we had a big rant about PHP 6 v PHP 7 which - at the time - was still being voted on. The <a href="https://wiki.php.net/rfc/php6">end result</a> is of course that PHP 7 won.</p>
+
+<blockquote class="twitter-tweet" lang="en"><p>I know I said no further comment, but I’m definitely gonna keep posting funny shit I see about this. Article 1. <a href="http://t.co/cznAZLKiSd">pic.twitter.com/cznAZLKiSd</a></p>&mdash; Phil Sturgeon (@philsturgeon) <a href="https://twitter.com/philsturgeon/statuses/494517704305295360">July 30, 2014</a></blockquote>
+<script async="" src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Anyway. Here are a few extra links.</p>
+
+<ul>
+  <li><a href="https://wiki.php.net/rfc/improved-tls-defaults">PHP RFC: Improved TLS Defaults</a></li>
+  <li><a href="https://wiki.php.net/rfc/tls-peer-verification">PHP RFC: TLS Peer Verification</a></li>
+  <li><a href="http://auraphp.com">Aura PHP Components</a></li>
+  <li><a href="http://mlaphp.com">Modernize Your Legacy PHP Application</a></li>
+  <li><a href="https://groups.google.com/forum/#!forum/thephpleague">The PHP League Mailing List</a></li>
+</ul>
+
+]]></description>
+      <link>https://phptownhall.com/episode-29-dont-mention-php-6-v-php-7/</link>
+      <guid>http://phptownhall.com/blog/2014/07/30/episode-29-dont-mention-php-6-v-php-7/</guid>
+      <pubDate>2014-07-30 20:18:48 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:19:35</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/29.mp3" type="audio/mp3" length="76407979" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 28: Loosley Coupled Mashup]]></title>
+      <description><![CDATA[<p>In this episode, Ben and Phil join forces with <a href="http://looselycoupled.info/">Loosely Coupled</a> to talk about Open Source, burn out and briefly discuss their favorite open source projects. Jeff was out of action for a lot of it due to unexpected wifi troubles (in San Francisco of all places) so he sadly did not get to take part as much as he would have liked.</p>
+
+<p>Questions this time around:</p>
+
+<blockquote>
+  <p>How do you deal nicely with someone who’s too reliant on you for solving problems and is too quick to ask you rather than figure it out themselves?
+– TazeTSchnitzel</p>
+</blockquote>
+
+<blockquote>
+  <p>How do you guys explain OSS to non tech people? My wife finds it strange that I do work for “free”
+– Chuck Reeves</p>
+</blockquote>
+
+<blockquote>
+  <p>As a contractor, how do you feel about “OSS” clauses (that your work can/will be open sourced) in contracts?
+– Davey Shafik</p>
+</blockquote>
+
+<p>If you aren’t following Jeff and Matt then definitely go and do that:</p>
+
+<ul>
+  <li><a href="https://twitter.com/jcarouth">Jeff Carouth</a></li>
+  <li><a href="https://twitter.com/shrtwhitebldguy">Matt Frost</a></li>
+</ul>
+
+<p><em>The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version.</em></p>
+]]></description>
+      <link>https://phptownhall.com/episode-28-loosley-coupled-mashup/</link>
+      <guid>http://phptownhall.com/blog/2014/07/10/episode-28-loosley-coupled-mashup/</guid>
+      <pubDate>2014-07-10 15:40:49 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:54:25</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/28.mp3" type="audio/mp3" length="109846386" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 27: Josh Lockhart and Jeremy Mikola]]></title>
+      <description><![CDATA[<p>This episode is a long one, but we are back to improved audio and the video is not just one dude eating pzza for an hour. <a href="http://twitter.com/codeguy">Josh Lockhart</a> of <a href="http://phptherightway.com">PHP The Right Way</a> and <a href="http://www.slimframework.com/">Slim</a> fame, and <a href="http://twitter.com/jmikola">Jeremy Mikola</a> who is well known for banging on about <a href="http://vimeo.com/89325708">clouds</a> and playing magic the gathering. Oh, he also works for MongoDB.</p>
+
+<p><em><strong>Warning:</strong> Puns and occasional swears.</em></p>
+
+<p>Some projects have been discovering they use language which can be offensive like master/slave. How do they deal with it, and how should they deal with it?</p>
+
+<p>We ask Joshua what the plans for are for Slim 3, and talk a bit about the differences between Slim and Silex. We also ask him about the history of <a href="http://phptherightway.com">PHP The Right Way</a>: how it got started and how it has evolved over time with contributions and huge efforts from the PHP community.</p>
+
+<p>Phil rants about <a href="https://github.com/illuminate/pagination">illuminate/pagination</a> having hard dependencies and tries to make excuses up for not sending a pull request, then comically days later caves and <a href="https://github.com/laravel/framework/pull/4582">sends a pull request</a>.</p>
+
+<p>The whole gang discuss difficulties of managing pull requests, covering how to handle the expectations of the pull “requester” and the pull “requestee”, how to handle feedback and a few other bits and bobs.</p>
+
+<p>This is a fairly chunky episode but these guests were long overdue, and they’re such nice guys we had to chat and answer as many questions as we could.</p>
+
+<ul>
+  <li><a href="http://blog.ircmaxell.com/2014/05/the-tale-of-wrecked-fire-engine.html">The Tale of the Wrecked Fire Engine</a></li>
+  <li><a href="http://thephpleague.com">The PHP League</a></li>
+  <li><a href="http://csv.thephpleague.com">league/csv</a></li>
+  <li><a href="https://packagist.org/packages/keboola/csv">keboola/csv</a></li>
+</ul>
+
+<p><em>The video is less edited than the audio, so download and listen for a slightly shorter and more relevant version.</em></p>
+]]></description>
+      <link>https://phptownhall.com/episode-27-foo/</link>
+      <guid>http://phptownhall.com/blog/2014/06/29/episode-27-foo/</guid>
+      <pubDate>2014-06-29 20:03:01 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:34:47</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/27.mp3" type="audio/mp3" length="91001860" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 26: Hello Front Range!]]></title>
+      <description><![CDATA[<p>The <a href="http://frontrangephp.org/">Front Range</a> PHP user-group joins the show as a live audience for the episode 26, in a new crazy bonus format which Phil thought might be fun. The idea of the episode is for people to generally pick our brain about PHP and code and tech and things. It kinda worked but the sound quality was terrible. Sorry about that folks.</p>
+
+<p>They ask us a bunch of questions about how we got started in PHP.</p>
+
+<ul>
+  <li>Picking a framework that would last 10 years for enterprise?</li>
+  <li>How to migrate from CodeIgniter to Laravel?</li>
+  <li>What do you use for integration tests?</li>
+</ul>
+
+<p>The video provides great insight into what you lot look like when you’re sat at a user group shoving pizza into your face, which we thought might be different for our viewers. That might also be a lie, and we accidentally left it on the wrong camera, but hey… there is a MP3 version too.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-26-hello-front-range/</link>
+      <guid>http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range/</guid>
+      <pubDate>2014-06-18 19:25:01 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>53:26</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/26.mp3" type="audio/mp3" length="51297827" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 25: Girls Aren't Any Different]]></title>
+      <description><![CDATA[<p>Talking about feminism in tech is always difficult. This episode was quite a heated discussion with <a href="https://twitter.com/kayladnls">Kayla Daniels</a> and <a href="http://twitter.com/justjessdc">Jessica D’Amico</a> discussing their opinions about women-orientated groups such as <a href="http://phpwomen.org/">PHPWomen</a> and <a href="http://girlswhocode.com/">Girls Who Code</a>.</p>
+
+<p>Kayla wrote an excellent article titled <a href="https://medium.com/web-design-and-development/f3c8dbb03967">Not a shiny unicorn</a>, in which she made several points.</p>
+
+<ul>
+  <li>“Somehow, [being female] means I am some kind of oddity. I’ve been met with skepticism, mistrust, and probably the most insulting reaction; complete shock and awe.”</li>
+  <li>“If I’m offered something, I want it to be because of my accomplishments, and not my sex.”</li>
+  <li>“Bottom line: Girls aren’t any different. We’re different because people keep making us different.”</li>
+</ul>
+
+<p>Essentially saying that specialist groups that try to help nurture female involvement can be seen - by some - to be a little patronising, like girls need special help, etc. Also whenever people freakout in the office because there is “a girl” there, things get weird. Suddenly swearing is completely frowned upon and people rush over to apologize to the nearest girl in earshot when it happens. These sorts of things have been noticed by Phil several times in his attending of conferences, workplace situations, etc, so it looked like an interesting topic to discuss.</p>
+
+<p>Now, we could of just invited Kayla on to talk about it but an hour-long episode of people sitting around agreeing with each other does not really make for a representative conversation, or interesting listening. Friend of the show Jess joined us, and she had some different opinions about the situation.</p>
+
+<p>Due to poor preparation on Phil’s side (he spent the two hours before the show cooking some epic dinner for his Dad after forgetting about the show) followed by some poor moderation Ben and Phil, the animated conversation was not the most productive that could have happened.</p>
+
+<p>Since then, several productive things have happened. Kayla has released an amazing site called <a href="http://codemanifesto.com/">Code Manifesto</a> which addresses some of the points made.</p>
+
+<p>Furthermore, a site Phil forgot to mention entirely was <a href="http://dayssincelasttechincident.com/">Days Since Last Tech Incident</a>, which is the answer to the question he asked: where can people find out more information about incidents so they can learn to keep an eye out for them, and attempt to help solve the problems or stop them happening again.</p>
+
+<p>Ben and Phil both apologize for poor moderation leading to a tricky episode, and we apologize for how long it took us to get the episode up. A further apology for the lack of video, but we had to edit this one a bit and the video didn’t make it.</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-25-girls-arent-any-different/</link>
+      <guid>http://phptownhall.com/blog/2014/05/28/episode-25-girls-arent-any-different/</guid>
+      <pubDate>2014-05-28 20:39:38 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>53:48</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/25.mp3" type="audio/mp3" length="52442618" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 24: But is it Web Scale?]]></title>
+      <description><![CDATA[<p>This week <a href="http://benedmunds.com">Ben Edmunds</a> calls in from Portland and <a href="http://philsturgeon.co.uk">Phil Sturgeon</a> calls in from THE FUTURE.  They are joined by <a href="http://stevecorona.com/">Steve Corona</a> to discuss <a href="https://www.scalingphpbook.com/">Scaling PHP</a>.</p>
+
+<p>Most of this conversation centers around Phil and Ben’s horrible facial hair with a few questions thrown Steve’s way to educate us on getting the most out of your LAMP stack.  The main takeaways are to stop using Apache and to start using Postgres.</p>
+
+<p>Go buy Steve’s book <a href="https://www.scalingphpbook.com/">Scaling PHP</a> if you want to be Web Scale.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-24-but-is-it-web-scale/</link>
+      <guid>http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale/</guid>
+      <pubDate>2014-05-14 18:52:29 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:35:18</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/24.mp3" type="audio/mp3" length="91460563" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 23: VirtPHP - Managing your Herd of ElePHPants]]></title>
+      <description><![CDATA[<p>This week <a href="http://benedmunds.com">Ben Edmunds</a> and <a href="http://philsturgeon.co.uk">Phil Sturgeon</a> are joined by <a href="https://twitter.com/jacques_thekit">Jacques Woodcock</a> and <a href="https://twitter.com/jakerella">Jordan Kasper</a> to discuss <a href="http://virtphp.org/">virtPHP</a>.</p>
+
+<p>virtPHP is a tool for managing multiple environments on your development machine.  It is similar to Python’s virtualenv or Ruby’s rbenv, but for PHP.</p>
+
+<h3 id="upcoming-conferences">Upcoming Conferences</h3>
+
+<p>Phil will be speaking at <a href="http://www.phpsouthafrica.com/">PHP South Africa</a> in April.</p>
+
+<p>Ben has no idea what he will attend this year.</p>
+
+<p>Jacques will likely be speaking at <a href="http://truenorthphp.ca/">True North PHP</a> later this year.</p>
+
+<p>Jordan will be speaking at <a href="http://jqueryuk.com/">jQuery UK</a> in May and at <a href="http://www.phpconference.nl/">Dutch PHP</a> in June.</p>
+]]></description>
+      <link>https://phptownhall.com/virtphp-managing-your-herd-of-php-versions/</link>
+      <guid>http://phptownhall.com/blog/2014/04/10/virtphp-managing-your-herd-of-php-versions/</guid>
+      <pubDate>2014-04-10 06:08:31 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:19:52</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/23.mp3" type="audio/mp3" length="76686114" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 22: The Great Joomla! License Battle of 2014]]></title>
+      <description><![CDATA[<p>This week <a href="https://twitter.com/benedmunds">Ben Edmunds</a> is joined by new guest <a href="https://twitter.com/davidstanley01">David Stanley</a> and recurring guest <a href="https://twitter.com/dilbert4life">Don Gilbert</a> to discuss the latest <a href="http://forum.joomla.org/viewtopic.php?f=704&amp;t=836361&amp;sid=42e55238e2fe91f582af1b69440d219b">Joomla! framework licensing drama</a>.  Phil was too busy having a real world life to join us this week, boo!</p>
+
+<p>Don does a great job of articulating why switching the Joomla! Framework to an LGPL license would be best for everyone and just might cure cancer.  Ben tries to play devil’s advocate but eventually can’t even maintain the ruse.  David talks now and then, mostly about his new found love of the AeroPress.</p>
+
+<h3 id="cool-things-of-the-week">Cool things of the week</h3>
+
+<p>Don recommends you check out <a href="http://gitter.im">Gitter.IM</a> and <a href="http://pagekit.com">PageKit</a>.</p>
+
+<p>David says you should start using <a href="http://angularjs.org/">AngularJS</a> and <a href="http://foundation.zurb.com/">Foundation</a> if you want to be one of the cool kids.</p>
+
+<p>Ben promotes <a href="http://www.divshot.com/">DivShot</a> and hasn’t received any sponsorship money yet <strong><em>hint hint</em></strong>.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-22-the-great-joomla-license-battle-of-2014/</link>
+      <guid>http://phptownhall.com/blog/2014/03/26/episode-22-the-great-joomla-license-battle-of-2014/</guid>
+      <pubDate>2014-03-26 06:04:16 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:06:56</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/22.mp3" type="audio/mp3" length="32133384" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 21: Attack of the Brazilians]]></title>
+      <description><![CDATA[<p>This week author of “<a href="https://leanpub.com/vagrantcookbook">Vagrant CookBook</a>” <a href="https://twitter.com/erikaheidi">Érika Heidi</a> and serial usergroup creator <a href="https://twitter.com/rdohms">Rafael Dohms</a> join the show to
+talk about… well, all of that. Two Brazilian PHP developers now living in Amsterdam, tell their stories and talk
+about what they do.</p>
+
+<p>We cover a lot of conversation connected to Vagrant and some of its upcoming features and functionality. We also talk
+about provisioning, comparing Chef, Puppet and Ansible.</p>
+
+<p>This weeks questions from the audience:</p>
+
+<blockquote>
+  <p>What are your thoughts on using Bash as a provisioner? Why or why not use it?
+– Edmund Zynda</p>
+</blockquote>
+
+<blockquote>
+  <p>Thoughts on the new github Atom editor
+– Matthew Reschke</p>
+</blockquote>
+
+]]></description>
+      <link>https://phptownhall.com/episode-21-attack-of-the-brazilians/</link>
+      <guid>http://phptownhall.com/blog/2014/03/14/episode-21-attack-of-the-brazilians/</guid>
+      <pubDate>2014-03-14 08:20:12 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:07:57</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/21.mp3" type="audio/mp3" length="64906294" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 20: A nice friendly chat about Sculpin, Guzzle and PSR-7]]></title>
+      <description><![CDATA[<p>Trying out a slightly more professional format with questions, Phil manages to avoid talking over everyone. Winner!</p>
+
+<p>This show has a history of talking about FIG stuff as it is hard to avoid. The group is working on so much cool stuff
+and prominent figures of the community are involved. We got two more prominent figures, who also happen to be involved
+with FIG stuff: <a href="http://twitter.com/beausimensen">Beau Simensen</a> lead developer of <a href="https://sculpin.io">Sculpin</a> and <a href="http://twitter.com/mtdowling">Michael Dowling</a> lead developer of the wonderful
+HTTP library <a href="http://docs.guzzlephp.org">Guzzle</a>, who also works at AWS on their <a href="http://aws.amazon.com/sdkforphp/">PHP SDK</a>.</p>
+
+<p>We discussed each of their projects, some of the plans for the future, specifically whats coming up in Guzzle 4 and
+how that all ties in with the new <a href="https://github.com/php-fig/fig-standards/blob/master/proposed/http-message.md">PSR-7: HTTP Message</a>, currently in “Draft” status. Conveniently Beau, Michael and
+Phil are the three FIG members who make up the working group for PSR-7 who will all be working to get this “Accepted”.</p>
+
+<p>See, it all fits!</p>
+
+<blockquote>
+  <p>What are your thoughts on using Bash as a provisioner? Why or why not use it?
+– Edmund Zynda</p>
+</blockquote>
+
+<blockquote>
+  <p>Thoughts on the new github Atom editor
+– Matthew Reschke</p>
+</blockquote>
+
+<blockquote>
+  <p>Beau &amp; Michael, you’ve both been managing open source packages (OSP) for a few years. What’s the best and worst part of managing an OSP?
+– <a href="https://twitter.com/jeremeamia">Jeremy Lindblom</a></p>
+</blockquote>
+
+<blockquote>
+  <p>@Michael do you think a simple HTTP Server interface would fit PSR-7? That would be a good replacement for StackPHP, no?
+– <a href="https://twitter.com/Ocramius">Marco Pivetta</a></p>
+</blockquote>
+
+<blockquote>
+  <p>I’m curious about how this HTTP client relates to the <a href="http://php.net/http">pecl/http extension</a>. There’s been talk in the past of including that extension in the core.
+– <a href="https://twitter.com/ramsey">Ben Ramsey</a></p>
+</blockquote>
+
+<blockquote>
+  <p>What different circumstances dictate how long a PSR takes to get from proposal to blessed by FIG?
+– Edmund Zynda</p>
+</blockquote>
+
+<p>So, plenty for you folks to watch here on the YouTube video!</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/</link>
+      <guid>http://phptownhall.com/blog/2014/03/06/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/</guid>
+      <pubDate>2014-03-06 15:23:12 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:03:35</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/20.mp3" type="audio/mp3" length="64906294" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 19: Jeffrey Way, Laracasts and BDFLs]]></title>
+      <description><![CDATA[<p>Well known PHP/Laravel nice-guy <a href="http://twitter.com/jeffrey_way">Jeffrey Way</a> from <a href="http://nettuts.com">NetTuts</a> and <a href="https://laracasts.com/">Laracasts</a> joins regular guest <a href="http://twitter.com/zackkitzmiller">Zack Kitzmiller</a> to
+discuss the wonderful world of Laravel once again. This time the discussion focuses on some of the silly complaints
+people have with an otherwise wonderful system, and on the reusability of its packages.</p>
+
+<ul>
+  <li><a href="https://laracasts.com/">Laracasts</a> - “Hi, I’m Jeffrey. What would you like to learn today?”</li>
+  <li><a href="https://leanpub.com/mlaphp">Modernizing Legacy Applications In PHP</a> - Get your PHP code under control in a series of small, specific steps</li>
+  <li><a href="http://dbad-license.org">DBAD (Dont Be a Dick) Public License</a> - Something between <a href="http://www.wtfpl.net/">WTFPL</a> and <a href="http://opensource.org/licenses/MIT">MIT</a></li>
+  <li><a href="https://github.com/illuminate/">Illuminate</a> - The components that make up the Laravel PHP framework</li>
+  <li><a href="https://github.com/laravel/envoy">Laravel: Envoy</a> - Elegant SSH tasks for PHP</li>
+</ul>
+
+]]></description>
+      <link>https://phptownhall.com/episode-19-jeffrey-laracasts-bdfls/</link>
+      <guid>http://phptownhall.com/blog/2014/02/15/episode-19-jeffrey-laracasts-bdfls/</guid>
+      <pubDate>2014-02-15 22:42:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>00:59:25</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/19.mp3" type="audio/mp3" length="57033615" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 18: PHPDBG, HHVM and Internals]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/krakjoe">Joe Watkins</a> and <a href="https://twitter.com/saramg">Sara Goleman</a> join Phil to make one hell of an episode. These two are not only core contributors to PHP, but are behind a lot of RFCs and decisions that make PHP considerably better. We talk about a whole bunch of awesome stuff, including progress of the <a href="https://wiki.php.net/rfc/namedparameters">named parameters</a> RFC - and the chances of it making in, the new accepted PHP 5.6 feature <a href="https://wiki.php.net/rfc/phpdbg">PHPDBG</a> and what it means for you, <a href="http://www.hhvm.com/">HHVM</a> and its relationship to “The PHP”, wether PHP should have a spec for implementations of the language, and a whole bunch of other stuff.</p>
+
+<p>Sara knows a thing or two about HHVM because she helped build it.</p>
+
+<p>Joe knows a thing or two about PHPDBG because he helped build it.</p>
+
+<p>So basically… THEY’RE SMARTER THAN YOU ARE SO LISTEN TO THEM DAMMIT!</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-18-phpdbg-hhvm-internals/</link>
+      <guid>http://phptownhall.com/blog/2014/01/29/episode-18-phpdbg-hhvm-internals/</guid>
+      <pubDate>2014-01-29 22:42:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>00:54:02</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/18.mp3" type="audio/mp3" length="51881432" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 17: Authors Galore, Conferences and Game Changers]]></title>
+      <description><![CDATA[<p>Cal Evans talks with us about some of the great projects he is (and has) been involved with, including training days, writing books, speaking, organising conferences and a bunch more.</p>
+
+<p>Seriously, this guy has done a shitload of stuff:</p>
+
+<ul>
+  <li><a href="http://voicesoftheelephpant.com/">Voices of the Eephant Podcast</a></li>
+  <li><a href="http://nomadphp.com/">NomadPHP</a></li>
+  <li><a href="http://daycamp4developers.com/">Day Camp 4 Developers</a></li>
+  <li><a href="https://leanpub.com/signalingphp">Signaling PHP Book</a></li>
+</ul>
+
+<p>More relevant links:</p>
+
+<ul>
+  <li><a href="https://leanpub.com/build-apis-you-wont-hate">Build API’s You Won’t Hate</a> - Phil’s latest book</li>
+  <li><a href="http://2014.sunshinephp.com/">SunshinePHP 2014 Conference</a></li>
+  <li><a href="http://nomadphp.com/2013/12/20/march-2014/">Taylor Otwell’s upcoming NomadPHP Talk</a></li>
+  <li><a href="http://nomadphp.com/products/video-laravel-4-yet-another-framework-different-phil-sturgeon/">Phil Sturgeon’s previous NomadPHP Talk</a> - There is a coupon code in this episode</li>
+  <li><a href="http://phpdbg.com/">PHP Debugger (PHPDBG)</a></li>
+</ul>
+
+<p>Annoyingly in this episode Google Hangouts decided to keep the focus aimed squarely on Phil for the entire show, instead of following the sound of whoever is talking. Nobody needs that much of Phil’s face so we’re skipping the video in this post. It’s mostly just Phil wandering around, drinking two different drinks at the same time, probably picking his nose a bit, who knows.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-17-cal-evans-nomad-bat-shit/</link>
+      <guid>http://phptownhall.com/blog/2013/12/30/episode-17-cal-evans-nomad-bat-shit/</guid>
+      <pubDate>2013-12-30 18:42:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:02:45</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/17.mp3" type="audio/mp3" length="60249393" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 16: Laravel 4.1, Go and the Vagrant Fistfight]]></title>
+      <description><![CDATA[<p>Taylor Otwell comes back on the show for a second time and regular guest Zack Kitzmiller turns up to coerce Taylor
+into letting him speak at LaraCon 2014.</p>
+
+<p>Taylor was the first guest we ever had on PHP Town Hall talking about his plans for Laravel 4 before it was even released, so it gives us a great opportunity to look back on the year and see how things have gone. We discuss the changes to Laravel and it’s community, and discuss how various changes in the PHP ecosystem (like PHP 5.3 support becoming less of a demand) could effect Laravel 4.1.</p>
+
+<p>We also argue about Go and fight about Vagrant and Chef for a bit.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-16-taylor-otwell-laravel41/</link>
+      <guid>http://phptownhall.com/blog/2013/12/03/episode-16-taylor-otwell-laravel41/</guid>
+      <pubDate>2013-12-03 02:45:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:17:36</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/16.mp3" type="audio/mp3" length="74497621" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 15: The Joomla Framework and the ongoing history of PSR-4]]></title>
+      <description><![CDATA[<p>The wonderfully handsome <a href="http://twitter.com/dilbert4life">Don Gilbert</a> joins us on our new <a href="http://www.youtube.com/channel/UCepVwe7RrxE7Zv3kytUfcKw">YouTube Channel</a> for our first live-recording of PHP Town Hall!</p>
+
+<p>He’s been working on the <a href="https://github.com/joomla/joomla-framework">Joomla Framework</a> to get it up to scratch with modern standards ready for a <a href="http://joomla.org">Joomla CMS</a> rewrite, much in the same way that EllisLab pulled CodeIgniter out of ExpressionEngine… except for the standards bit, because they didn’t exist and PHP developers were too busy clubbing each other to death over tabs v spaces.</p>
+
+<p>We discuss how that whole situation is going, how they’ve been implementing various standards, how did they decide to build a framework instead of use an existing one, how the <a href="http://www.php-fig.org/">FIG</a> is going and why Phil fucked up the <a href="https://groups.google.com/forum/#!searchin/php-fig/acceptance$20vote/php-fig/NWfyAeF7Psk/_xk2QQuCYsIJ">PSR-4 Acceptance Vote</a> three hours before the vote finished.</p>
+
+<p>The next will be done November 18th, 2013 at 9:30pm EST.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-15-joomla-fig-psr4/</link>
+      <guid>http://phptownhall.com/blog/2013/11/14/episode-15-joomla-fig-psr4/</guid>
+      <pubDate>2013-11-14 03:36:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:12:14</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/15.mp3" type="audio/mp3" length="69345439" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 14: Ship Like a Candian, Eh?]]></title>
+      <description><![CDATA[<p>This episode Ben and Phil are joined by <a href="http://thatleeguy.com/">Lee Tengum</a>, who has sold more apps
+than Phil and Ben have even thought of. He founded <a href="https://pancakeapp.com/">Pancake Payments</a> which has
+been featured in Inc. Magazine and is doing very well in the very crowded sector of invoice, time-tracking
+and basic project management. Lee also works as a freelance developer for local companies in the “city”
+of Cranbrook, BC, Canadia.</p>
+
+<p>We got Lee on to share some of his success stories of building small, simple, useful products that do not
+try to be the next Facebook but make good money and help him keep his family in food, maple syrup and hockey
+gear. Making one application that sells for a bazillion dollars is fairly unlikely, so Lee tries to build
+“mortgage payments” instead, shipping early, iterating fast, bootstrapping the process and focusing on revenue
+from a very early point.</p>
+
+<ul>
+  <li><a href="http://dearie6.com/">DearIE6</a> - It’s been a good run, now please leave.</li>
+  <li><a href="http://www.collegehumor.com/video/6507690/hardly-working-start-up-guys">Hardly Working Start-up Guys</a></li>
+  <li><a href="https://offload.io/">Offload.io</a> - Offload the work you just don’t have time for onto friends.</li>
+  <li><a href="https://www.ghostery.com/">Ghostery</a> - See which companies are tracking you, and block them.</li>
+  <li><a href="http://cargocollective.com/evanimal">evANIMAL</a></li>
+  <li><a href="http://truenorthphp.com/">True North PHP Conference</a> - Toronto, Canada on November 7 - 9, 2013</li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-14-shipit/</link>
+      <guid>http://phptownhall.com/blog/2013/10/24/episode-14-shipit/</guid>
+      <pubDate>2013-10-24 15:30:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:05:06</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/14.mp3" type="audio/mp3" length="62497595" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 13: PHP Internals, Service-orientated Architecture and Language Wars]]></title>
+      <description><![CDATA[<p>Some episodes of this show are brought to you after more beers than others. This is one of those episodes where its more, so if you don’t like swearing and listening to a slightly confused Bristolian ramble about points he occasionally forgets then you might want to skip this one.</p>
+
+<p>Regardless Ben, Zack K. and Phil discuss the difference between PHP’s organisational structure and lack of BDFL with that of Rails, or Linux. We then discuss service-orientated architecture a little and move onto how you should not box yourself into a single programming language - on your CV or in general as a programmer.</p>
+
+<ul>
+  <li><a href="http://philsturgeon.co.uk/blog/2013/09/t-paamayim-nekudotayim-v-sanity">T_PAAMAYIM_NEKUDOTAYIM v Sanity</a></li>
+  <li><a href="http://www.tornadoweb.org/">Tornado</a></li>
+  <li><a href="http://www.thephpleague.com/">League of Extraordinary Packages</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-13-php-internals/</link>
+      <guid>http://phptownhall.com/blog/2013/10/14/episode-13-php-internals/</guid>
+      <pubDate>2013-10-14 22:45:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>53:30</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/13.mp3" type="audio/mp3" length="61761569" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 12: Awesome RFCs and Yolo]]></title>
+      <description><![CDATA[<p>Silex and PHP contributor <a href="https://igor.io/">Igor Wiedler</a> joins Ben and Phil to talk about his recently accepted <a href="https://wiki.php.net/rfc/use_function">RFC: Importing namespaced functions</a> along with a bunch of other super-nerdy things that he has been working on.</p>
+
+<ul>
+  <li><a href="http://me.veekun.com/blog/2012/04/09/php-a-fractal-of-bad-design/">PHP: a fractal of bad design</a> - The trollol bible</li>
+  <li><a href="https://wiki.php.net/rfc/variadics">PHP RFC: Variadics</a></li>
+  <li><a href="https://wiki.php.net/rfc/argument_unpacking">PHP RFC: Argument Unpacking</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Spread_operator">Mozilla’s JavaScript Spread Operator</a></li>
+  <li><a href="http://yolophp.com/">Yolo</a></li>
+  <li><a href="http://stackphp.com/">StackPHP</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-12-function-autoloading/</link>
+      <guid>http://phptownhall.com/blog/2013/09/11/episode-12-function-autoloading/</guid>
+      <pubDate>2013-09-11 22:45:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:04:19</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/12.mp3" type="audio/mp3" length="61761569" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 11: Bike Safety]]></title>
+      <description><![CDATA[<p>Learn what happens when you wear high-heels on a bike, and what can go wrong if you get into an unstable 
+spin when you jump out of a plane.</p>
+
+<p>We also talk about code.</p>
+
+<ul>
+  <li><a href="http://www.charlesproxy.com/">Charles</a> - A HTTP proxy</li>
+  <li><a href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">Postman</a> - REST Client</li>
+  <li><a href="http://www.thephpleague.com/">The PHP League of Extraordinary Packages</a></li>
+  <li><a href="https://wiki.php.net/rfc/const_scalar_expressions">PHP RFC: Constant Scalar Expressions</a></li>
+  <li><a href="http://gothamjs.com/">GothamJS</a> - The New York JavaScript Conference</li>
+  <li><a href="https://www.skiphp.com/index.php">SkiPHP</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-11-bike-safety/</link>
+      <guid>http://phptownhall.com/blog/2013/09/03/episode-11-bike-safety/</guid>
+      <pubDate>2013-09-03 14:45:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:15:49</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/11.mp3" type="audio/mp3" length="72783989" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 10: Postgres, Bla, Bla, Cider]]></title>
+      <description><![CDATA[<p>This time around we’re joined by <a href="http://chesnok.com/">Selena Deckelmann</a>, who as a Postgres contributor
+talks to us about some of the burning questions many PHP developers often have about Postgres
+when considering it as a replacement for the PHP’s defacto-standard relational DB: MySQL.</p>
+
+<p>We ask “Why are so few of the “cool kids” using Postgresql?” and “What are the most important differences between MySQL &amp; Postgres?”, and after a bunch of useful discussion on things like true full text search,
+complex indexes, PostGIS and Foreign Data Wrappers we end up discussing cider and chickens. Standard.</p>
+
+<ul>
+  <li><a href="http://planet.postgresql.org">Planet Postgres</a></li>
+  <li><a href="https://github.com/ricardochimal/taps">Taps</a> - Simple database import/export app</li>
+  <li><a href="http://multicorn.org/">Multicorn</a> - Unified data access library</li>
+  <li><a href="http://www.sqlalchemy.org/">SQL Alchemy</a></li>
+  <li><a href="http://pgfouine.projects.pgfoundry.org/">pgFouine</a> - a PostgreSQL log analyzer</li>
+  <li><a href="http://www.postgresql.org/docs/9.2/static/datatype-json.html">JSON datatype</a> - Store JSON directly in a Postgres field.</li>
+  <li><a href="http://redis4you.com/articles.php?id=011&amp;name=Postgres+9.1+foreign+data+wrapper+interface">Redis4You - Postgres 9.1 foreign data wrapper interface</a></li>
+  <li><a href="http://alexbilbie.com/2013/02/the-proper-way-of-solving-lifes-problems/">One man vs. his pet hate in life, Oreo cream</a> - The proper way of solving life’s problems</li>
+</ul>
+
+<p>Discuss this on <a href="http://www.reddit.com/r/PHP/comments/1izc47/php_town_hall_episode_10_postgres_bla_bla_cider/">Reddit</a>.</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-10-postgres-cider/</link>
+      <guid>http://phptownhall.com/blog/2013/07/24/episode-10-postgres-cider/</guid>
+      <pubDate>2013-07-24 12:45:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>55:46</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/10.mp3" type="audio/mp3" length="53537386" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 9: Is OAuth 2 The Devil?]]></title>
+      <description><![CDATA[<p><a href="http://alexbilbie.com/">Alex Bilbie</a> and <a href="http://zacharyblank.com/">Zackary Blank</a> come on the show to talk about OAuth 2, which has been getting a lot of 
+flamey bad press over the last year or two after the original author quit the project.</p>
+
+<p>Why these guys? Well, Alex until recently was working at the University of Lincoln where they did a 
+whole bunch of OAuth 2 work as auth for various API projects at the university. During this time he 
+created the fully spec compliant <a href="https://github.com/alexbilbie/CodeIgniter-OAuth-2.0-Server">CodeIgniter OAuth 2.0 Server</a>, which was later replaced 
+with a new <a href="https://github.com/php-loep/oauth2-server/">generic PHP version</a> for “The League of Extraordinary Packages”. It’s safe 
+to say that Alex knows his shit when it comes to OAuth.</p>
+
+<p>Zachary works for a different company on the same floor as Phil, and a client who shall remain 
+nameless has been complaining about OAuth 2, for reasons that we both felt to be… well… 
+silly. He’s been using Alex’s later library for several high-profile projects and is interested 
+in the security angle.</p>
+
+<ul>
+  <li><a href="https://github.com/php-loep/oauth2-server/wiki/Which-OAuth-2.0-grant-should-I-use%3F">Which OAuth 2.0 grant should I use?</a></li>
+  <li><a href="https://github.com/bshaffer/oauth2-server-php">Ben Shaffer’s OAuth2 server code</a></li>
+</ul>
+
+<p>Discuss this on <a href="http://www.reddit.com/r/PHP/comments/1i0huc/php_town_hall_episode_9_is_oauth_2_the_devil/">Reddit</a>.</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-9-is-oauth-2-the-devil/</link>
+      <guid>http://phptownhall.com/blog/2013/07/10/episode-9-is-oauth-2-the-devil/</guid>
+      <pubDate>2013-07-10 11:34:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>54:39</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/9.mp3" type="audio/mp3" length="52465737" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 8: Use your time machine to go to PeersConf yesterday]]></title>
+      <description><![CDATA[<p>In this episode Ben and Phil talk to the super-talented conference organiser <a href="https://twitter.com/justjessdc">Jessica D’Amico</a>, joined
+by avid conference goer and PHP rockstar Matt Frost. We all gab a bunch about conferences in general,
+specifically LaraCon, PeersConf and php|tek.</p>
+
+<p>We fucked up and didn’t get this episode out soon enough to actually get her any sales for her
+latest conferences <a href="http://peersconf.com/2013">PeersConf</a> (Phil is at PeersConf right now), but you should definitely
+follow Jess to see what conferences she puts on in the future, they’re always great.</p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</link>
+      <guid>http://phptownhall.com/blog/2013/06/27/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</guid>
+      <pubDate>2013-06-27 14:12:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>46:59</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/8.mp3" type="audio/mp3" length="45105476" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 7: Web Sockets Are Fast]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/boden_c">Chris Boden</a> joins us to talk about a <a href="http://socketo.me/">Ratchet</a> and <a href="http://reactphp.org/">React</a>. The conversation is basically Ben and Phil asking a bunch of questions about how Ratchet works, pretending we know what is going on while Chris uses lots of words like “concurrency” and “non-blocking”.</p>
+
+<p>We decide that PHP is web-scale, event-driven programming is not just for NodeJS hipsters, we all take the “Are You a Brogrammer” test and <a href="https://twitter.com/walesmd">Michael Wales</a> crashes the show half way through like a ninja.</p>
+
+<ul>
+  <li><a href="https://github.com/reactphp/promise">React: Promise</a></li>
+  <li><a href="http://areyouabrogrammer.com/">Are You a Brogrammer</a></li>
+  <li><a href="https://www.ubiquityservers.com/">Ubiquity Servers</a></li>
+  <li><a href="http://www.feedly.com/">Feedly</a></li>
+  <li><a href="http://www.slimframework.com/">Slim Framework</a></li>
+  <li><a href="http://deployd.com/">Deployd</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-7-web-sockets-are-fast/</link>
+      <guid>http://phptownhall.com/blog/2013/05/18/episode-7-web-sockets-are-fast/</guid>
+      <pubDate>2013-05-18 13:12:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>44:46</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/7.mp3" type="audio/mp3" length="42986005" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 6: PSR-X and the Mexican Standoff]]></title>
+      <description><![CDATA[<p>PHP-FIG member Paul M. Jones and PHP contributor Anthony Ferrera come on the podcast with Ben, Phil and regular guest Zack Kitzmiller to discuss the new Package Orientated Autoloader Proposal (a.k.a PSR-X), and whether or not PSR’s should ever be amended.</p>
+
+<p>Paul explains why the new PSR-X is a handy idea for those who are already PSR-0 users, or even those that aren’t, Zack flips a shit and gets bored of talking about standards wishing everyone could just use Python and their awesome PEP-8, we convince Paul to try swearing for once and we all try badgering Anthony into agreeing with us for some reason.</p>
+
+<p>Nobody wins, but the argument brings up a lot of interesting topics and points of view, and that is mostly what we are here for.</p>
+
+<ul>
+  <li><a href="http://www.php-fig.org/">PHP-FIG.org</a></li>
+  <li><a href="https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-0.md">PSR-0: Autoloading Standard</a></li>
+  <li><a href="https://groups.google.com/forum/?fromgroups=#!topic/php-fig/qT7mEy0RIuI">FIG ML - Proposal: Package-Orientated Autoloader</a></li>
+  <li><a href="http://geocoder-php.org/">Geocoder</a></li>
+  <li><a href="https://groups.google.com/forum/?fromgroups#!topic/php-fig/YTWBEuDvlwE">FIG ML - Amending Existing PSRs</a></li>
+  <li><a href="http://overapi.com/">OverAPI</a></li>
+  <li><a href="https://github.com/zurb/joyride">jQuery Joyride</a></li>
+  <li><a href="https://github.com/AlekseyKorzun/reCaptcha-PHP-5">reCaptcha</a></li>
+  <li><a href="http://filp.github.io/whoops/">Whoops</a></li>
+  <li><a href="https://npmjs.org/package/bee-hive">Beehive Node Package</a></li>
+  <li><a href="https://www.waveapps.com/">Wave Apps</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-6-psr-x-and-the-mexican-standoff/</link>
+      <guid>http://phptownhall.com/blog/2013/04/19/episode-6-psr-x-and-the-mexican-standoff/</guid>
+      <pubDate>2013-04-19 10:02:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:15:02</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/6.mp3" type="audio/mp3" length="72042107" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 5: PHPness Gate, Sexism and Mental Illness]]></title>
+      <description><![CDATA[<p>This was a tricky episode where we talk about some big genuine issues that affect PHP developers around the world, and we talked a lot about a t-shirt.</p>
+
+<p>After <a href="https://twitter.com/grmpyprogrammer">Chris Hartjes</a> cheated on his <a href="http://devhell.info/">/dev/hell podcast</a> by joining us in <a href="http://phptownhall.com/blog/2012/12/20/episode-3-expressionengine-stackexchange/">Episode 3</a>, Chris' partner in crime <a href="http://funkatron.com/">Ed "Funkatron" Finkler</a> decided to get revenge and come on the show.</p>
+
+<p>Our other guest <a href="http://twitter.com/mikointhecity">Miko Federmann</a> is a brilliant PHP and C developer who is a friend of Phil and Ben. She joins us on the show to discuss the recent hullabaloo known as "PHPness Gate" and the obviously connected issue of sexism in the industry.</p>
+
+<p>The second half of the show is Ed talking through how he personally deals with some of his own issues and gives tips to how other people can do the same.</p>
+
+<p>Next month we'll be back to bitching about something, telling you about new awesome PHP projects and using lots of swears, promise!</p>
+
+<ul>
+<li><a href="http://aralbalkan.com/scribbles/the-male-gaze-part-ii/">The Male Gaze</a> and <a href="http://aralbalkan.com/scribbles/the-male-gaze-part-ii/">The male gaze, revisited</a></li>
+<li><a href="http://www.amazon.com/Four-Agreements-Practical-Personal-Freedom/dp/1878424319">The Four Agreements: A Practical Guide to Personal Freedom</a></li>
+<li><a href="http://blog.kowalczyk.info/article/1cm1/Block-domains-for-improved-productivity.html">Block domains for improved productivity</a></li>
+<li><a href="http://www.dejal.com/timeout/">Time Out: Break reminder tool with micro-breaks</a></li>
+<li><a href="http://www.sublimetext.com/docs/2/distraction_free.html">Sublime Text: Distraction Free Mode</a></li>
+<li><a href="http://www.ommwriter.com/">Ommwriter</a></li>
+<li><a href="http://www.hogbaysoftware.com/products/writeroom">WriteRoom</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-5-phpness-gate/</link>
+      <guid>http://phptownhall.com/blog/2013/03/03/episode-5-phpness-gate/</guid>
+      <pubDate>2013-03-03 15:20:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>1:19:33</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/5.mp3" type="audio/mp3" length="76370084" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 4: PHP's Vision, Beards, and Cake]]></title>
+      <description><![CDATA[<p>We made it to episode 4, past the point of no return! In this episode we are joined by <a href="https://twitter.com/zackkitzmiller">Zack Kitzmiller</a> (owner of an awesome beard) and <a href="http://josediazgonzalez.com/">Jose Diaz-Gonzalez</a> (CakePHP developer extraordinaire) as we argue about PHP’s vision and how we think the language should progress in the future.</p>
+
+<ul>
+  <li>
+    <p><a href="http://philsturgeon.co.uk/blog/2013/01/php-6-pissing-in-the-wind">PHP 6: Pissing in the Wind</a></p>
+
+  </li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-4-phpsvision-beards-and-little-people/</link>
+      <guid>http://phptownhall.com/blog/2013/02/15/episode-4-phpsvision-beards-and-little-people/</guid>
+      <pubDate>2013-02-15 10:47:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>47:21</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/4.mp3" type="audio/mp3" length="45459364" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 3: ExpressionEngine StackExchange]]></title>
+      <description><![CDATA[<p>ExpressionEngine Pro <a href="https://twitter.com/mediagirl">Anna Brown</a> and Testing Hero <a href="https://twitter.com/grmpyprogrammer">Chris Hartjes</a> join <a href="https://twitter.com/benedmunds">Ben Edmunds</a> and <a href="https://twitter.com/philsturgeon">Phil Sturgeon</a> to discuss the recent rumblings in the ExpressionEngine community and the 
+new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a>. We talk about Inversion of Control (IoC), what it is, why its useful and how it’s done.</p>
+
+<p>We also talk a little bit about how PHP has been (and is continuing) to move towards a post-framework world thanks to independant framework-agnostic components - and of course we talk with Chris about unit-testing.</p>
+
+<ul>
+  <li><a href="http://expressionengine.stackexchange.com">ExpressionEngine StackExchange</a></li>
+  <li><a href="http://devhell.info/">/dev/hell Postcast</a></li>
+  <li><a href="https://leanpub.com/grumpy-testing">The Grumpy Programmer’s Guide To Building Testable PHP Applications</a></li>
+  <li><a href="http://vimeo.com/53029232">Laravel 4 - IoC Controller Injection &amp; Unit Testing</a></li>
+  <li>
+    <p><a href="http://www.littlehart.net/atthekeyboard/2012/12/17/so-you-want-to-write-tests/">So You Want To Write Tests</a></p>
+
+  </li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-3-expressionengine-stackexchange/</link>
+      <guid>http://phptownhall.com/blog/2012/12/20/episode-3-expressionengine-stackexchange/</guid>
+      <pubDate>2012-12-20 10:47:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>54:35</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/3.mp3" type="audio/mp3" length="52409154" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 2: A Node hipster, beardy Python fan, PHP contributor and a Bristolian talk about PHP 5.5]]></title>
+      <description><![CDATA[<p>We’re back for an “IRL” episode, with <a href="https://twitter.com/zackkitzmiller">Zack Kitzmiller</a>, <a href="https://twitter.com/seejohncode">John Crepezzi</a> and <a href="https://twitter.com/ircmaxell">Anthony Ferrera</a>, discussing PHP 5.5 and the new features it will bring.</p>
+
+<p><em>Note: The sound quality in this one is just awful, so sorry about that. This is the first time I have tried recording a podcast in a group like this, The quality will be considerably better next time around. If you want to skip this one then fair enough, but please come back for the third episode. Phil</em></p>
+
+<ul>
+  <li><a href="http://blog.astrumfutura.com/2012/04/php-innocent-villagefolk-or-a-pillagin-pirate/">PHP: Innocent Villagefolk or a Pillagin’ Pirate?</a></li>
+  <li><a href="http://nikic.github.com/2012/07/10/What-PHP-5-5-might-look-like.html">What PHP 5.5 might look like</a></li>
+  <li><a href="https://github.com/ircmaxell/ErrorExceptions">ErrorExceptions</a></li>
+  <li><a href="https://github.com/ircmaxell/password_compat">Password API for 5.3</a></li>
+  <li>
+    <p><a href="http://www.crucialwebhost.com/">Crucial Web Host</a> (the host with PHP 5.5 alpha1)</p>
+
+  </li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-2-php-5.5/</link>
+      <guid>http://phptownhall.com/blog/2012/12/04/episode-2-php-5.5/</guid>
+      <pubDate>2012-12-04 21:02:00 +0000</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>01:09:22</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/2.mp3" type="audio/mp3" length="66601377" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 1: Composer kicks ass, Laravel 4 is coming, and PHP Hosting sucks - guest Taylor Otwell]]></title>
+      <description><![CDATA[<p>In the first episode of the PHP Town Hall podcast, Phil Sturgeon and Ben Edmunds rant about how awesome Composer is; chat with Taylor Otwell about the upcoming Laravel 4 release; and whine about how horrible PHP PAAS hosting is.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</link>
+      <guid>http://phptownhall.com/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</guid>
+      <pubDate>2012-10-10 17:10:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>47:47</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/1.mp3" type="audio/mp3" length="45881050" />
+    </item>
+      
+    
+
+  </channel>
+</rss>
