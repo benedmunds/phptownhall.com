@@ -3,8 +3,8 @@ layout: post
 title: "Episode 49: Async and Stuff"
 date: 2016-03-16T18:00:00-05:00
 filename: 49
-bytes:
-duration:
+bytes: 62998057
+duration: 1:05:45
 youtube_id: XSpX3ynPkBg
 ---
 

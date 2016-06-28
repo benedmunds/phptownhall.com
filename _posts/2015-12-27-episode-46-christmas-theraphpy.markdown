@@ -9,7 +9,7 @@ duration: 01:10:50
 youtube_id: QVB_pG1wioc
 ---
 
-Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about daft people are on the Internet.
+Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about how daft some people are on the Internet.
 
 For some reason he accidentally read some /r/lolphp and got into an argument about how they think that PHP 7 is purely a cosmetic change. This was a good excuse to re-emphisize what an awesome set of fundamental changes PHP 7 really was.
 
