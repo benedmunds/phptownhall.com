@@ -2,9 +2,9 @@
 layout: post
 title: "Episode 50: Low down on PSR-15"
 date: 2016-06-28T00:00:00+01:00
-filename:
-bytes:
-duration:
+filename: 50
+bytes: 53839089
+duration: 56:11
 youtube_id: 1w56anBhWEg
 ---
 
