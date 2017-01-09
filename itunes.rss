@@ -15,8 +15,8 @@ layout: null
     <itunes:explicit>no</itunes:explicit>
 
     <itunes:owner>
-      <itunes:name>Phil Sturgeon</itunes:name>
-      <itunes:email>me@philsturgeon.uk</itunes:email>
+      <itunes:name>Ben Edmunds</itunes:name>
+      <itunes:email>ben.edmunds@gmail.com</itunes:email>
     </itunes:owner>
 
     <itunes:image href="http://s3.amazonaws.com/phptownhall/logo.png" />
