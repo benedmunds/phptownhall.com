@@ -12,8 +12,8 @@
     <itunes:explicit>no</itunes:explicit>
 
     <itunes:owner>
-      <itunes:name>Phil Sturgeon</itunes:name>
-      <itunes:email>me@philsturgeon.uk</itunes:email>
+      <itunes:name>Ben Edmunds</itunes:name>
+      <itunes:email>ben.edmunds@gmail.com</itunes:email>
     </itunes:owner>
 
     <itunes:image href="http://s3.amazonaws.com/phptownhall/logo.png" />
@@ -25,7 +25,57 @@
 
     
       
+    <item>
+      <title><![CDATA[Episode 50: Low down on PSR-15]]></title>
+      <description><![CDATA[<p>An all star cast this episode, as Ben and Phil are joined by regular guest <a href="https://twitter.com/ircmaxell">Anthony Ferrara</a> - thinker of good ideas and long-time part-time side-line contributor to the PHP-FIG, <a href="https://twitter.com/shadowhand">Woody Gilk</a> - one-speed rider &amp; BDFL of Kohana, and
+<a href="https://twitter.com/beausimensen">Beau Simensen</a> - author of a bunch of stuff including <a href="http://stackphp.com/">StackPHP</a>.</p>
+
+<p>Here we’re talking about some awesome stuff the PHP-FIG is working on: PSR-15 (HTTP Middleware). This PSR is in Draft mode, and is potentially not as well known about as some others. There was a bit of a cuffufle getting it started as before it had even passed an entrance vote there were alternatives and rewrites suggested, but now the major players are on the same page and things are moving forward.</p>
+
+<p>We discuss all this, and the reason PSR-7 (HTTP Message) is not enough for the ecosystem to benefit from shareable middleware. Jumping away from PSR-15 for a second there is an interesting bit of insight into why the PHP-FIG didn’t just slap a “PSR” sticker on Symfony’s HTTP Kernel or HTTP Foundation.</p>
+
+<p>Woody provides a bit of the decision-making process in a very tricky aspect of the FIGs job, which is: should standards be built entirely to match existing implementations, or should standards try to improve on the learnings of the existing implementations to better them all as implementations change to support the standard. It’s all a bit chicken and egg, but a very worthy discussion to have.</p>
+
+<ul>
+  <li><a href="http://blog.ircmaxell.com/2016/05/all-about-middleware.html">All About Middleware</a> - Anthony posts about PHP HTTP Middleware</li>
+  <li><a href="https://philsturgeon.uk/php/2016/05/31/why-care-about-php-middleware/">Why Care About PHP Middleware?</a> - Summary of the initial Anthony vs Woody approaches and background on the HTTP middleware concept</li>
+  <li><a href="http://stackphp.com/">StackPHP</a> - Composing HttpKernelInterface middlewares since 2013!</li>
+  <li><a href="http://equip.github.io/">Equip</a> - Equip is a tiny and powerful PHP micro-framework created and maintained by the engineering team at <a href="http://wheniwork.com/">When I Work</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
+      <guid>https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
+      <pubDate>2016-06-27 19:00:00 -0400</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>202260.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/50.mp3" type="audio/mp3" length="53839089" />
+    </item>
+      
     
+      
+    <item>
+      <title><![CDATA[Episode 49: Async and Stuff]]></title>
+      <description><![CDATA[<p>The notes for this episode were lost when Phil spilt some really hipster orange juice over his
+laptop and bricked the whole thing. We do remember that returning guest <a href="https://twitter.com/boden_c">Chris Boden</a> and <a href="https://twitter.com/assertchris">Chris Pitt</a> swing by to talk async in PHP.</p>
+
+<p>In a future episode we’ll probably talk about data backup strategies.</p>
+
+<ul>
+  <li><a href="https://philsturgeon.uk/php/2013/11/12/benchmarking-codswallop-nodejs-v-php/">Benchmarking Codswallop: NodeJS vs PHP</a> - An oldie but a goody, why NodeJS isn’t magically better at async than PHP</li>
+  <li><a href="http://socketo.me/">Ratchet</a> - WebSockets for PHP</li>
+  <li><a href="https://medium.com/async-php/a-case-for-async-php-f33e5e31ebba">A Case for Async PHP</a> - Chris Pitt wrote about this stuff on Medium</li>
+  <li><a href="https://icicle.io/">icicle.io</a> - Write asynchronous code using synchronous coding techniques in PHP</li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-49-async/</link>
+      <guid>https://phptownhall.com/episode-49-async/</guid>
+      <pubDate>2016-03-16 19:00:00 -0400</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3945.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/49.mp3" type="audio/mp3" length="62998057" />
+    </item>
       
     
       
@@ -45,7 +95,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-48-code-of-conduct/</link>
       <guid>https://phptownhall.com/episode-48-code-of-conduct/</guid>
-      <pubDate>2016-02-15 18:14:50 +0000</pubDate>
+      <pubDate>2016-02-15 13:14:50 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>5599.0</itunes:duration>
@@ -62,7 +112,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</link>
       <guid>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</guid>
-      <pubDate>2016-02-07 00:30:00 +0000</pubDate>
+      <pubDate>2016-02-06 19:30:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3836.0</itunes:duration>
@@ -80,8 +130,8 @@
 <p>Ben and Phil then discuss the FIGs identity crisis before Phil goes off on another ramble about that. We’ll cover that better on later episodes!</p>
 ]]></description>
       <link>https://phptownhall.com/episode-46-christmas-theraphpy/</link>
-      <guid>http://phptownhall.com/blog/2015/12/28/episode-46-christmas-theraphpy/</guid>
-      <pubDate>2015-12-28 00:00:00 +0000</pubDate>
+      <guid>http://phptownhall.com/blog/2015/12/27/episode-46-christmas-theraphpy/</guid>
+      <pubDate>2015-12-27 19:00:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>4250.0</itunes:duration>
@@ -98,7 +148,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-45-good-evening-seattle/</link>
       <guid>http://phptownhall.com/blog/2015/09/12/episode-45-good-evening-seattle/</guid>
-      <pubDate>2015-09-12 13:30:00 +0100</pubDate>
+      <pubDate>2015-09-12 08:30:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3019.0</itunes:duration>
@@ -115,7 +165,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-44-api-madness/</link>
       <guid>http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/</guid>
-      <pubDate>2015-07-22 13:30:00 +0100</pubDate>
+      <pubDate>2015-07-22 08:30:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3769.0</itunes:duration>
@@ -133,8 +183,8 @@
 <p>Once again we promised to get this up before the conference to advertise it, and we’re releasing this audio version the night before, but what can we say… we’re shit at this.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-43-midnight-express/</link>
-      <guid>http://phptownhall.com/blog/2015/06/12/episode-43-midnight-express/</guid>
-      <pubDate>2015-06-12 03:00:00 +0100</pubDate>
+      <guid>http://phptownhall.com/blog/2015/06/11/episode-43-midnight-express/</guid>
+      <pubDate>2015-06-11 22:00:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1403.0</itunes:duration>
@@ -154,8 +204,8 @@
 <p>We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil’s recent blog post about how hard it is to be a famous PHP rockstar guru.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-42-paul-and-vance/</link>
-      <guid>http://phptownhall.com/blog/2015/05/23/episode-42-paul-and-vance/</guid>
-      <pubDate>2015-05-23 03:00:00 +0100</pubDate>
+      <guid>http://phptownhall.com/blog/2015/05/22/episode-42-paul-and-vance/</guid>
+      <pubDate>2015-05-22 22:00:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3891.0</itunes:duration>
@@ -176,8 +226,8 @@
 
 ]]></description>
       <link>https://phptownhall.com/episode-41-loosely-town-hall-dallas/</link>
-      <guid>http://phptownhall.com/blog/2015/04/19/episode-41-loosely-town-hall-dallas/</guid>
-      <pubDate>2015-04-19 02:30:00 +0100</pubDate>
+      <guid>http://phptownhall.com/blog/2015/04/18/episode-41-loosely-town-hall-dallas/</guid>
+      <pubDate>2015-04-18 21:30:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3939.0</itunes:duration>
@@ -194,8 +244,8 @@
 
 ]]></description>
       <link>https://phptownhall.com/episode-40-ferrara-scalar-type-hints/</link>
-      <guid>http://phptownhall.com/blog/2015/03/21/episode-40-ferrara-scalar-type-hints/</guid>
-      <pubDate>2015-03-21 01:15:00 +0000</pubDate>
+      <guid>http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints/</guid>
+      <pubDate>2015-03-20 21:15:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>5073.0</itunes:duration>
@@ -221,7 +271,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-39-hi-josh/</link>
       <guid>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh/</guid>
-      <pubDate>2015-03-12 17:03:58 +0000</pubDate>
+      <pubDate>2015-03-12 13:03:58 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3249.0</itunes:duration>
@@ -254,8 +304,8 @@
 <p>Shownotes are lacking, because we clearly weren’t writing anything down.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-37-round-hall-sunshine/</link>
-      <guid>http://phptownhall.com/blog/2015/02/08/episode-37-round-hall-sunshine/</guid>
-      <pubDate>2015-02-08 02:00:00 +0000</pubDate>
+      <guid>http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-sunshine/</guid>
+      <pubDate>2015-02-07 21:00:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:13:23</itunes:duration>
@@ -283,8 +333,8 @@
 </ul>
 ]]></description>
       <link>https://phptownhall.com/episode-36-psr-7-the-world-of-tomorrow/</link>
-      <guid>http://phptownhall.com/blog/2015/02/03/episode-36-psr-7-the-world-of-tomorrow/</guid>
-      <pubDate>2015-02-03 03:00:10 +0000</pubDate>
+      <guid>http://phptownhall.com/blog/2015/02/02/episode-36-psr-7-the-world-of-tomorrow/</guid>
+      <pubDate>2015-02-02 22:00:10 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>52:39</itunes:duration>
@@ -302,7 +352,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-35-developer-to-cto-and-back/</link>
       <guid>http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back/</guid>
-      <pubDate>2015-01-09 16:53:47 +0000</pubDate>
+      <pubDate>2015-01-09 11:53:47 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:21:54</itunes:duration>
@@ -336,7 +386,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-34-dev-hell-mashup/</link>
       <guid>http://phptownhall.com/blog/2015/01/09/episode-34-dev-hell-mashup/</guid>
-      <pubDate>2015-01-09 16:53:47 +0000</pubDate>
+      <pubDate>2015-01-09 11:53:47 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:33:20</itunes:duration>
@@ -360,7 +410,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-33-cakes-monga-rfcs/</link>
       <guid>http://phptownhall.com/blog/2014/11/19/episode-33-cakes-monga-rfcs/</guid>
-      <pubDate>2014-11-19 18:50:20 +0000</pubDate>
+      <pubDate>2014-11-19 13:50:20 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>0:59:19</itunes:duration>
@@ -383,7 +433,7 @@
 ]]></description>
       <link>https://phptownhall.com/episode-32-ben-and-phil-catch-up/</link>
       <guid>http://phptownhall.com/blog/2014/11/04/episode-32-ben-and-phil-catch-up/</guid>
-      <pubDate>2014-11-04 20:50:20 +0000</pubDate>
+      <pubDate>2014-11-04 15:50:20 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:02:38</itunes:duration>
@@ -411,8 +461,8 @@
 <p><a href="http://teamtreehouse.com/">Treehouse</a> - learn to program yo</p>
 ]]></description>
       <link>https://phptownhall.com/episode-31-the-one-about-hot-dogs/</link>
-      <guid>http://phptownhall.com/blog/2014/10/17/episode-31-the-one-about-hot-dogs/</guid>
-      <pubDate>2014-10-17 01:51:20 +0100</pubDate>
+      <guid>http://phptownhall.com/blog/2014/10/16/episode-31-the-one-about-hot-dogs/</guid>
+      <pubDate>2014-10-16 20:51:20 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>0:47:10</itunes:duration>
@@ -429,8 +479,8 @@
 
 ]]></description>
       <link>https://phptownhall.com/episode-30-specs-implementations-and-new-engines-oh-my/</link>
-      <guid>http://phptownhall.com/blog/2014/08/26/episode-30-specs-implementations-and-new-engines-oh-my/</guid>
-      <pubDate>2014-08-26 02:18:50 +0100</pubDate>
+      <guid>http://phptownhall.com/blog/2014/08/25/episode-30-specs-implementations-and-new-engines-oh-my/</guid>
+      <pubDate>2014-08-25 21:18:50 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:14:57</itunes:duration>
@@ -466,7 +516,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/episode-29-dont-mention-php-6-v-php-7/</link>
       <guid>http://phptownhall.com/blog/2014/07/30/episode-29-dont-mention-php-6-v-php-7/</guid>
-      <pubDate>2014-07-30 20:18:48 +0100</pubDate>
+      <pubDate>2014-07-30 15:18:48 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:19:35</itunes:duration>
@@ -507,7 +557,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/episode-28-loosley-coupled-mashup/</link>
       <guid>http://phptownhall.com/blog/2014/07/10/episode-28-loosley-coupled-mashup/</guid>
-      <pubDate>2014-07-10 15:40:49 +0100</pubDate>
+      <pubDate>2014-07-10 10:40:49 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:54:25</itunes:duration>
@@ -543,7 +593,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/episode-27-foo/</link>
       <guid>http://phptownhall.com/blog/2014/06/29/episode-27-foo/</guid>
-      <pubDate>2014-06-29 20:03:01 +0100</pubDate>
+      <pubDate>2014-06-29 15:03:01 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:34:47</itunes:duration>
@@ -568,7 +618,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/episode-26-hello-front-range/</link>
       <guid>http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range/</guid>
-      <pubDate>2014-06-18 19:25:01 +0100</pubDate>
+      <pubDate>2014-06-18 14:25:01 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>53:26</itunes:duration>
@@ -604,7 +654,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/episode-25-girls-arent-any-different/</link>
       <guid>http://phptownhall.com/blog/2014/05/28/episode-25-girls-arent-any-different/</guid>
-      <pubDate>2014-05-28 20:39:38 +0100</pubDate>
+      <pubDate>2014-05-28 15:39:38 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>53:48</itunes:duration>
@@ -623,7 +673,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/episode-24-but-is-it-web-scale/</link>
       <guid>http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale/</guid>
-      <pubDate>2014-05-14 18:52:29 +0100</pubDate>
+      <pubDate>2014-05-14 13:52:29 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:35:18</itunes:duration>
@@ -650,7 +700,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/virtphp-managing-your-herd-of-php-versions/</link>
       <guid>http://phptownhall.com/blog/2014/04/10/virtphp-managing-your-herd-of-php-versions/</guid>
-      <pubDate>2014-04-10 06:08:31 +0100</pubDate>
+      <pubDate>2014-04-10 01:08:31 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:19:52</itunes:duration>
@@ -675,7 +725,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 ]]></description>
       <link>https://phptownhall.com/episode-22-the-great-joomla-license-battle-of-2014/</link>
       <guid>http://phptownhall.com/blog/2014/03/26/episode-22-the-great-joomla-license-battle-of-2014/</guid>
-      <pubDate>2014-03-26 06:04:16 +0000</pubDate>
+      <pubDate>2014-03-26 02:04:16 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:06:56</itunes:duration>
@@ -708,7 +758,7 @@ about provisioning, comparing Chef, Puppet and Ansible.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-21-attack-of-the-brazilians/</link>
       <guid>http://phptownhall.com/blog/2014/03/14/episode-21-attack-of-the-brazilians/</guid>
-      <pubDate>2014-03-14 08:20:12 +0000</pubDate>
+      <pubDate>2014-03-14 04:20:12 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:07:57</itunes:duration>
@@ -767,7 +817,7 @@ Phil are the three FIG members who make up the working group for PSR-7 who will 
 ]]></description>
       <link>https://phptownhall.com/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/</link>
       <guid>http://phptownhall.com/blog/2014/03/06/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/</guid>
-      <pubDate>2014-03-06 15:23:12 +0000</pubDate>
+      <pubDate>2014-03-06 10:23:12 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:03:35</itunes:duration>
@@ -793,7 +843,7 @@ people have with an otherwise wonderful system, and on the reusability of its pa
 ]]></description>
       <link>https://phptownhall.com/episode-19-jeffrey-laracasts-bdfls/</link>
       <guid>http://phptownhall.com/blog/2014/02/15/episode-19-jeffrey-laracasts-bdfls/</guid>
-      <pubDate>2014-02-15 22:42:00 +0000</pubDate>
+      <pubDate>2014-02-15 17:42:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>00:59:25</itunes:duration>
@@ -815,7 +865,7 @@ people have with an otherwise wonderful system, and on the reusability of its pa
 ]]></description>
       <link>https://phptownhall.com/episode-18-phpdbg-hhvm-internals/</link>
       <guid>http://phptownhall.com/blog/2014/01/29/episode-18-phpdbg-hhvm-internals/</guid>
-      <pubDate>2014-01-29 22:42:00 +0000</pubDate>
+      <pubDate>2014-01-29 17:42:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>00:54:02</itunes:duration>
@@ -851,7 +901,7 @@ people have with an otherwise wonderful system, and on the reusability of its pa
 ]]></description>
       <link>https://phptownhall.com/episode-17-cal-evans-nomad-bat-shit/</link>
       <guid>http://phptownhall.com/blog/2013/12/30/episode-17-cal-evans-nomad-bat-shit/</guid>
-      <pubDate>2013-12-30 18:42:00 +0000</pubDate>
+      <pubDate>2013-12-30 13:42:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:02:45</itunes:duration>
@@ -870,8 +920,8 @@ into letting him speak at LaraCon 2014.</p>
 <p>We also argue about Go and fight about Vagrant and Chef for a bit.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-16-taylor-otwell-laravel41/</link>
-      <guid>http://phptownhall.com/blog/2013/12/03/episode-16-taylor-otwell-laravel41/</guid>
-      <pubDate>2013-12-03 02:45:00 +0000</pubDate>
+      <guid>http://phptownhall.com/blog/2013/12/02/episode-16-taylor-otwell-laravel41/</guid>
+      <pubDate>2013-12-02 21:45:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:17:36</itunes:duration>
@@ -891,8 +941,8 @@ into letting him speak at LaraCon 2014.</p>
 <p>The next will be done November 18th, 2013 at 9:30pm EST.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-15-joomla-fig-psr4/</link>
-      <guid>http://phptownhall.com/blog/2013/11/14/episode-15-joomla-fig-psr4/</guid>
-      <pubDate>2013-11-14 03:36:00 +0000</pubDate>
+      <guid>http://phptownhall.com/blog/2013/11/13/episode-15-joomla-fig-psr4/</guid>
+      <pubDate>2013-11-13 22:36:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:12:14</itunes:duration>
@@ -926,7 +976,7 @@ from a very early point.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-14-shipit/</link>
       <guid>http://phptownhall.com/blog/2013/10/24/episode-14-shipit/</guid>
-      <pubDate>2013-10-24 15:30:00 +0100</pubDate>
+      <pubDate>2013-10-24 10:30:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:05:06</itunes:duration>
@@ -949,7 +999,7 @@ from a very early point.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-13-php-internals/</link>
       <guid>http://phptownhall.com/blog/2013/10/14/episode-13-php-internals/</guid>
-      <pubDate>2013-10-14 22:45:00 +0100</pubDate>
+      <pubDate>2013-10-14 17:45:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>53:30</itunes:duration>
@@ -973,7 +1023,7 @@ from a very early point.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-12-function-autoloading/</link>
       <guid>http://phptownhall.com/blog/2013/09/11/episode-12-function-autoloading/</guid>
-      <pubDate>2013-09-11 22:45:00 +0100</pubDate>
+      <pubDate>2013-09-11 17:45:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:04:19</itunes:duration>
@@ -1000,7 +1050,7 @@ spin when you jump out of a plane.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-11-bike-safety/</link>
       <guid>http://phptownhall.com/blog/2013/09/03/episode-11-bike-safety/</guid>
-      <pubDate>2013-09-03 14:45:00 +0100</pubDate>
+      <pubDate>2013-09-03 09:45:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:15:49</itunes:duration>
@@ -1034,7 +1084,7 @@ complex indexes, PostGIS and Foreign Data Wrappers we end up discussing cider an
 ]]></description>
       <link>https://phptownhall.com/episode-10-postgres-cider/</link>
       <guid>http://phptownhall.com/blog/2013/07/24/episode-10-postgres-cider/</guid>
-      <pubDate>2013-07-24 12:45:00 +0100</pubDate>
+      <pubDate>2013-07-24 12:45:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>55:46</itunes:duration>
@@ -1069,7 +1119,7 @@ in the security angle.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-9-is-oauth-2-the-devil/</link>
       <guid>http://phptownhall.com/blog/2013/07/10/episode-9-is-oauth-2-the-devil/</guid>
-      <pubDate>2013-07-10 11:34:00 +0100</pubDate>
+      <pubDate>2013-07-10 11:34:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>54:39</itunes:duration>
@@ -1091,7 +1141,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</link>
       <guid>http://phptownhall.com/blog/2013/06/27/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</guid>
-      <pubDate>2013-06-27 14:12:00 +0100</pubDate>
+      <pubDate>2013-06-27 14:12:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>46:59</itunes:duration>
@@ -1117,7 +1167,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-7-web-sockets-are-fast/</link>
       <guid>http://phptownhall.com/blog/2013/05/18/episode-7-web-sockets-are-fast/</guid>
-      <pubDate>2013-05-18 13:12:00 +0100</pubDate>
+      <pubDate>2013-05-18 13:12:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>44:46</itunes:duration>
@@ -1150,7 +1200,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-6-psr-x-and-the-mexican-standoff/</link>
       <guid>http://phptownhall.com/blog/2013/04/19/episode-6-psr-x-and-the-mexican-standoff/</guid>
-      <pubDate>2013-04-19 10:02:00 +0100</pubDate>
+      <pubDate>2013-04-19 10:02:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:15:02</itunes:duration>
@@ -1183,7 +1233,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-5-phpness-gate/</link>
       <guid>http://phptownhall.com/blog/2013/03/03/episode-5-phpness-gate/</guid>
-      <pubDate>2013-03-03 15:20:00 +0000</pubDate>
+      <pubDate>2013-03-03 15:20:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:19:33</itunes:duration>
@@ -1205,7 +1255,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-4-phpsvision-beards-and-little-people/</link>
       <guid>http://phptownhall.com/blog/2013/02/15/episode-4-phpsvision-beards-and-little-people/</guid>
-      <pubDate>2013-02-15 10:47:00 +0000</pubDate>
+      <pubDate>2013-02-15 10:47:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>47:21</itunes:duration>
@@ -1234,7 +1284,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
 ]]></description>
       <link>https://phptownhall.com/episode-3-expressionengine-stackexchange/</link>
       <guid>http://phptownhall.com/blog/2012/12/20/episode-3-expressionengine-stackexchange/</guid>
-      <pubDate>2012-12-20 10:47:00 +0000</pubDate>
+      <pubDate>2012-12-20 10:47:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>54:35</itunes:duration>
@@ -1262,7 +1312,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
 ]]></description>
       <link>https://phptownhall.com/episode-2-php-5.5/</link>
       <guid>http://phptownhall.com/blog/2012/12/04/episode-2-php-5.5/</guid>
-      <pubDate>2012-12-04 21:02:00 +0000</pubDate>
+      <pubDate>2012-12-04 21:02:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:09:22</itunes:duration>
@@ -1277,7 +1327,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
 ]]></description>
       <link>https://phptownhall.com/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</link>
       <guid>http://phptownhall.com/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</guid>
-      <pubDate>2012-10-10 17:10:00 +0100</pubDate>
+      <pubDate>2012-10-10 17:10:00 -0400</pubDate>
       <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>47:47</itunes:duration>

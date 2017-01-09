@@ -5,8 +5,8 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil&#39;s turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jun 2016 15:02:54 +0100</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 15:02:54 +0100</lastBuildDate>
+    <pubDate>Mon, 09 Jan 2017 16:54:07 -0500</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2017 16:54:07 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,7 +27,7 @@
   &lt;li&gt;&lt;a href=&quot;http://equip.github.io/&quot;&gt;Equip&lt;/a&gt; - Equip is a tiny and powerful PHP micro-framework created and maintained by the engineering team at &lt;a href=&quot;http://wheniwork.com/&quot;&gt;When I Work&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 28 Jun 2016 00:00:00 +0100</pubDate>
+        <pubDate>Mon, 27 Jun 2016 19:00:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
         
@@ -48,7 +48,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
   &lt;li&gt;&lt;a href=&quot;https://icicle.io/&quot;&gt;icicle.io&lt;/a&gt; - Write asynchronous code using synchronous coding techniques in PHP&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 16 Mar 2016 23:00:00 +0000</pubDate>
+        <pubDate>Wed, 16 Mar 2016 19:00:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-49-async/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-49-async/</guid>
         
@@ -69,7 +69,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 
 &lt;p&gt;We can make our community a better place, and Jenny has a few tips on how you can help with that goal.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 15 Feb 2016 18:14:50 +0000</pubDate>
+        <pubDate>Mon, 15 Feb 2016 13:14:50 -0500</pubDate>
         <link>https://phptownhall.com/episode-48-code-of-conduct/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-48-code-of-conduct/</guid>
         
@@ -82,7 +82,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 
 &lt;p&gt;Oh and Ben Marks was definitely talking about Magento again.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 07 Feb 2016 00:30:00 +0000</pubDate>
+        <pubDate>Sat, 06 Feb 2016 19:30:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</guid>
         
@@ -97,7 +97,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 
 &lt;p&gt;Ben and Phil then discuss the FIGs identity crisis before Phil goes off on another ramble about that. We’ll cover that better on later episodes!&lt;/p&gt;
 </description>
-        <pubDate>Mon, 28 Dec 2015 00:00:00 +0000</pubDate>
+        <pubDate>Sun, 27 Dec 2015 19:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-46-christmas-theraphpy/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-46-christmas-theraphpy/</guid>
         
@@ -110,7 +110,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 
 &lt;p&gt;Ben talks about Magento and some of his conference traveling madness, as does Yitz, who got trapped in a hotel for a whole weekend due to some interesting combination of Jewish holidays and an argument over the interational date line in New Zealand. Phil also tells us all about his NZ speeding ticket, mowing down possums like it’s Carmageddon, and makes a few terrible jokes because &lt;a href=&quot;https://philsturgeon.uk/charity/2015/08/22/no-booze/&quot;&gt;he’s scarily sober&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 12 Sep 2015 13:30:00 +0100</pubDate>
+        <pubDate>Sat, 12 Sep 2015 08:30:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-45-good-evening-seattle/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-45-good-evening-seattle/</guid>
         
@@ -123,7 +123,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 
 &lt;p&gt;Phil ended up having a listen to this after the fact, and found it awesome! This episode is probably better for him not being there, as there are some opinions that didn’t initially match his, but they’re really interesting and make him reconsider a few things.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 22 Jul 2015 13:30:00 +0100</pubDate>
+        <pubDate>Wed, 22 Jul 2015 08:30:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-44-api-madness/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-44-api-madness/</guid>
         
@@ -138,7 +138,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 
 &lt;p&gt;Once again we promised to get this up before the conference to advertise it, and we’re releasing this audio version the night before, but what can we say… we’re shit at this.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 12 Jun 2015 03:00:00 +0100</pubDate>
+        <pubDate>Thu, 11 Jun 2015 22:00:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-43-midnight-express/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-43-midnight-express/</guid>
         
@@ -155,7 +155,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 
 &lt;p&gt;We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil’s recent blog post about how hard it is to be a famous PHP rockstar guru.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 23 May 2015 03:00:00 +0100</pubDate>
+        <pubDate>Fri, 22 May 2015 22:00:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-42-paul-and-vance/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-42-paul-and-vance/</guid>
         
@@ -173,7 +173,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
 &lt;p&gt;Audio only this time folks!&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 19 Apr 2015 02:30:00 +0100</pubDate>
+        <pubDate>Sat, 18 Apr 2015 21:30:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-41-loosely-town-hall-dallas/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-41-loosely-town-hall-dallas/</guid>
         
