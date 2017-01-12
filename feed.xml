@@ -5,9 +5,23 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil&#39;s turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Jan 2017 16:54:07 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Jan 2017 16:54:07 -0500</lastBuildDate>
+    <pubDate>Thu, 12 Jan 2017 16:43:28 -0500</pubDate>
+    <lastBuildDate>Thu, 12 Jan 2017 16:43:28 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 51: Good Riddance</title>
+        <description>&lt;p&gt;In this episode Ben and Phil discuss what’s new in their pathetic little lives, the state of the PHP-FIG, and bid an ecstatic.. ahem.. sad farewell to Phil as he departs the podcast.  Starting with Episode 51 &lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; will be taking over as co-host.  Ben is staying so don’t worry, we know he’s your favorite.&lt;/p&gt;
+
+&lt;p&gt;Phil,
+Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way too much booze, and a lot of fun.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jan 2017 18:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-51-good-riddance/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-51-good-riddance/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 50: Low down on PSR-15</title>
@@ -158,24 +172,6 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
         <pubDate>Fri, 22 May 2015 22:00:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-42-paul-and-vance/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-42-paul-and-vance/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 41: Loosely Town Hall - Dallas Edition</title>
-        <description>&lt;p&gt;This episode is brought to you from thunderstruck Dallas, as part of the awesome conference that is &lt;a href=&quot;http://lonestarphp.com&quot;&gt;Lone Star PHP&lt;/a&gt;. We are joined once again by the dynamic duo &lt;a href=&quot;https://twitter.com/jcarouth&quot;&gt;Jeff Carouth&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/shrtwhitebldguy&quot;&gt;Matt Frost&lt;/a&gt; off of the &lt;a href=&quot;http://looselycoupled.info/&quot;&gt;Loosely Coupled&lt;/a&gt; podcast!&lt;/p&gt;
-
-&lt;p&gt;We mostly make a bunch of bad jokes then drag up the audience to talk about stuff. Lets be honest, this was a bit of a crapshoot, but Elizabeth Smith goes into some detail on PECL and the problems of ownership. PSR-7 is chatted about for the 19th time and Jordi talks a bit about pickles.&lt;/p&gt;
-
-&lt;p&gt;Also, we debate “haytch” vs. “atch” as the correct pronunciation of the “H” in HTTP. Important stuff.&lt;/p&gt;
-
-&lt;p&gt;Audio only this time folks!&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 18 Apr 2015 21:30:00 -0400</pubDate>
-        <link>https://phptownhall.com/episode-41-loosely-town-hall-dallas/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-41-loosely-town-hall-dallas/</guid>
         
         
       </item>
