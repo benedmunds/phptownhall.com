@@ -1,5 +1,5 @@
 method: git                               # How do you want to deploy? git, rsync or s3.
 site_dir: _site                           # Location of your static site files.
 
-git_url: git@github.com:philsturgeon/phptownhall.com.git
+git_url: git@github.com:benedmunds/phptownhall.com.git
 git_branch: gh-pages
