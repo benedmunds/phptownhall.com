@@ -3,6 +3,8 @@ layout: post
 title: "Episode 51: Good Riddance"
 date: 2017-01-08T00:00:00 +01:00
 comments: true
+filename: 51
+bytes: 53839089
 duration: 45:49:00
 youtube_id: uUIqwfQqoOU
 ---
