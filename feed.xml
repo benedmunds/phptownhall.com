@@ -5,8 +5,8 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil&#39;s turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Jan 2017 01:45:44 -0500</pubDate>
-    <lastBuildDate>Wed, 18 Jan 2017 01:45:44 -0500</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2017 11:18:16 -0500</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 11:18:16 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -19,6 +19,17 @@ Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way to
         <pubDate>Sat, 07 Jan 2017 18:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-51-good-riddance/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-51-good-riddance/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 52: What Do We Do Now?</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; officially takes the co-host reins!  We ease you in to the transition by Ben grilling… ahem… interviewing Amanda a bit so you can get to know her better.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jan 2017 18:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/2017-what-do-we-do-now/</link>
+        <guid isPermaLink="true">https://phptownhall.com/2017-what-do-we-do-now/</guid>
         
         
       </item>
@@ -155,23 +166,6 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
         <pubDate>Thu, 11 Jun 2015 22:00:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-43-midnight-express/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-43-midnight-express/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 42: Paul and Vance</title>
-        <description>&lt;p&gt;After a little hiatus Phil and Ben back at it, joined this time by &lt;a href=&quot;https://twitter.com/dr4goonis&quot;&gt;Paul Dragoonis&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/vlucas&quot;&gt;Vance Lucas&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Paul does some fairly call stuff, manages the &lt;a href=&quot;http://www.ppi.io/&quot;&gt;PPI framework&lt;/a&gt; and contributes to building the actual &lt;a href=&quot;http://php.net/&quot;&gt;PHP.net website&lt;/a&gt;, the poor sod. Paul is also the winner in the “PHP developers from the UK who are hard to understand” contest two years running, only beating Phil to the title due to being slightly better at handling his booze.&lt;/p&gt;
-
-&lt;p&gt;Vance works at &lt;a href=&quot;http://www.netsuite.org/&quot;&gt;NetSuite&lt;/a&gt; and has open-sourced a bunch of code things, most notably &lt;a href=&quot;https://github.com/vlucas/phpdotenv&quot;&gt;phpdotenv&lt;/a&gt; and &lt;a href=&quot;https://github.com/vlucas/frisby&quot;&gt;frisby&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;We all have a little natter, share some of our horror stories from projects including PHP.net, and talk about Phil’s recent blog post about how hard it is to be a famous PHP rockstar guru.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 May 2015 22:00:00 -0400</pubDate>
-        <link>https://phptownhall.com/episode-42-paul-and-vance/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-42-paul-and-vance/</guid>
         
         
       </item>
