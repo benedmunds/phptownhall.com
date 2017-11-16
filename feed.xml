@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PHP Town Hall</title>
-    <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil&#39;s turtle.</description>
+    <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 28 Aug 2017 11:04:13 -0400</pubDate>
-    <lastBuildDate>Mon, 28 Aug 2017 11:04:13 -0400</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 16 Nov 2017 16:16:59 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2017 16:16:59 -0500</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>Episode 54: Conferences and Stuff</title>
