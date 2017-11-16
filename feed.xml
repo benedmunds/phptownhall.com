@@ -5,9 +5,29 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Nov 2017 16:16:59 -0500</pubDate>
-    <lastBuildDate>Thu, 16 Nov 2017 16:16:59 -0500</lastBuildDate>
+    <pubDate>Thu, 16 Nov 2017 16:29:56 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Nov 2017 16:29:56 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Episode 55: The Hardest Problem in Software</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/walesmd&quot;&gt;Mike Wales&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/rands&quot;&gt;Michael Lopp&lt;/a&gt; to discuss the hardest problem in software - people.&lt;/p&gt;
+
+&lt;p&gt;Also make sure to check out the books recommended during this episode:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/1469266822&quot;&gt;Crucial Conversations: Tools for Talking When Stakes Are High&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Nine-Minutes-Monday-Manager-Leader-ebook/dp/B0094RKWX0/&quot;&gt;Nine Minutes on Monday: The Quick and Easy Way to Go From Manager to Leader&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509&quot;&gt;Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?ie=UTF8&amp;amp;qid=1510865851&amp;amp;sr=8-1&amp;amp;keywords=managing+humans&amp;amp;dpID=51Wo-o4zKmL&amp;amp;preST=_SY291_BO1,204,203,200_QL40_&amp;amp;dpSrc=srch&quot;&gt;Managing Humans: Biting and Humorous Tales of a Software Engineering Manager&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 14 Nov 2017 18:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 54: Conferences and Stuff</title>
@@ -149,19 +169,6 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
         <pubDate>Sun, 27 Dec 2015 19:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-46-christmas-theraphpy/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-46-christmas-theraphpy/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 45: Live from PNWPHP</title>
-        <description>&lt;p&gt;Live from &lt;a href=&quot;http://pnwphp.com/&quot;&gt;PNWPHP ‘15&lt;/a&gt;, Ben and Phil are joined by guests &lt;a href=&quot;https://twitter.com/benmarks&quot;&gt;Ben Marks&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/coderabbi&quot;&gt;Yitzchok Willroth&lt;/a&gt; and later we are joined by returning guest &lt;a href=&quot;https://twitter.com/SaraMG&quot;&gt;Sara Golemon&lt;/a&gt; who popped in to talk about HHVM/Hack while Phil played waiter for the rest of the episode.&lt;/p&gt;
-
-&lt;p&gt;Ben talks about Magento and some of his conference traveling madness, as does Yitz, who got trapped in a hotel for a whole weekend due to some interesting combination of Jewish holidays and an argument over the interational date line in New Zealand. Phil also tells us all about his NZ speeding ticket, mowing down possums like it’s Carmageddon, and makes a few terrible jokes because &lt;a href=&quot;https://philsturgeon.uk/charity/2015/08/22/no-booze/&quot;&gt;he’s scarily sober&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 Sep 2015 08:30:00 -0400</pubDate>
-        <link>https://phptownhall.com/episode-45-good-evening-seattle/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-45-good-evening-seattle/</guid>
         
         
       </item>
