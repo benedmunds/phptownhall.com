@@ -4,6 +4,8 @@ title: "Episode 55: The Hardest Problem in Software"
 date: 2017-11-15T00:00:00 +01:00
 comments: true
 duration: 01:18:05
+filename: 55
+bytes: 70660050
 youtube_id: bMdlcX6AGe0
 ---
 
