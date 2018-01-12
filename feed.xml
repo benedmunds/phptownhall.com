@@ -5,8 +5,8 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Jan 2018 11:48:31 -0500</pubDate>
-    <lastBuildDate>Fri, 12 Jan 2018 11:48:31 -0500</lastBuildDate>
+    <pubDate>Fri, 12 Jan 2018 11:59:40 -0500</pubDate>
+    <lastBuildDate>Fri, 12 Jan 2018 11:59:40 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -22,8 +22,8 @@
 
 </description>
         <pubDate>Thu, 11 Jan 2018 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
+        <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-56-graphql-is-better-than-rest/</guid>
         
         
       </item>
@@ -42,8 +42,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 14 Nov 2017 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-56-graphql-is-better-than-rest/</guid>
+        <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
         
         
       </item>
