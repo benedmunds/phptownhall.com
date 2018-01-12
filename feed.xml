@@ -5,9 +5,28 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Nov 2017 11:11:20 -0500</pubDate>
-    <lastBuildDate>Tue, 21 Nov 2017 11:11:20 -0500</lastBuildDate>
+    <pubDate>Fri, 12 Jan 2018 11:48:31 -0500</pubDate>
+    <lastBuildDate>Fri, 12 Jan 2018 11:48:31 -0500</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>Episode 56: GraphQL is better than REST</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/philsturgeon&quot;&gt;Phil Sturgeon&lt;/a&gt; to discuss what’s new in the world of API development.&lt;/p&gt;
+
+&lt;p&gt;Make sure to check out his new book &lt;a href=&quot;https://apisyouwonthate.com/&quot;&gt;Talking To Other People’s APIs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;sponsor&quot;&gt;Sponsor&lt;/h3&gt;
+&lt;p&gt;We’re sponsored this episode by the &lt;a href=&quot;https://southeastphp.com/&quot;&gt;Southeast PHP Conference&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;Southeast PHP Community Conference in Nashville, TN is happening August 16th and 17th right in downtown Nashville. Our CfP opens February 15th with a theme around the modern PHP toolbox. Come hang out with us, listen to awesome speakers talk about a wide variety of topics, meet new friends and of course, try some hot chicken. &lt;a href=&quot;https://southeastphp.com/&quot;&gt;southeastphp.com&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/southeastphp&quot;&gt;@southeastphp&lt;/a&gt; on twitter. If you or your company is interested in sponsoring, contact us at &lt;a href=&quot;mailto:organizers@southeastphp.com&quot;&gt;organizers@southeastphp.com&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 11 Jan 2018 18:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 55: The Hardest Problem in Software</title>
@@ -23,8 +42,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Tue, 14 Nov 2017 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
+        <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-56-graphql-is-better-than-rest/</guid>
         
         
       </item>
@@ -154,21 +173,6 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
         <pubDate>Sat, 06 Feb 2016 19:30:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 46: Christmas Theraphpy</title>
-        <description>&lt;p&gt;Ben and Phil have a little catch-up to try and get things back on track after a little 2015 lag. Basically this episode is just Sober Phil having a massive vent about how daft some people are on the Internet.&lt;/p&gt;
-
-&lt;p&gt;For some reason he accidentally read some /r/lolphp and got into an argument about how they think that PHP 7 is purely a cosmetic change. This was a good excuse to re-emphisize what an awesome set of fundamental changes PHP 7 really was.&lt;/p&gt;
-
-&lt;p&gt;Ben and Phil then discuss the FIGs identity crisis before Phil goes off on another ramble about that. We’ll cover that better on later episodes!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 27 Dec 2015 19:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-46-christmas-theraphpy/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-46-christmas-theraphpy/</guid>
         
         
       </item>
