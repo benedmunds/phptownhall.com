@@ -4,6 +4,8 @@ title: "Episode 56: GraphQL is better than REST"
 date: 2018-01-12T00:00:00 +01:00
 comments: true
 duration: 00:59:05
+filename: 56
+bytes: 52917916
 youtube_id: xRfR3ylCPTw
 ---
 
