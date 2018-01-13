@@ -25,6 +25,27 @@
 
     
       
+    <item>
+      <title><![CDATA[Episode 56: GraphQL is better than REST]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/AmbassadorAwsum">Amanda Folson</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/philsturgeon">Phil Sturgeon</a> to discuss what’s new in the world of API development.</p>
+
+<p>Make sure to check out his new book <a href="https://apisyouwonthate.com/">Talking To Other People’s APIs</a>.</p>
+
+<h3 id="sponsor">Sponsor</h3>
+<p>We’re sponsored this episode by the <a href="https://southeastphp.com/">Southeast PHP Conference</a>:</p>
+
+<p>Southeast PHP Community Conference in Nashville, TN is happening August 16th and 17th right in downtown Nashville. Our CfP opens February 15th with a theme around the modern PHP toolbox. Come hang out with us, listen to awesome speakers talk about a wide variety of topics, meet new friends and of course, try some hot chicken. <a href="https://southeastphp.com/">southeastphp.com</a> and <a href="https://twitter.com/southeastphp">@southeastphp</a> on twitter. If you or your company is interested in sponsoring, contact us at <a href="mailto:organizers@southeastphp.com">organizers@southeastphp.com</a></p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
+      <guid>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</guid>
+      <pubDate>2018-01-12 00:00:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3545.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/56.mp3" type="audio/mp3" length="52917916" />
+    </item>
+      
     
       
     <item>
