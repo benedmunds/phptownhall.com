@@ -1,4 +1,4 @@
-2018-08-06-episode-57-apis-conferences-and-api-conferences.md---
+---
 layout: post
 title: "Episode 57: APIs, Conferences, API Conferences, and Horrible Flights"
 date: 2018-08-06T00:00:00 +01:00
