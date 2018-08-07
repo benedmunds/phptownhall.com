@@ -5,22 +5,13 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Aug 2018 09:14:57 -0400</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 09:14:57 -0400</lastBuildDate>
+    <pubDate>Tue, 07 Aug 2018 09:16:48 -0400</pubDate>
+    <lastBuildDate>Tue, 07 Aug 2018 09:16:48 -0400</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
-        <title>Episode 57 Apis Conferences And Api Conferences</title>
-        <description>&lt;p&gt;2018-08-06-episode-57-apis-conferences-and-api-conferences.md—
-layout: post
-title: “Episode 57: APIs, Conferences, API Conferences, and Horrible Flights”
-date: 2018-08-06T00:00:00 +01:00
-comments: true
-duration: 00:59:05
-youtube_id: fCYGQiYvjWs
-—&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/tessamero&quot;&gt;Tessa Mero&lt;/a&gt; to discuss their conference organizing experience and the conferences they are putting on in the coming months.&lt;/p&gt;
+        <title>Episode 57: APIs, Conferences, API Conferences, and Horrible Flights</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/tessamero&quot;&gt;Tessa Mero&lt;/a&gt; to discuss their conference organizing experience and the conferences they are putting on in the coming months.&lt;/p&gt;
 
 &lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&quot;https://southeastphp.com/&quot;&gt;Southeast PHP Conference&lt;/a&gt;&lt;/p&gt;
@@ -32,7 +23,7 @@ youtube_id: fCYGQiYvjWs
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/SoutheastPHP/status/1024029595790659586&quot;&gt;Southeast PHP Poster&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 06 Aug 2018 00:00:00 -0400</pubDate>
+        <pubDate>Sun, 05 Aug 2018 19:00:00 -0400</pubDate>
         <link>https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</guid>
         
