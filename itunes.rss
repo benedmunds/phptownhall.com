@@ -25,6 +25,29 @@
 
     
       
+    <item>
+      <title><![CDATA[Episode 57: APIs, Conferences, API Conferences, and Horrible Flights]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/tessamero">Tessa Mero</a> to discuss their conference organizing experience and the conferences they are putting on in the coming months.</p>
+
+<h3 id="links">Links</h3>
+<p><a href="https://southeastphp.com/">Southeast PHP Conference</a></p>
+
+<p><a href="https://events.linuxfoundation.org/events/apistrat-2018/">API Strat Conference</a></p>
+
+<p><a href="http://apicity.io">API City Conference</a></p>
+
+<p><a href="https://twitter.com/SoutheastPHP/status/1024029595790659586">Southeast PHP Poster</a></p>
+
+]]></description>
+      <link>https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</link>
+      <guid>https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</guid>
+      <pubDate>2018-08-06 00:00:00 +0100</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3545.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/57.mp3" type="audio/mp3" length="62812076" />
+    </item>
+      
     
       
     <item>
@@ -36,7 +59,7 @@
 <h3 id="sponsor">Sponsor</h3>
 <p>We’re sponsored this episode by the <a href="https://southeastphp.com/">Southeast PHP Conference</a>:</p>
 
-<p>Southeast PHP Community Conference in Nashville, TN is happening August 16th and 17th right in downtown Nashville. Our CfP opens February 15th with a theme around the modern PHP toolbox. Come hang out with us, listen to awesome speakers talk about a wide variety of topics, meet new friends and of course, try some hot chicken. <a href="https://southeastphp.com/">southeastphp.com</a> and <a href="https://twitter.com/southeastphp">@southeastphp</a> on twitter. If you or your company is interested in sponsoring, contact us at <a href="mailto:organizers@southeastphp.com">organizers@southeastphp.com</a></p>
+<p>Southeast PHP Community Conference in Nashville, TN is happening August 16th and 17th right in downtown Nashville. Our CfP opens February 15th with a theme around the modern PHP toolbox. Come hang out with us, listen to awesome speakers talk about a wide variety of topics, meet new friends and of course, try some hot chicken. <a href="https://southeastphp.com/">southeastphp.com</a> and <a href="https://twitter.com/southeastphp">@southeastphp</a> on twitter. If you or your company is interested in sponsoring, contact us at <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#111;&#114;&#103;&#097;&#110;&#105;&#122;&#101;&#114;&#115;&#064;&#115;&#111;&#117;&#116;&#104;&#101;&#097;&#115;&#116;&#112;&#104;&#112;&#046;&#099;&#111;&#109;">&#111;&#114;&#103;&#097;&#110;&#105;&#122;&#101;&#114;&#115;&#064;&#115;&#111;&#117;&#116;&#104;&#101;&#097;&#115;&#116;&#112;&#104;&#112;&#046;&#099;&#111;&#109;</a></p>
 
 ]]></description>
       <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
@@ -802,7 +825,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
 
 <p>virtPHP is a tool for managing multiple environments on your development machine.  It is similar to Python’s virtualenv or Ruby’s rbenv, but for PHP.</p>
 
-<p>###Upcoming Conferences</p>
+<h3 id="upcoming-conferences">Upcoming Conferences</h3>
 
 <p>Phil will be speaking at <a href="http://www.phpsouthafrica.com/">PHP South Africa</a> in April.</p>
 

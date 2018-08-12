@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PHP Town Hall</title>
-    <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.</description>
+    <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil&#39;s turtle.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Aug 2018 09:16:48 -0400</pubDate>
-    <lastBuildDate>Tue, 07 Aug 2018 09:16:48 -0400</lastBuildDate>
-    <generator>Jekyll v3.6.2</generator>
+    <pubDate>Sun, 12 Aug 2018 11:30:47 -0400</pubDate>
+    <lastBuildDate>Sun, 12 Aug 2018 11:30:47 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Episode 57: APIs, Conferences, API Conferences, and Horrible Flights</title>
@@ -23,7 +23,7 @@
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/SoutheastPHP/status/1024029595790659586&quot;&gt;Southeast PHP Poster&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 05 Aug 2018 19:00:00 -0400</pubDate>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</guid>
         
@@ -39,10 +39,10 @@
 &lt;h3 id=&quot;sponsor&quot;&gt;Sponsor&lt;/h3&gt;
 &lt;p&gt;We’re sponsored this episode by the &lt;a href=&quot;https://southeastphp.com/&quot;&gt;Southeast PHP Conference&lt;/a&gt;:&lt;/p&gt;
 
-&lt;p&gt;Southeast PHP Community Conference in Nashville, TN is happening August 16th and 17th right in downtown Nashville. Our CfP opens February 15th with a theme around the modern PHP toolbox. Come hang out with us, listen to awesome speakers talk about a wide variety of topics, meet new friends and of course, try some hot chicken. &lt;a href=&quot;https://southeastphp.com/&quot;&gt;southeastphp.com&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/southeastphp&quot;&gt;@southeastphp&lt;/a&gt; on twitter. If you or your company is interested in sponsoring, contact us at &lt;a href=&quot;mailto:organizers@southeastphp.com&quot;&gt;organizers@southeastphp.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Southeast PHP Community Conference in Nashville, TN is happening August 16th and 17th right in downtown Nashville. Our CfP opens February 15th with a theme around the modern PHP toolbox. Come hang out with us, listen to awesome speakers talk about a wide variety of topics, meet new friends and of course, try some hot chicken. &lt;a href=&quot;https://southeastphp.com/&quot;&gt;southeastphp.com&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/southeastphp&quot;&gt;@southeastphp&lt;/a&gt; on twitter. If you or your company is interested in sponsoring, contact us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#122;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#115;&amp;#111;&amp;#117;&amp;#116;&amp;#104;&amp;#101;&amp;#097;&amp;#115;&amp;#116;&amp;#112;&amp;#104;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#122;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#115;&amp;#111;&amp;#117;&amp;#116;&amp;#104;&amp;#101;&amp;#097;&amp;#115;&amp;#116;&amp;#112;&amp;#104;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Thu, 11 Jan 2018 18:00:00 -0500</pubDate>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-56-graphql-is-better-than-rest/</guid>
         
@@ -62,7 +62,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/ref=sr_1_1?ie=UTF8&amp;amp;qid=1510865851&amp;amp;sr=8-1&amp;amp;keywords=managing+humans&amp;amp;dpID=51Wo-o4zKmL&amp;amp;preST=_SY291_BO1,204,203,200_QL40_&amp;amp;dpSrc=srch&quot;&gt;Managing Humans: Biting and Humorous Tales of a Software Engineering Manager&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 14 Nov 2017 18:00:00 -0500</pubDate>
+        <pubDate>Wed, 15 Nov 2017 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
         
@@ -75,7 +75,7 @@
 
 &lt;p&gt;Make sure to check out the kickstarter for the &lt;a href=&quot;https://www.longhornphp.com&quot;&gt;Longhorn PHP Conference&lt;/a&gt;.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 21 Aug 2017 19:00:00 -0400</pubDate>
+        <pubDate>Tue, 22 Aug 2017 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-54-conferences-and-stuff/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-54-conferences-and-stuff/</guid>
         
@@ -86,7 +86,7 @@
         <title>Episode 53: Developer Relations, Travel, and Bedbugs with Jessica Rose</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/jesslynnrose&quot;&gt;Jessica Rose&lt;/a&gt; to discuss developer relations, travel, and bedbugs.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 12 Apr 2017 19:00:00 -0400</pubDate>
+        <pubDate>Thu, 13 Apr 2017 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/dev-rel-travel-bedbugs/</link>
         <guid isPermaLink="true">https://phptownhall.com/dev-rel-travel-bedbugs/</guid>
         
@@ -97,7 +97,7 @@
         <title>Episode 52: What Do We Do Now?</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; officially takes the co-host reins!  We ease you in to the transition by Ben grilling… ahem… interviewing Amanda a bit so you can get to know her better.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 19 Jan 2017 18:00:00 -0500</pubDate>
+        <pubDate>Fri, 20 Jan 2017 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/what-do-we-do-now/</link>
         <guid isPermaLink="true">https://phptownhall.com/what-do-we-do-now/</guid>
         
@@ -111,7 +111,7 @@
 &lt;p&gt;Phil,
 Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way too much booze, and a lot of fun.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 07 Jan 2017 18:00:00 -0500</pubDate>
+        <pubDate>Sun, 08 Jan 2017 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-51-good-riddance/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-51-good-riddance/</guid>
         
@@ -136,7 +136,7 @@ Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way to
   &lt;li&gt;&lt;a href=&quot;http://equip.github.io/&quot;&gt;Equip&lt;/a&gt; - Equip is a tiny and powerful PHP micro-framework created and maintained by the engineering team at &lt;a href=&quot;http://wheniwork.com/&quot;&gt;When I Work&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 27 Jun 2016 19:00:00 -0400</pubDate>
+        <pubDate>Tue, 28 Jun 2016 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
         
@@ -157,7 +157,7 @@ laptop and bricked the whole thing. We do remember that returning guest &lt;a hr
   &lt;li&gt;&lt;a href=&quot;https://icicle.io/&quot;&gt;icicle.io&lt;/a&gt; - Write asynchronous code using synchronous coding techniques in PHP&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 16 Mar 2016 19:00:00 -0400</pubDate>
+        <pubDate>Wed, 16 Mar 2016 18:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-49-async/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-49-async/</guid>
         
