@@ -4,6 +4,8 @@ title: "Episode 57: APIs, Conferences, API Conferences, and Horrible Flights"
 date: 2018-08-06T00:00:00 +01:00
 comments: true
 duration: 00:59:05
+filename: 57
+bytes: 62812076
 youtube_id: fCYGQiYvjWs
 ---
 
