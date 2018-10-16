@@ -4,11 +4,11 @@
     <title><![CDATA[PHP Town Hall]]></title>
     <link>https://phptownhall.com</link>
     <language>en-us</language>
-    <copyright><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></copyright>
+    <copyright><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></copyright>
 
-    <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
-    <itunes:subtitle><![CDATA[Ben, Phil and a super-star guest answer questions and talk about current events in the PHP world.]]></itunes:subtitle>
-    <description><![CDATA[A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.]]></description>
+    <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+    <itunes:subtitle><![CDATA[Ben, Amanda, Matt and awesome guests answer questions and talk about current events in the PHP world.]]></itunes:subtitle>
+    <description><![CDATA[A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it's really more about general software development topics.]]></description>
     <itunes:explicit>no</itunes:explicit>
 
     <itunes:owner>
@@ -34,7 +34,7 @@
       <link>https://phptownhall.com/episode-58-startup-lyfe-part-1/</link>
       <guid>https://phptownhall.com/episode-58-startup-lyfe-part-1/</guid>
       <pubDate>2018-10-09 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>4804.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/58.mp3" type="audio/mp3" length="79704127" />
@@ -59,7 +59,7 @@
       <link>https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</link>
       <guid>https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</guid>
       <pubDate>2018-08-06 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3545.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/57.mp3" type="audio/mp3" length="62812076" />
@@ -82,7 +82,7 @@
       <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
       <guid>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</guid>
       <pubDate>2018-01-12 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3545.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/56.mp3" type="audio/mp3" length="52917916" />
@@ -106,7 +106,7 @@
       <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
       <guid>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
       <pubDate>2017-11-15 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>4685.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/55.mp3" type="audio/mp3" length="70660050" />
@@ -123,7 +123,7 @@
       <link>https://phptownhall.com/episode-54-conferences-and-stuff/</link>
       <guid>https://phptownhall.com/episode-54-conferences-and-stuff/</guid>
       <pubDate>2017-08-22 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>4856.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/54.mp3" type="audio/mp3" length="72965001" />
@@ -138,7 +138,7 @@
       <link>https://phptownhall.com/dev-rel-travel-bedbugs/</link>
       <guid>https://phptownhall.com/dev-rel-travel-bedbugs/</guid>
       <pubDate>2017-04-13 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>5905.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/53.mp3" type="audio/mp3" length="42336980" />
@@ -153,7 +153,7 @@
       <link>https://phptownhall.com/what-do-we-do-now/</link>
       <guid>https://phptownhall.com/what-do-we-do-now/</guid>
       <pubDate>2017-01-20 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>201300.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/52.mp3" type="audio/mp3" length="42336980" />
@@ -171,7 +171,7 @@ Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way to
       <link>https://phptownhall.com/episode-51-good-riddance/</link>
       <guid>https://phptownhall.com/episode-51-good-riddance/</guid>
       <pubDate>2017-01-08 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>164940.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/51.mp3" type="audio/mp3" length="53839089" />
@@ -200,7 +200,7 @@ Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way to
       <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
       <guid>https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
       <pubDate>2016-06-28 00:00:00 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>202260.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/50.mp3" type="audio/mp3" length="53839089" />
@@ -225,7 +225,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-49-async/</link>
       <guid>https://phptownhall.com/episode-49-async/</guid>
       <pubDate>2016-03-16 18:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3945.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/49.mp3" type="audio/mp3" length="62998057" />
@@ -250,7 +250,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-48-code-of-conduct/</link>
       <guid>https://phptownhall.com/episode-48-code-of-conduct/</guid>
       <pubDate>2016-02-15 13:14:50 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>5599.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/48.mp3" type="audio/mp3" length="89605762" />
@@ -267,7 +267,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</link>
       <guid>https://phptownhall.com/episode-47-sunshinephp-town-stack-hall-radio/</guid>
       <pubDate>2016-02-06 19:30:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3836.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/47.mp3" type="audio/mp3" length="61402223" />
@@ -286,7 +286,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-46-christmas-theraphpy/</link>
       <guid>http://phptownhall.com/blog/2015/12/27/episode-46-christmas-theraphpy/</guid>
       <pubDate>2015-12-27 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>4250.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/46.mp3" type="audio/mp3" length="67848150" />
@@ -303,7 +303,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-45-good-evening-seattle/</link>
       <guid>http://phptownhall.com/blog/2015/09/12/episode-45-good-evening-seattle/</guid>
       <pubDate>2015-09-12 07:30:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3019.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/45.mp3" type="audio/mp3" length="48325014" />
@@ -320,7 +320,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-44-api-madness/</link>
       <guid>http://phptownhall.com/blog/2015/07/22/episode-44-api-madness/</guid>
       <pubDate>2015-07-22 07:30:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3769.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/44.mp3" type="audio/mp3" length="60327713" />
@@ -339,7 +339,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-43-midnight-express/</link>
       <guid>http://phptownhall.com/blog/2015/06/11/episode-43-midnight-express/</guid>
       <pubDate>2015-06-11 21:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1403.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/43.mp3" type="audio/mp3" length="22452467" />
@@ -360,7 +360,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-42-paul-and-vance/</link>
       <guid>http://phptownhall.com/blog/2015/05/22/episode-42-paul-and-vance/</guid>
       <pubDate>2015-05-22 21:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3891.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/42.mp3" type="audio/mp3" length="62265573" />
@@ -382,7 +382,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-41-loosely-town-hall-dallas/</link>
       <guid>http://phptownhall.com/blog/2015/04/18/episode-41-loosely-town-hall-dallas/</guid>
       <pubDate>2015-04-18 19:30:00 -0600</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3939.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/41.mp3" type="audio/mp3" length="63021138" />
@@ -400,7 +400,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-40-ferrara-scalar-type-hints/</link>
       <guid>http://phptownhall.com/blog/2015/03/20/episode-40-ferrara-scalar-type-hints/</guid>
       <pubDate>2015-03-20 20:15:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>5073.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/40.mp3" type="audio/mp3" length="81168926" />
@@ -426,7 +426,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-39-hi-josh/</link>
       <guid>http://phptownhall.com/blog/2015/03/12/episode-39-hi-josh/</guid>
       <pubDate>2015-03-12 12:03:58 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>3249.0</itunes:duration>
       <enclosure url="http://download.phptownhall.com/39.mp3" type="audio/mp3" length="51992867" />
@@ -460,7 +460,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-37-round-hall-sunshine/</link>
       <guid>http://phptownhall.com/blog/2015/02/07/episode-37-round-hall-sunshine/</guid>
       <pubDate>2015-02-07 21:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:13:23</itunes:duration>
       <enclosure url="http://download.phptownhall.com/37.mp3" type="audio/mp3" length="70455823" />
@@ -489,7 +489,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-36-psr-7-the-world-of-tomorrow/</link>
       <guid>http://phptownhall.com/blog/2015/02/02/episode-36-psr-7-the-world-of-tomorrow/</guid>
       <pubDate>2015-02-02 22:00:10 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>52:39</itunes:duration>
       <enclosure url="http://download.phptownhall.com/36.mp3" type="audio/mp3" length="50558040" />
@@ -507,7 +507,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-35-developer-to-cto-and-back/</link>
       <guid>http://phptownhall.com/blog/2015/01/09/episode-35-developer-to-cto-and-back/</guid>
       <pubDate>2015-01-09 11:53:47 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:21:54</itunes:duration>
       <enclosure url="http://download.phptownhall.com/35.mp3" type="audio/mp3" length="78633612" />
@@ -541,7 +541,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-34-dev-hell-mashup/</link>
       <guid>http://phptownhall.com/blog/2015/01/09/episode-34-dev-hell-mashup/</guid>
       <pubDate>2015-01-09 11:53:47 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:33:20</itunes:duration>
       <enclosure url="http://download.phptownhall.com/34.mp3" type="audio/mp3" length="89408182" />
@@ -565,7 +565,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-33-cakes-monga-rfcs/</link>
       <guid>http://phptownhall.com/blog/2014/11/19/episode-33-cakes-monga-rfcs/</guid>
       <pubDate>2014-11-19 13:50:20 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>0:59:19</itunes:duration>
       <enclosure url="http://download.phptownhall.com/33.mp3" type="audio/mp3" length="49279085" />
@@ -588,7 +588,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-32-ben-and-phil-catch-up/</link>
       <guid>http://phptownhall.com/blog/2014/11/04/episode-32-ben-and-phil-catch-up/</guid>
       <pubDate>2014-11-04 13:50:20 -0700</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:02:38</itunes:duration>
       <enclosure url="http://download.phptownhall.com/32.mp3" type="audio/mp3" length="60134703" />
@@ -617,7 +617,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-31-the-one-about-hot-dogs/</link>
       <guid>http://phptownhall.com/blog/2014/10/16/episode-31-the-one-about-hot-dogs/</guid>
       <pubDate>2014-10-16 17:51:20 -0700</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>0:47:10</itunes:duration>
       <enclosure url="http://download.phptownhall.com/31.mp3" type="audio/mp3" length="45280469" />
@@ -635,7 +635,7 @@ laptop and bricked the whole thing. We do remember that returning guest <a href=
       <link>https://phptownhall.com/episode-30-specs-implementations-and-new-engines-oh-my/</link>
       <guid>http://phptownhall.com/blog/2014/08/25/episode-30-specs-implementations-and-new-engines-oh-my/</guid>
       <pubDate>2014-08-25 18:18:50 -0700</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:14:57</itunes:duration>
       <enclosure url="http://download.phptownhall.com/30.mp3" type="audio/mp3" length="71955460" />
@@ -671,7 +671,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/episode-29-dont-mention-php-6-v-php-7/</link>
       <guid>http://phptownhall.com/blog/2014/07/30/episode-29-dont-mention-php-6-v-php-7/</guid>
       <pubDate>2014-07-30 15:18:48 -0400</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:19:35</itunes:duration>
       <enclosure url="http://download.phptownhall.com/29.mp3" type="audio/mp3" length="76407979" />
@@ -712,7 +712,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/episode-28-loosley-coupled-mashup/</link>
       <guid>http://phptownhall.com/blog/2014/07/10/episode-28-loosley-coupled-mashup/</guid>
       <pubDate>2014-07-10 09:40:49 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:54:25</itunes:duration>
       <enclosure url="http://download.phptownhall.com/28.mp3" type="audio/mp3" length="109846386" />
@@ -748,7 +748,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/episode-27-foo/</link>
       <guid>http://phptownhall.com/blog/2014/06/29/episode-27-foo/</guid>
       <pubDate>2014-06-29 20:03:01 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:34:47</itunes:duration>
       <enclosure url="http://download.phptownhall.com/27.mp3" type="audio/mp3" length="91001860" />
@@ -773,7 +773,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/episode-26-hello-front-range/</link>
       <guid>http://phptownhall.com/blog/2014/06/18/episode-26-hello-front-range/</guid>
       <pubDate>2014-06-18 19:25:01 +0100</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>53:26</itunes:duration>
       <enclosure url="http://download.phptownhall.com/26.mp3" type="audio/mp3" length="51297827" />
@@ -809,7 +809,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/episode-25-girls-arent-any-different/</link>
       <guid>http://phptownhall.com/blog/2014/05/28/episode-25-girls-arent-any-different/</guid>
       <pubDate>2014-05-28 12:39:38 -0700</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>53:48</itunes:duration>
       <enclosure url="http://download.phptownhall.com/25.mp3" type="audio/mp3" length="52442618" />
@@ -828,7 +828,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/episode-24-but-is-it-web-scale/</link>
       <guid>http://phptownhall.com/blog/2014/05/14/episode-24-but-is-it-web-scale/</guid>
       <pubDate>2014-05-14 10:52:29 -0700</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:35:18</itunes:duration>
       <enclosure url="http://download.phptownhall.com/24.mp3" type="audio/mp3" length="91460563" />
@@ -855,7 +855,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/virtphp-managing-your-herd-of-php-versions/</link>
       <guid>http://phptownhall.com/blog/2014/04/09/virtphp-managing-your-herd-of-php-versions/</guid>
       <pubDate>2014-04-09 22:08:31 -0700</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:19:52</itunes:duration>
       <enclosure url="http://download.phptownhall.com/23.mp3" type="audio/mp3" length="76686114" />
@@ -880,7 +880,7 @@ replacement of the often mis-used “Model View Controller” architecture. Luck
       <link>https://phptownhall.com/episode-22-the-great-joomla-license-battle-of-2014/</link>
       <guid>http://phptownhall.com/blog/2014/03/25/episode-22-the-great-joomla-license-battle-of-2014/</guid>
       <pubDate>2014-03-25 23:04:16 -0700</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:06:56</itunes:duration>
       <enclosure url="http://download.phptownhall.com/22.mp3" type="audio/mp3" length="32133384" />
@@ -913,7 +913,7 @@ about provisioning, comparing Chef, Puppet and Ansible.</p>
       <link>https://phptownhall.com/episode-21-attack-of-the-brazilians/</link>
       <guid>http://phptownhall.com/blog/2014/03/14/episode-21-attack-of-the-brazilians/</guid>
       <pubDate>2014-03-14 03:20:12 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:07:57</itunes:duration>
       <enclosure url="http://download.phptownhall.com/21.mp3" type="audio/mp3" length="64906294" />
@@ -972,7 +972,7 @@ Phil are the three FIG members who make up the working group for PSR-7 who will 
       <link>https://phptownhall.com/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/</link>
       <guid>http://phptownhall.com/blog/2014/03/06/episode-20-a-nice-friendly-chat-about-sculpin-guzzle-and-psr-7/</guid>
       <pubDate>2014-03-06 10:23:12 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:03:35</itunes:duration>
       <enclosure url="http://download.phptownhall.com/20.mp3" type="audio/mp3" length="64906294" />
@@ -998,7 +998,7 @@ people have with an otherwise wonderful system, and on the reusability of its pa
       <link>https://phptownhall.com/episode-19-jeffrey-laracasts-bdfls/</link>
       <guid>http://phptownhall.com/blog/2014/02/15/episode-19-jeffrey-laracasts-bdfls/</guid>
       <pubDate>2014-02-15 17:42:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>00:59:25</itunes:duration>
       <enclosure url="http://download.phptownhall.com/19.mp3" type="audio/mp3" length="57033615" />
@@ -1020,7 +1020,7 @@ people have with an otherwise wonderful system, and on the reusability of its pa
       <link>https://phptownhall.com/episode-18-phpdbg-hhvm-internals/</link>
       <guid>http://phptownhall.com/blog/2014/01/29/episode-18-phpdbg-hhvm-internals/</guid>
       <pubDate>2014-01-29 17:42:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>00:54:02</itunes:duration>
       <enclosure url="http://download.phptownhall.com/18.mp3" type="audio/mp3" length="51881432" />
@@ -1056,7 +1056,7 @@ people have with an otherwise wonderful system, and on the reusability of its pa
       <link>https://phptownhall.com/episode-17-cal-evans-nomad-bat-shit/</link>
       <guid>http://phptownhall.com/blog/2013/12/30/episode-17-cal-evans-nomad-bat-shit/</guid>
       <pubDate>2013-12-30 13:42:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:02:45</itunes:duration>
       <enclosure url="http://download.phptownhall.com/17.mp3" type="audio/mp3" length="60249393" />
@@ -1076,7 +1076,7 @@ into letting him speak at LaraCon 2014.</p>
       <link>https://phptownhall.com/episode-16-taylor-otwell-laravel41/</link>
       <guid>http://phptownhall.com/blog/2013/12/02/episode-16-taylor-otwell-laravel41/</guid>
       <pubDate>2013-12-02 21:45:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:17:36</itunes:duration>
       <enclosure url="http://download.phptownhall.com/16.mp3" type="audio/mp3" length="74497621" />
@@ -1097,7 +1097,7 @@ into letting him speak at LaraCon 2014.</p>
       <link>https://phptownhall.com/episode-15-joomla-fig-psr4/</link>
       <guid>http://phptownhall.com/blog/2013/11/13/episode-15-joomla-fig-psr4/</guid>
       <pubDate>2013-11-13 22:36:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:12:14</itunes:duration>
       <enclosure url="http://download.phptownhall.com/15.mp3" type="audio/mp3" length="69345439" />
@@ -1131,7 +1131,7 @@ from a very early point.</p>
       <link>https://phptownhall.com/episode-14-shipit/</link>
       <guid>http://phptownhall.com/blog/2013/10/24/episode-14-shipit/</guid>
       <pubDate>2013-10-24 09:30:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:05:06</itunes:duration>
       <enclosure url="http://download.phptownhall.com/14.mp3" type="audio/mp3" length="62497595" />
@@ -1154,7 +1154,7 @@ from a very early point.</p>
       <link>https://phptownhall.com/episode-13-php-internals/</link>
       <guid>http://phptownhall.com/blog/2013/10/14/episode-13-php-internals/</guid>
       <pubDate>2013-10-14 16:45:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>53:30</itunes:duration>
       <enclosure url="http://download.phptownhall.com/13.mp3" type="audio/mp3" length="61761569" />
@@ -1178,7 +1178,7 @@ from a very early point.</p>
       <link>https://phptownhall.com/episode-12-function-autoloading/</link>
       <guid>http://phptownhall.com/blog/2013/09/11/episode-12-function-autoloading/</guid>
       <pubDate>2013-09-11 16:45:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:04:19</itunes:duration>
       <enclosure url="http://download.phptownhall.com/12.mp3" type="audio/mp3" length="61761569" />
@@ -1205,7 +1205,7 @@ spin when you jump out of a plane.</p>
       <link>https://phptownhall.com/episode-11-bike-safety/</link>
       <guid>http://phptownhall.com/blog/2013/09/03/episode-11-bike-safety/</guid>
       <pubDate>2013-09-03 08:45:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:15:49</itunes:duration>
       <enclosure url="http://download.phptownhall.com/11.mp3" type="audio/mp3" length="72783989" />
@@ -1239,7 +1239,7 @@ complex indexes, PostGIS and Foreign Data Wrappers we end up discussing cider an
       <link>https://phptownhall.com/episode-10-postgres-cider/</link>
       <guid>http://phptownhall.com/blog/2013/07/24/episode-10-postgres-cider/</guid>
       <pubDate>2013-07-24 12:45:00 -0400</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>55:46</itunes:duration>
       <enclosure url="http://download.phptownhall.com/10.mp3" type="audio/mp3" length="53537386" />
@@ -1274,7 +1274,7 @@ in the security angle.</p>
       <link>https://phptownhall.com/episode-9-is-oauth-2-the-devil/</link>
       <guid>http://phptownhall.com/blog/2013/07/10/episode-9-is-oauth-2-the-devil/</guid>
       <pubDate>2013-07-10 11:34:00 -0400</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>54:39</itunes:duration>
       <enclosure url="http://download.phptownhall.com/9.mp3" type="audio/mp3" length="52465737" />
@@ -1296,7 +1296,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
       <link>https://phptownhall.com/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</link>
       <guid>http://phptownhall.com/blog/2013/06/27/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</guid>
       <pubDate>2013-06-27 14:12:00 -0400</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>46:59</itunes:duration>
       <enclosure url="http://download.phptownhall.com/8.mp3" type="audio/mp3" length="45105476" />
@@ -1322,7 +1322,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
       <link>https://phptownhall.com/episode-7-web-sockets-are-fast/</link>
       <guid>http://phptownhall.com/blog/2013/05/18/episode-7-web-sockets-are-fast/</guid>
       <pubDate>2013-05-18 13:12:00 -0400</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>44:46</itunes:duration>
       <enclosure url="http://download.phptownhall.com/7.mp3" type="audio/mp3" length="42986005" />
@@ -1355,7 +1355,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
       <link>https://phptownhall.com/episode-6-psr-x-and-the-mexican-standoff/</link>
       <guid>http://phptownhall.com/blog/2013/04/19/episode-6-psr-x-and-the-mexican-standoff/</guid>
       <pubDate>2013-04-19 10:02:00 -0400</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:15:02</itunes:duration>
       <enclosure url="http://download.phptownhall.com/6.mp3" type="audio/mp3" length="72042107" />
@@ -1388,7 +1388,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
       <link>https://phptownhall.com/episode-5-phpness-gate/</link>
       <guid>http://phptownhall.com/blog/2013/03/03/episode-5-phpness-gate/</guid>
       <pubDate>2013-03-03 15:20:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:19:33</itunes:duration>
       <enclosure url="http://download.phptownhall.com/5.mp3" type="audio/mp3" length="76370084" />
@@ -1410,7 +1410,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
       <link>https://phptownhall.com/episode-4-phpsvision-beards-and-little-people/</link>
       <guid>http://phptownhall.com/blog/2013/02/15/episode-4-phpsvision-beards-and-little-people/</guid>
       <pubDate>2013-02-15 10:47:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>47:21</itunes:duration>
       <enclosure url="http://download.phptownhall.com/4.mp3" type="audio/mp3" length="45459364" />
@@ -1439,7 +1439,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
       <link>https://phptownhall.com/episode-3-expressionengine-stackexchange/</link>
       <guid>http://phptownhall.com/blog/2012/12/20/episode-3-expressionengine-stackexchange/</guid>
       <pubDate>2012-12-20 10:47:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>54:35</itunes:duration>
       <enclosure url="http://download.phptownhall.com/3.mp3" type="audio/mp3" length="52409154" />
@@ -1467,7 +1467,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
       <link>https://phptownhall.com/episode-2-php-5.5/</link>
       <guid>http://phptownhall.com/blog/2012/12/04/episode-2-php-5.5/</guid>
       <pubDate>2012-12-04 21:02:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:09:22</itunes:duration>
       <enclosure url="http://download.phptownhall.com/2.mp3" type="audio/mp3" length="66601377" />
@@ -1482,7 +1482,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
       <link>https://phptownhall.com/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</link>
       <guid>http://phptownhall.com/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</guid>
       <pubDate>2012-10-10 17:10:00 -0400</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds &amp; Phil Sturgeon]]></itunes:author>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>47:47</itunes:duration>
       <enclosure url="http://download.phptownhall.com/1.mp3" type="audio/mp3" length="45881050" />
