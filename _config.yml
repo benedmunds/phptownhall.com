@@ -4,15 +4,15 @@
 
 url: https://phptownhall.com
 title: PHP Town Hall
-subtitle: Ben, Phil and a super-star guest answer questions and talk about current events in the PHP world.
-author: Ben Edmunds &amp; Phil Sturgeon
-description: A podcast for developers who want to keep up to date with the latest random happenings in the PHP community, with occasional updates about Phil's turtle.
+subtitle: Ben, Amanda, Matt and awesome guests answer questions and talk about current events in the PHP world.
+author: Ben Edmunds, Amanda Folson, &amp; Matt Trask
+description: A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it's really more about general software development topics.
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /itunes.rss
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: me@philsturgeon.uk
+email: ben.edmunds@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
