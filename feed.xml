@@ -5,9 +5,22 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Oct 2018 09:31:40 -0400</pubDate>
-    <lastBuildDate>Tue, 16 Oct 2018 09:31:40 -0400</lastBuildDate>
+    <pubDate>Mon, 29 Oct 2018 12:42:20 -0400</pubDate>
+    <lastBuildDate>Mon, 29 Oct 2018 12:42:20 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 59: Startup Lyfe - Part 2</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/walesmd&quot;&gt;Mike Wales&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/boden_c&quot;&gt;Chris Boden&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/dcousineau&quot;&gt;Daniel Cousineau&lt;/a&gt; once again, to finish our discussion about working at and founding startups.&lt;/p&gt;
+
+&lt;p&gt;This is part two of two.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Oct 2018 00:00:00 +0100</pubDate>
+        <link>https://phptownhall.com/episode-59-startup-lyfe-part-2/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-59-startup-lyfe-part-2/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 58: Startup Lyfe - Part 1</title>
@@ -152,27 +165,6 @@ Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way to
         <pubDate>Tue, 28 Jun 2016 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 49: Async and Stuff</title>
-        <description>&lt;p&gt;The notes for this episode were lost when Phil spilt some really hipster orange juice over his
-laptop and bricked the whole thing. We do remember that returning guest &lt;a href=&quot;https://twitter.com/boden_c&quot;&gt;Chris Boden&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/assertchris&quot;&gt;Chris Pitt&lt;/a&gt; swing by to talk async in PHP.&lt;/p&gt;
-
-&lt;p&gt;In a future episode we’ll probably talk about data backup strategies.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://philsturgeon.uk/php/2013/11/12/benchmarking-codswallop-nodejs-v-php/&quot;&gt;Benchmarking Codswallop: NodeJS vs PHP&lt;/a&gt; - An oldie but a goody, why NodeJS isn’t magically better at async than PHP&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://socketo.me/&quot;&gt;Ratchet&lt;/a&gt; - WebSockets for PHP&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://medium.com/async-php/a-case-for-async-php-f33e5e31ebba&quot;&gt;A Case for Async PHP&lt;/a&gt; - Chris Pitt wrote about this stuff on Medium&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://icicle.io/&quot;&gt;icicle.io&lt;/a&gt; - Write asynchronous code using synchronous coding techniques in PHP&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 16 Mar 2016 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-49-async/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-49-async/</guid>
         
         
       </item>
