@@ -5,9 +5,20 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 04 Dec 2018 14:32:22 -0500</pubDate>
-    <lastBuildDate>Tue, 04 Dec 2018 14:32:22 -0500</lastBuildDate>
+    <pubDate>Thu, 17 Jan 2019 09:37:37 -0500</pubDate>
+    <lastBuildDate>Thu, 17 Jan 2019 09:37:37 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 60: Education, Bootcamps, and the Cool Factor</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/pegfisher145&quot;&gt;Peggy Fisher&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/RyanTablada&quot;&gt;Ryan Tablada&lt;/a&gt; to discuss the general state of computer science education, developer bootcamps, landing that first job, and why PHP isn’t ususally taught to new developers.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Dec 2018 00:00:00 +0100</pubDate>
+        <link>https://phptownhall.com/episode-60-education_bootcamps_cool_factor/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-60-education_bootcamps_cool_factor/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 59: Startup Lyfe - Part 2</title>
@@ -140,31 +151,6 @@ Thanks for 51 fucking fantastic episodes, 5 years of podcasting together, way to
         <pubDate>Sun, 08 Jan 2017 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-51-good-riddance/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-51-good-riddance/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 50: Low down on PSR-15</title>
-        <description>&lt;p&gt;An all star cast this episode, as Ben and Phil are joined by regular guest &lt;a href=&quot;https://twitter.com/ircmaxell&quot;&gt;Anthony Ferrara&lt;/a&gt; - thinker of good ideas and long-time part-time side-line contributor to the PHP-FIG, &lt;a href=&quot;https://twitter.com/shadowhand&quot;&gt;Woody Gilk&lt;/a&gt; - one-speed rider &amp;amp; BDFL of Kohana, and
-&lt;a href=&quot;https://twitter.com/beausimensen&quot;&gt;Beau Simensen&lt;/a&gt; - author of a bunch of stuff including &lt;a href=&quot;http://stackphp.com/&quot;&gt;StackPHP&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Here we’re talking about some awesome stuff the PHP-FIG is working on: PSR-15 (HTTP Middleware). This PSR is in Draft mode, and is potentially not as well known about as some others. There was a bit of a cuffufle getting it started as before it had even passed an entrance vote there were alternatives and rewrites suggested, but now the major players are on the same page and things are moving forward.&lt;/p&gt;
-
-&lt;p&gt;We discuss all this, and the reason PSR-7 (HTTP Message) is not enough for the ecosystem to benefit from shareable middleware. Jumping away from PSR-15 for a second there is an interesting bit of insight into why the PHP-FIG didn’t just slap a “PSR” sticker on Symfony’s HTTP Kernel or HTTP Foundation.&lt;/p&gt;
-
-&lt;p&gt;Woody provides a bit of the decision-making process in a very tricky aspect of the FIGs job, which is: should standards be built entirely to match existing implementations, or should standards try to improve on the learnings of the existing implementations to better them all as implementations change to support the standard. It’s all a bit chicken and egg, but a very worthy discussion to have.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.ircmaxell.com/2016/05/all-about-middleware.html&quot;&gt;All About Middleware&lt;/a&gt; - Anthony posts about PHP HTTP Middleware&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://philsturgeon.uk/php/2016/05/31/why-care-about-php-middleware/&quot;&gt;Why Care About PHP Middleware?&lt;/a&gt; - Summary of the initial Anthony vs Woody approaches and background on the HTTP middleware concept&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stackphp.com/&quot;&gt;StackPHP&lt;/a&gt; - Composing HttpKernelInterface middlewares since 2013!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://equip.github.io/&quot;&gt;Equip&lt;/a&gt; - Equip is a tiny and powerful PHP micro-framework created and maintained by the engineering team at &lt;a href=&quot;http://wheniwork.com/&quot;&gt;When I Work&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 28 Jun 2016 00:00:00 +0100</pubDate>
-        <link>https://phptownhall.com/episode-50-low-down-on-psr15/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-50-low-down-on-psr15/</guid>
         
         
       </item>
