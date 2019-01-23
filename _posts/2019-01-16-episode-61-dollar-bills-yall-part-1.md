@@ -17,10 +17,17 @@ We'll be back for part 2 shortly.
 
 
 ### Links
-[You Need a Budget YNAB] (https://www.youneedabudget.com/)
-[Acorns](https://www.acorns.com/)
-[Vanguard](https://investor.vanguard.com/etf/)
-[MrMoneyMustache](http://www.mrmoneymustache.com/)
-[CreditKarma](Chttps://www.creditkarma.com/)
-[Debitize app](https://debitize.com/)
-[Principles - Ray Dalio](https://www.principles.com/)
+
+* [You Need a Budget YNAB](https://www.youneedabudget.com/)
+
+* [Acorns](https://www.acorns.com/)
+
+* [Vanguard](https://investor.vanguard.com/etf/)
+
+* [MrMoneyMustache](http://www.mrmoneymustache.com/)
+
+* [CreditKarma](https://www.creditkarma.com/)
+
+* [Debitize app](https://debitize.com/)
+
+* [Principles - Ray Dalio](https://www.principles.com/)
