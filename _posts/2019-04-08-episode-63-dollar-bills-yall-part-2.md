@@ -2,6 +2,8 @@
 layout: post
 title: "Episode 63: Dollar Bills Yall - Part 2"
 date: 2019-04-08T18:00:00 -05:00
+filename: 63
+bytes: 70264499
 comments: true
 duration: 1:15:16
 youtube_id: HQqSqjXpCaY
