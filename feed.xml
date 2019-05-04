@@ -5,9 +5,28 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Apr 2019 16:34:07 -0400</pubDate>
-    <lastBuildDate>Sat, 13 Apr 2019 16:34:07 -0400</lastBuildDate>
+    <pubDate>Sat, 04 May 2019 15:03:21 -0500</pubDate>
+    <lastBuildDate>Sat, 04 May 2019 15:03:21 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 64: Symfony Round Up</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/AmbassadorAwsum/&quot;&gt;Amanda Folson&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/weaverryan&quot;&gt;Ryan Weaver&lt;/a&gt; to take a look at the landscape of the Symfony Ecosystem.&lt;/p&gt;
+
+&lt;p&gt;They discuss a few new packages from the Symfony team such as Mailer, HTTP Interface, API Platform as well as discussing the EU’s funding of a 48 hour hackathon that Ryan woke up at 3am in the morning for.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://symfony.com&quot;&gt;Symfony&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Apr 2019 18:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-64-symfony-round-up/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-64-symfony-round-up/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 63: Dollar Bills Yall - Part 2</title>
@@ -183,19 +202,6 @@
         <pubDate>Wed, 15 Nov 2017 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-55-the-hardest-problem-in-software/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-55-the-hardest-problem-in-software/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 54: Conferences and Stuff</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/dcousineau&quot;&gt;Daniel Cousineau&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/HackyGoLucky&quot;&gt;Tracy Hinds&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/iansltx&quot;&gt;Ian Littman&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; to discuss the good, bad, and ugly of conference organizing.&lt;/p&gt;
-
-&lt;p&gt;Make sure to check out the kickstarter for the &lt;a href=&quot;https://www.longhornphp.com&quot;&gt;Longhorn PHP Conference&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Tue, 22 Aug 2017 00:00:00 +0100</pubDate>
-        <link>https://phptownhall.com/episode-54-conferences-and-stuff/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-54-conferences-and-stuff/</guid>
         
         
       </item>

@@ -26,6 +26,29 @@
     
       
     <item>
+      <title><![CDATA[Episode 64: Symfony Round Up]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/AmbassadorAwsum/">Amanda Folson</a> are joined by <a href="https://twitter.com/weaverryan">Ryan Weaver</a> to take a look at the landscape of the Symfony Ecosystem.</p>
+
+<p>They discuss a few new packages from the Symfony team such as Mailer, HTTP Interface, API Platform as well as discussing the EU’s funding of a 48 hour hackathon that Ryan woke up at 3am in the morning for.</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://symfony.com">Symfony</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-64-symfony-round-up/</link>
+      <guid>https://phptownhall.com/episode-64-symfony-round-up/</guid>
+      <pubDate>2019-04-08 18:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3417.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/64.mp3" type="audio/mp3" length="107904" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 63: Dollar Bills Yall - Part 2]]></title>
       <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/gonedark">Jason McCreary</a> to discuss further discuss investing and trading.</p>
 
@@ -1363,7 +1386,7 @@ complex indexes, PostGIS and Foreign Data Wrappers we end up discussing cider an
 ]]></description>
       <link>https://phptownhall.com/episode-10-postgres-cider/</link>
       <guid>http://phptownhall.com/blog/2013/07/24/episode-10-postgres-cider/</guid>
-      <pubDate>2013-07-24 12:45:00 -0400</pubDate>
+      <pubDate>2013-07-24 12:45:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>55:46</itunes:duration>
@@ -1398,7 +1421,7 @@ in the security angle.</p>
 ]]></description>
       <link>https://phptownhall.com/episode-9-is-oauth-2-the-devil/</link>
       <guid>http://phptownhall.com/blog/2013/07/10/episode-9-is-oauth-2-the-devil/</guid>
-      <pubDate>2013-07-10 11:34:00 -0400</pubDate>
+      <pubDate>2013-07-10 11:34:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>54:39</itunes:duration>
@@ -1420,7 +1443,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</link>
       <guid>http://phptownhall.com/blog/2013/06/27/episode-8-use-your-time-machine-to-go-to-peersconf-yesterday/</guid>
-      <pubDate>2013-06-27 14:12:00 -0400</pubDate>
+      <pubDate>2013-06-27 14:12:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>46:59</itunes:duration>
@@ -1446,7 +1469,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-7-web-sockets-are-fast/</link>
       <guid>http://phptownhall.com/blog/2013/05/18/episode-7-web-sockets-are-fast/</guid>
-      <pubDate>2013-05-18 13:12:00 -0400</pubDate>
+      <pubDate>2013-05-18 13:12:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>44:46</itunes:duration>
@@ -1479,7 +1502,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-6-psr-x-and-the-mexican-standoff/</link>
       <guid>http://phptownhall.com/blog/2013/04/19/episode-6-psr-x-and-the-mexican-standoff/</guid>
-      <pubDate>2013-04-19 10:02:00 -0400</pubDate>
+      <pubDate>2013-04-19 10:02:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:15:02</itunes:duration>
@@ -1512,7 +1535,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-5-phpness-gate/</link>
       <guid>http://phptownhall.com/blog/2013/03/03/episode-5-phpness-gate/</guid>
-      <pubDate>2013-03-03 15:20:00 -0500</pubDate>
+      <pubDate>2013-03-03 15:20:00 -0600</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>1:19:33</itunes:duration>
@@ -1534,7 +1557,7 @@ follow Jess to see what conferences she puts on in the future, they’re always 
 ]]></description>
       <link>https://phptownhall.com/episode-4-phpsvision-beards-and-little-people/</link>
       <guid>http://phptownhall.com/blog/2013/02/15/episode-4-phpsvision-beards-and-little-people/</guid>
-      <pubDate>2013-02-15 10:47:00 -0500</pubDate>
+      <pubDate>2013-02-15 10:47:00 -0600</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>47:21</itunes:duration>
@@ -1563,7 +1586,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
 ]]></description>
       <link>https://phptownhall.com/episode-3-expressionengine-stackexchange/</link>
       <guid>http://phptownhall.com/blog/2012/12/20/episode-3-expressionengine-stackexchange/</guid>
-      <pubDate>2012-12-20 10:47:00 -0500</pubDate>
+      <pubDate>2012-12-20 10:47:00 -0600</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>54:35</itunes:duration>
@@ -1591,7 +1614,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
 ]]></description>
       <link>https://phptownhall.com/episode-2-php-5.5/</link>
       <guid>http://phptownhall.com/blog/2012/12/04/episode-2-php-5.5/</guid>
-      <pubDate>2012-12-04 21:02:00 -0500</pubDate>
+      <pubDate>2012-12-04 21:02:00 -0600</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>01:09:22</itunes:duration>
@@ -1606,7 +1629,7 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
 ]]></description>
       <link>https://phptownhall.com/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</link>
       <guid>http://phptownhall.com/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/</guid>
-      <pubDate>2012-10-10 17:10:00 -0400</pubDate>
+      <pubDate>2012-10-10 17:10:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <itunes:duration>47:47</itunes:duration>
