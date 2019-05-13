@@ -12,7 +12,7 @@ duration: 1:00:43
 
 Our amazing panel guests this episode are:
 
-[Alena Holligan](https://twitter.com/sketchings)
+[Alena Holligan](https://twitter.com/alenaholligan)
 
 [Sammy K Powers](http://twitter.com/SammyK)
 
