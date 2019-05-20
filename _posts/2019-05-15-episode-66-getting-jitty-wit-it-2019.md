@@ -6,6 +6,7 @@ filename: 66
 bytes: 43692988
 comments: true
 duration: 45:36
+youtube_id: 93b56UGBVBc
 ---
 
 [Matt Trask](https://twitter.com/matthewtrask) and [Ben Edmunds](https://twitter.com/benedmunds) are joined by [Joe Watkins](https://twitter.com/krakjoe) to discuss what's new with PHP 7.4 and PHP 8.0.
