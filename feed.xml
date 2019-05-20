@@ -5,9 +5,20 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 May 2019 09:58:51 -0400</pubDate>
-    <lastBuildDate>Mon, 13 May 2019 09:58:51 -0400</lastBuildDate>
+    <pubDate>Mon, 20 May 2019 10:59:28 -0400</pubDate>
+    <lastBuildDate>Mon, 20 May 2019 10:59:28 -0400</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 66: Getting Jitty Wit It</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/krakjoe&quot;&gt;Joe Watkins&lt;/a&gt; to discuss what’s new with PHP 7.4 and PHP 8.0.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 May 2019 18:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 65: Live from Longhorn PHP 2019</title>
@@ -189,25 +200,6 @@
         <pubDate>Mon, 06 Aug 2018 00:00:00 +0100</pubDate>
         <link>https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-57-apis-conferences-and-api-conferences/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 56: GraphQL is better than REST</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/AmbassadorAwsum&quot;&gt;Amanda Folson&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/philsturgeon&quot;&gt;Phil Sturgeon&lt;/a&gt; to discuss what’s new in the world of API development.&lt;/p&gt;
-
-&lt;p&gt;Make sure to check out his new book &lt;a href=&quot;https://apisyouwonthate.com/&quot;&gt;Talking To Other People’s APIs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;sponsor&quot;&gt;Sponsor&lt;/h3&gt;
-&lt;p&gt;We’re sponsored this episode by the &lt;a href=&quot;https://southeastphp.com/&quot;&gt;Southeast PHP Conference&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;Southeast PHP Community Conference in Nashville, TN is happening August 16th and 17th right in downtown Nashville. Our CfP opens February 15th with a theme around the modern PHP toolbox. Come hang out with us, listen to awesome speakers talk about a wide variety of topics, meet new friends and of course, try some hot chicken. &lt;a href=&quot;https://southeastphp.com/&quot;&gt;southeastphp.com&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/southeastphp&quot;&gt;@southeastphp&lt;/a&gt; on twitter. If you or your company is interested in sponsoring, contact us at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#122;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#115;&amp;#111;&amp;#117;&amp;#116;&amp;#104;&amp;#101;&amp;#097;&amp;#115;&amp;#116;&amp;#112;&amp;#104;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#111;&amp;#114;&amp;#103;&amp;#097;&amp;#110;&amp;#105;&amp;#122;&amp;#101;&amp;#114;&amp;#115;&amp;#064;&amp;#115;&amp;#111;&amp;#117;&amp;#116;&amp;#104;&amp;#101;&amp;#097;&amp;#115;&amp;#116;&amp;#112;&amp;#104;&amp;#112;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0100</pubDate>
-        <link>https://phptownhall.com/episode-56-graphql-is-better-than-rest/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-56-graphql-is-better-than-rest/</guid>
         
         
       </item>

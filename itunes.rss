@@ -26,6 +26,21 @@
     
       
     <item>
+      <title><![CDATA[Episode 66: Getting Jitty Wit It]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/krakjoe">Joe Watkins</a> to discuss what’s new with PHP 7.4 and PHP 8.0.</p>
+]]></description>
+      <link>https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</link>
+      <guid>https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</guid>
+      <pubDate>2019-05-15 18:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>2736.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/66.mp3" type="audio/mp3" length="43692988" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 65: Live from Longhorn PHP 2019]]></title>
       <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by a panel of speakers from Longhorn PHP to discuss the conference, PHP internals, and questions from the attendees.</p>
 
