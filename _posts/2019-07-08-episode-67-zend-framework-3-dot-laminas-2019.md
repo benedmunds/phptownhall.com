@@ -15,3 +15,7 @@ youtube_id: OFlqCv3V-40
 ### Links
 
 * [Laminas](https://getlaminas.org)
+* [Nexmo Releated Stuff](https://developer.nexmo.com/extend)
+* [Beachcasts](https://www.youtube.com/c/beachcasts?sub_confirmation=1)
+* [Video on Hypermedia](https://youtu.be/aV6ro_JXL_A)
+* [Video on automating Hypermedia](https://youtu.be/dX6S-pJVUXI)
