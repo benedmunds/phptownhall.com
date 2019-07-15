@@ -26,6 +26,31 @@
     
       
     <item>
+      <title><![CDATA[Episode 67: Zend Framework 3.Laminas]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/adamculp">Adam Culp</a> to discuss the recent changes with Zend (the company), Zend (the framework), and the transition from Zend Framework to Laminas Framework.</p>
+
+<h3 id="links">Links</h3>
+
+<ul>
+  <li><a href="https://getlaminas.org">Laminas</a></li>
+  <li><a href="https://developer.nexmo.com/extend">Nexmo Releated Stuff</a></li>
+  <li><a href="https://www.youtube.com/c/beachcasts?sub_confirmation=1">Beachcasts</a></li>
+  <li><a href="https://youtu.be/aV6ro_JXL_A">Video on Hypermedia</a></li>
+  <li><a href="https://youtu.be/dX6S-pJVUXI">Video on automating Hypermedia</a></li>
+</ul>
+]]></description>
+      <link>https://phptownhall.com/episode-67-zend-framework-3-dot-laminas-2019/</link>
+      <guid>https://phptownhall.com/episode-67-zend-framework-3-dot-laminas-2019/</guid>
+      <pubDate>2019-07-08 18:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3349.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/67.mp3" type="audio/mp3" length="53464569" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 66: Getting Jitty Wit It]]></title>
       <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/krakjoe">Joe Watkins</a> to discuss what’s new with PHP 7.4 and PHP 8.0.</p>
 ]]></description>
