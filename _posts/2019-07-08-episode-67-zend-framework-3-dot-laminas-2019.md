@@ -3,9 +3,9 @@ layout: post
 title: "Episode 67: Zend Framework 3.Laminas"
 date: 2019-07-08T18:00:00 -05:00
 filename: 67
-bytes: 43692988
+bytes: 53464569
 comments: true
-duration: 56:29
+duration: 55:49
 youtube_id: OFlqCv3V-40
 ---
 
