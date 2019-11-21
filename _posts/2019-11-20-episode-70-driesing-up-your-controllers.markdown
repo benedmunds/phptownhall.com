@@ -2,10 +2,10 @@
 layout: post
 title: "Episode 70: Dries-int up your controllers"
 date: 2019-11-20T19:00:00 -05:00
-filename: 43820765
-bytes: 43
+filename: 70
+bytes: 42955717
 comments: true
-duration: 1:31:17
+duration: 44:48
 youtube_id: 6HO6cOw9XvM
 ---
 
