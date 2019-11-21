@@ -1,249 +1,119 @@
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  margin: 0;
-  padding: 0; }
+/** Reset some basic elements */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
-/**
- * Basic styling
- */
-body {
-  font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #111;
-  background-color: #fdfdfd;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern" 1;
-  font-kerning: normal; }
+/** Basic styling */
+body { font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif; color: #111; background-color: #fdfdfd; -webkit-text-size-adjust: 100%; -webkit-font-feature-settings: "kern" 1; -moz-font-feature-settings: "kern" 1; -o-font-feature-settings: "kern" 1; font-feature-settings: "kern" 1; font-kerning: normal; }
 
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure {
-  margin-bottom: 15px; }
+/** Set `margin-bottom` to maintain vertical rhythm */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
 
-/**
- * Images
- */
-img {
-  max-width: 100%;
-  vertical-align: middle; }
+/** Images */
+img { max-width: 100%; vertical-align: middle; }
 
-/**
- * Figures
- */
-figure > img {
-  display: block; }
+/** Figures */
+figure > img { display: block; }
 
-figcaption {
-  font-size: 14px; }
+figcaption { font-size: 14px; }
 
-/**
- * Lists
- */
-ul, ol {
-  margin-left: 30px; }
+/** Lists */
+ul, ol { margin-left: 30px; }
 
-li > ul,
-li > ol {
-  margin-bottom: 0; }
+li > ul, li > ol { margin-bottom: 0; }
 
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 400; }
+/** Headings */
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
-/**
- * Links
- */
-a {
-  color: #2a7ae2;
-  text-decoration: none; }
-  a:hover {
-    color: #111;
-    text-decoration: underline; }
+/** Links */
+a { color: #2a7ae2; text-decoration: none; }
 
-/**
- * Blockquotes
- */
-blockquote {
-  color: #828282;
-  border-left: 4px solid #e8e8e8;
-  padding-left: 15px;
-  font-size: 18px;
-  letter-spacing: -1px;
-  font-style: italic; }
-  blockquote > :last-child {
-    margin-bottom: 0; }
+a:hover { color: #111; text-decoration: underline; }
 
-/**
- * Code formatting
- */
-pre,
-code {
-  font-size: 15px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eef; }
+/** Blockquotes */
+blockquote { color: #828282; border-left: 4px solid #e8e8e8; padding-left: 15px; font-size: 18px; letter-spacing: -1px; font-style: italic; }
 
-code {
-  padding: 1px 5px; }
+blockquote > :last-child { margin-bottom: 0; }
 
-pre {
-  padding: 8px 12px;
-  overflow-x: auto; }
-  pre > code {
-    border: 0;
-    padding-right: 0;
-    padding-left: 0; }
+/** Code formatting */
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
 
-/**
- * Wrapper
- */
-.wrapper {
-  max-width: -webkit-calc(1160px - (30px * 2));
-  max-width: calc(1160px - (30px * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 30px;
-  padding-left: 30px; }
-  @media screen and (max-width: 800px) {
-    .wrapper {
-      max-width: -webkit-calc(1160px - (30px));
-      max-width: calc(1160px - (30px));
-      padding-right: 15px;
-      padding-left: 15px; } }
+code { padding: 1px 5px; }
 
-/**
- * Clearfix
- */
-.wrapper:after {
-  content: "";
-  display: table;
-  clear: both; }
+pre { padding: 8px 12px; overflow-x: auto; }
 
-/**
- * Icons
- */
-.icon > svg {
-  display: inline-block;
-  width: 16px;
-  height: 16px;
-  vertical-align: middle; }
-  .icon > svg path {
-    fill: #828282; }
+pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
-/**
- * Site header
- */
-.site-header {
-  border-top: 5px solid #e8e8e8;
-  border-bottom: 1px solid #e8e8e8;
-  min-height: 56px;
-  background: #1d1d1e;
-  position: relative; }
+/** Wrapper */
+.wrapper { max-width: -webkit-calc(1160px - (30px * 2)); max-width: calc(1160px - (30px * 2)); margin-right: auto; margin-left: auto; padding-right: 30px; padding-left: 30px; }
 
-.site-title {
-  margin-bottom: 0; }
-  .site-title img {
-    height: 150px; }
+@media screen and (max-width: 800px) { .wrapper { max-width: -webkit-calc(1160px - (30px)); max-width: calc(1160px - (30px)); padding-right: 15px; padding-left: 15px; } }
 
-.slogan {
-  color: #e8e8e8;
-  font-size: 15px; }
+/** Clearfix */
+.wrapper:after { content: ""; display: table; clear: both; }
 
-@media (min-width: 768px) {
-  .navbar-right {
-    margin: 10px 20px; }
+/** Icons */
+.icon > svg { display: inline-block; width: 16px; height: 16px; vertical-align: middle; }
 
-  .slogan {
-    clear: right;
-    text-align: right;
-    margin: 30px 0 0; } }
-@media (min-width: 380px) {
-  .slogan {
-    margin: 30px 0 0; } }
-.site-nav {
-  float: right;
-  padding-right: 10px; }
-  .site-nav .menu-icon {
-    display: none; }
-  .site-nav .page-link {
-    color: #424242;
-    background-color: #E7E7E7;
-    line-height: 1.5;
-    margin: 5px; }
-    .site-nav .page-link:not(:last-child) {
-      margin-right: 20px; }
+.icon > svg path { fill: #828282; }
 
-/**
- * Site footer
- */
-.site-footer {
-  text-align: center; }
+/** Site header */
+.site-header { border-top: 5px solid #e8e8e8; border-bottom: 1px solid #e8e8e8; min-height: 56px; background: #1d1d1e; position: relative; }
 
-/**
- * Page content
- */
-.page-content {
-  padding: 30px 0; }
+.site-title { margin-bottom: 0; }
 
-.page-heading {
-  font-size: 20px; }
+.site-title img { height: 150px; }
 
-.post-list {
-  margin-left: 0;
-  list-style: none; }
-  .post-list > li {
-    margin-bottom: 30px; }
+.slogan { color: #e8e8e8; font-size: 15px; }
 
-.post-meta {
-  font-size: 14px;
-  color: #828282; }
+@media (min-width: 768px) { .navbar-right { margin: 10px 20px; }
+  .slogan { clear: right; text-align: right; margin: 30px 0 0; } }
 
-.post-link {
-  display: block;
-  font-size: 24px; }
+@media (min-width: 380px) { .slogan { margin: 30px 0 0; } }
 
-/**
- * Posts
- */
-.post-header {
-  margin-bottom: 30px; }
+.site-nav { float: right; padding-right: 10px; }
 
-.post-title {
-  font-size: 42px;
-  letter-spacing: -1px;
-  line-height: 1; }
-  @media screen and (max-width: 800px) {
-    .post-title {
-      font-size: 36px; } }
+.site-nav .menu-icon { display: none; }
 
-.post-content {
-  margin-bottom: 30px; }
-  .post-content h2 {
-    font-size: 32px; }
-    @media screen and (max-width: 800px) {
-      .post-content h2 {
-        font-size: 28px; } }
-  .post-content h3 {
-    font-size: 26px; }
-    @media screen and (max-width: 800px) {
-      .post-content h3 {
-        font-size: 22px; } }
-  .post-content h4 {
-    font-size: 20px; }
-    @media screen and (max-width: 800px) {
-      .post-content h4 {
-        font-size: 18px; } }
+.site-nav .page-link { color: #424242; background-color: #E7E7E7; line-height: 1.5; margin: 5px; }
 
-.signup #mce-EMAIL {
-  border-radius: 6px 0 0 6px; }
+.site-nav .page-link:not(:last-child) { margin-right: 20px; }
+
+/** Site footer */
+.site-footer { text-align: center; }
+
+/** Page content */
+.page-content { padding: 30px 0; }
+
+.page-heading { font-size: 20px; }
+
+.post-list { margin-left: 0; list-style: none; }
+
+.post-list > li { margin-bottom: 30px; }
+
+.post-meta { font-size: 14px; color: #828282; }
+
+.post-link { display: block; font-size: 24px; }
+
+/** Posts */
+.post-header { margin-bottom: 30px; }
+
+.post-title { font-size: 42px; letter-spacing: -1px; line-height: 1; }
+
+@media screen and (max-width: 800px) { .post-title { font-size: 36px; } }
+
+.post-content { margin-bottom: 30px; }
+
+.post-content h2 { font-size: 32px; }
+
+@media screen and (max-width: 800px) { .post-content h2 { font-size: 28px; } }
+
+.post-content h3 { font-size: 26px; }
+
+@media screen and (max-width: 800px) { .post-content h3 { font-size: 22px; } }
+
+.post-content h4 { font-size: 20px; }
+
+@media screen and (max-width: 800px) { .post-content h4 { font-size: 18px; } }
+
+.signup #mce-EMAIL { border-radius: 6px 0 0 6px; }
+
+/*# sourceMappingURL=main.css.map */

@@ -2,15 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PHP Town Hall</title>
-    <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
+    <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it's really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
+    <language>en-us</language>
+    <author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></author>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Nov 2019 20:48:03 -0600</pubDate>
-    <lastBuildDate>Wed, 20 Nov 2019 20:48:03 -0600</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+    <pubDate>Thu, 21 Nov 2019 09:05:13 -0500</pubDate>
+    <lastBuildDate>Thu, 21 Nov 2019 09:05:13 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Episode 70: Dries-ing up your controllers</title>
+        <title>Episode 70: Dries-int up your controllers</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; is joined by &lt;a href=&quot;https://twitter.com/driesvints&quot;&gt;Dries Vints&lt;/a&gt; to talk about being employed by Laravel, organizing a conference, why the Last Jedi is absolute garbage, and how Dries manages to do so much (spoiler: don’t have a significant other).&lt;/p&gt;
 
 &lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
@@ -24,6 +26,7 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 20 Nov 2019 19:00:00 -0500</pubDate>
+        <date>2019-11-20 19:00:00 -0500</date>
         <link>https://phptownhall.com/episode-70-driesing-up-your-controllers/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-70-driesing-up-your-controllers/</guid>
         
@@ -43,7 +46,8 @@
   &lt;li&gt;&lt;a href=&quot;https://freek.dev/1441-ignition-a-new-error-page-for-laravel&quot;&gt;Ignition&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Wed, 04 Sep 2019 19:00:00 -0500</pubDate>
+        <pubDate>Wed, 04 Sep 2019 20:00:00 -0400</pubDate>
+        <date>2019-09-04 20:00:00 -0400</date>
         <link>https://phptownhall.com/episode-68-behind-the-facade-2019/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-68-behind-the-facade-2019/</guid>
         
@@ -64,7 +68,8 @@
   &lt;li&gt;&lt;a href=&quot;https://youtu.be/dX6S-pJVUXI&quot;&gt;Video on automating Hypermedia&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 08 Jul 2019 18:00:00 -0500</pubDate>
+        <pubDate>Mon, 08 Jul 2019 19:00:00 -0400</pubDate>
+        <date>2019-07-08 19:00:00 -0400</date>
         <link>https://phptownhall.com/episode-67-zend-framework-3-dot-laminas-2019/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-67-zend-framework-3-dot-laminas-2019/</guid>
         
@@ -75,7 +80,8 @@
         <title>Episode 66: Getting Jitty Wit It</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/krakjoe&quot;&gt;Joe Watkins&lt;/a&gt; to discuss what’s new with PHP 7.4 and PHP 8.0.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 15 May 2019 18:00:00 -0500</pubDate>
+        <pubDate>Wed, 15 May 2019 19:00:00 -0400</pubDate>
+        <date>2019-05-15 19:00:00 -0400</date>
         <link>https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</guid>
         
@@ -101,7 +107,8 @@
 &lt;p&gt;&lt;a href=&quot;http://twitter.com/kasiazien&quot;&gt;Kat Zień&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 03 May 2019 18:00:00 -0500</pubDate>
+        <pubDate>Fri, 03 May 2019 19:00:00 -0400</pubDate>
+        <date>2019-05-03 19:00:00 -0400</date>
         <link>https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</guid>
         
@@ -120,7 +127,8 @@
   &lt;li&gt;&lt;a href=&quot;https://symfony.com&quot;&gt;Symfony&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 08 Apr 2019 18:00:00 -0500</pubDate>
+        <pubDate>Mon, 08 Apr 2019 19:00:00 -0400</pubDate>
+        <date>2019-04-08 19:00:00 -0400</date>
         <link>https://phptownhall.com/episode-64-symfony-round-up/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-64-symfony-round-up/</guid>
         
@@ -147,7 +155,8 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Mon, 08 Apr 2019 18:00:00 -0500</pubDate>
+        <pubDate>Mon, 08 Apr 2019 19:00:00 -0400</pubDate>
+        <date>2019-04-08 19:00:00 -0400</date>
         <link>https://phptownhall.com/episode-63-dollar-bills-yall-part-2/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-63-dollar-bills-yall-part-2/</guid>
         
@@ -161,6 +170,7 @@
 &lt;p&gt;There’s not much of an agenda to this episode.  We all catch up on what’s new with Phil and we fill him in on what’s new with PHP.&lt;/p&gt;
 </description>
         <pubDate>Mon, 18 Feb 2019 18:00:00 -0500</pubDate>
+        <date>2019-02-18 18:00:00 -0500</date>
         <link>https://phptownhall.com/episode-62-all-the-hosts/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-62-all-the-hosts/</guid>
         
@@ -202,6 +212,7 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 16 Jan 2019 18:00:00 -0500</pubDate>
+        <date>2019-01-16 18:00:00 -0500</date>
         <link>https://phptownhall.com/episode-61-dollar-bills-yall-part-1/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-61-dollar-bills-yall-part-1/</guid>
         
@@ -212,7 +223,8 @@
         <title>Episode 60: Education, Bootcamps, and the Cool Factor</title>
         <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/pegfisher145&quot;&gt;Peggy Fisher&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/RyanTablada&quot;&gt;Ryan Tablada&lt;/a&gt; to discuss the general state of computer science education, developer bootcamps, landing that first job, and why PHP isn’t ususally taught to new developers.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 10 Dec 2018 00:00:00 +0100</pubDate>
+        <pubDate>Sun, 09 Dec 2018 18:00:00 -0500</pubDate>
+        <date>2018-12-09 18:00:00 -0500</date>
         <link>https://phptownhall.com/episode-60-education_bootcamps_cool_factor/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-60-education_bootcamps_cool_factor/</guid>
         
