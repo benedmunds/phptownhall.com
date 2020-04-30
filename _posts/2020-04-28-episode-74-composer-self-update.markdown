@@ -13,4 +13,4 @@ youtube_id: zrwF1rU7LSE
 
 Show Notes:
 
-blog.packagist.com
+[Packagist/Composer Blog](blog.packagist.com)
