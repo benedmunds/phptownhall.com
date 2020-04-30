@@ -26,6 +26,25 @@
     
       
     <item>
+      <title><![CDATA[Episode 74: Composer Self Update]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/seldaek">Jordi Bggiano</a> and <a href="https://twitter.com/naderman">Mils Adermann</a> to celebrate Composer finally figuring out how to self invoke its own <code>composer self-upgrade</code> command. We discuss the origins of the project, how they deal with the fame they have found, how they run their business and OSS project and how people who like the project can help give back!</p>
+
+<p>Show Notes:</p>
+
+<p>blog.packagist.com</p>
+]]></description>
+      <link>https://phptownhall.com/episode-74-composer-self-update/</link>
+      <guid>https://phptownhall.com/episode-74-composer-self-update/</guid>
+      <pubDate>2020-04-02 19:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>2648.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/74.mp3" type="audio/mp3" length="42284381" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 73: The League of Extraordinary FIG]]></title>
       <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/shadowhand">Woody Gilk</a>. We talk about what its like to 
 birth a framework, and then mercilessly kill it. We also talk about how Woody got involved with the <a href="https://twitter.com/thephpleague">League of Extraordinary Packages</a> and how someone can get involved with the <a href="https://twitter.com/phpfig">PHP FIG</a>.</p>
