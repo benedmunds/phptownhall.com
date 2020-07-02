@@ -5,9 +5,24 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jul 2020 20:54:10 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2020 20:54:10 -0500</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2020 20:55:37 -0500</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2020 20:55:37 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 75: Battle of the Frameworks</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/themarcusbattle&quot;&gt;Marcus Battle&lt;/a&gt; to talk about his career path from being a data nerd at WebDev Studios to being a content creator and curator at Twilio. We talk about how much work is involved being a total grammar junky, and does Marcus get early access to things like the supposed Twilio Pigeon API. We also talk about the coveted Twilio swag from back in the days where we were allowed to go to conferences. Then we nerd out about music for a minute.&lt;/p&gt;
+
+&lt;p&gt;Show Notes:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twilio.com/docs/libraries/php&quot;&gt;Twilio PHP SDK&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2020 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-75-battle-of-the-frameworks/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-75-battle-of-the-frameworks/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 74: Composer Self Update</title>
@@ -161,25 +176,6 @@ birth a framework, and then mercilessly kill it. We also talk about how Woody go
         <pubDate>Fri, 03 May 2019 18:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 64: Symfony Round Up</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/AmbassadorAwsum/&quot;&gt;Amanda Folson&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/weaverryan&quot;&gt;Ryan Weaver&lt;/a&gt; to take a look at the landscape of the Symfony Ecosystem.&lt;/p&gt;
-
-&lt;p&gt;They discuss a few new packages from the Symfony team such as Mailer, HTTP Interface, API Platform as well as discussing the EU’s funding of a 48 hour hackathon that Ryan woke up at 3am in the morning for.&lt;/p&gt;
-
-&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://symfony.com&quot;&gt;Symfony&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Apr 2019 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-64-symfony-round-up/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-64-symfony-round-up/</guid>
         
         
       </item>

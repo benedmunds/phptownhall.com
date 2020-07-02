@@ -26,6 +26,25 @@
     
       
     <item>
+      <title><![CDATA[Episode 75: Battle of the Frameworks]]></title>
+      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt</a> and <a href="https://twitter.com/benedmunds">Ben</a> are joined by <a href="https://twitter.com/themarcusbattle">Marcus Battle</a> to talk about his career path from being a data nerd at WebDev Studios to being a content creator and curator at Twilio. We talk about how much work is involved being a total grammar junky, and does Marcus get early access to things like the supposed Twilio Pigeon API. We also talk about the coveted Twilio swag from back in the days where we were allowed to go to conferences. Then we nerd out about music for a minute.</p>
+
+<p>Show Notes:</p>
+
+<p><a href="https://www.twilio.com/docs/libraries/php">Twilio PHP SDK</a></p>
+]]></description>
+      <link>https://phptownhall.com/episode-75-battle-of-the-frameworks/</link>
+      <guid>https://phptownhall.com/episode-75-battle-of-the-frameworks/</guid>
+      <pubDate>2020-06-29 19:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3702.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/75.mp3" type="audio/mp3" length="59121562" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 74: Composer Self Update]]></title>
       <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/seldaek">Jordi Bggiano</a> and <a href="https://twitter.com/naderman">Nils Adermann</a> to celebrate Composer finally figuring out how to self invoke its own <code>composer self-upgrade</code> command. We discuss the origins of the project, how they deal with the fame they have found, how they run their business and OSS project and how people who like the project can help give back!</p>
 
