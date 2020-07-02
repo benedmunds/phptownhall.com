@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 74: Composer Self Update"
-date: 2020-04-2 8T19:00:00 -05:00
+date: 2020-04-28 8T19:00:00 -05:00
 filename: 74
 bytes: 42284381
 comments: true
