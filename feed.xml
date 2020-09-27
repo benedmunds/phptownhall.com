@@ -5,9 +5,20 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jul 2020 20:55:37 -0500</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2020 20:55:37 -0500</lastBuildDate>
+    <pubDate>Sat, 26 Sep 2020 19:50:06 -0500</pubDate>
+    <lastBuildDate>Sat, 26 Sep 2020 19:50:06 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 76: Mad Max DevRel</title>
+        <description>&lt;p&gt;The Twilio crew, bored because they can’t go to conferences to show people the cool shit you can build with their APIs, take over the podcast to talk about life as a grounded devrel. Matt is joined by Margaret Staples (@dead_lugosi), Gary Hockin (@geeh) and back to back guest Marcus Battle (@themarcusbattle). We discuss the Twilio Quest project and how Twilio is leveraging new ways for their dev rels to get their brand out there. We also talk about what we miss most about not being able to go to conferences and drink with friends. It got a little dark there. Sorry. Enjoy!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jul 2020 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-76-mad-max-devrel/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-76-mad-max-devrel/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 75: Battle of the Frameworks</title>
@@ -150,32 +161,6 @@ birth a framework, and then mercilessly kill it. We also talk about how Woody go
         <pubDate>Wed, 15 May 2019 18:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 65: Live from Longhorn PHP 2019</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by a panel of speakers from Longhorn PHP to discuss the conference, PHP internals, and questions from the attendees.&lt;/p&gt;
-
-&lt;p&gt;Our amazing panel guests this episode are:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/alenaholligan&quot;&gt;Alena Holligan&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/SammyK&quot;&gt;Sammy K Powers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/taylor_atx&quot;&gt;Taylor Barnett&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/dead_lugosi&quot;&gt;Margaret Staples&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/chrisholland&quot;&gt;Chris Holland&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/kasiazien&quot;&gt;Kat Zień&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 03 May 2019 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</guid>
         
         
       </item>
