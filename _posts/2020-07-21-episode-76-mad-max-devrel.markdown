@@ -2,7 +2,7 @@
 layout: post
 title: "Episode 76: Mad Max DevRel"
 date: 2020-07-21 8T19:00:00 -05:00
-filename: 77
+filename: 76
 bytes: 487393257
 comments: true
 duration: 50:36
