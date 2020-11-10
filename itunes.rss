@@ -26,128 +26,6 @@
     
       
     <item>
-      <title><![CDATA[Episode 77: Lets be Frank]]></title>
-      <description><![CDATA[<p>Matt and Ben are joined by the League of Extraordinary Packages chief benevolent dictator for life Frank De Jonge (@frankdejonge. Its pronounced “de-yong”, not like how Matt pronounced it. He is sorry). We talk about Frank’s contributions to the League, and how it makes him feel to have a package download count in the 8 digits. Frank also talks about his work on Eventsauce (eventsauce.io) an event driven framework that integrates well into most PHP projects.</p>
-]]></description>
-      <link>https://phptownhall.com/episode-77-lets-be-frank/</link>
-      <guid>https://phptownhall.com/episode-77-lets-be-frank/</guid>
-      <pubDate>2020-07-21 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>3050.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/77.mp3" type="audio/mp3" length="308959634" />
-    </item>
-      
-    
-      
-    <item>
-      <title><![CDATA[Episode 76: Mad Max DevRel]]></title>
-      <description><![CDATA[<p>The Twilio crew, bored because they can’t go to conferences to show people the cool shit you can build with their APIs, take over the podcast to talk about life as a grounded devrel. Matt is joined by Margaret Staples (@dead_lugosi), Gary Hockin (@geeh) and back to back guest Marcus Battle (@themarcusbattle). We discuss the Twilio Quest project and how Twilio is leveraging new ways for their dev rels to get their brand out there. We also talk about what we miss most about not being able to go to conferences and drink with friends. It got a little dark there. Sorry. Enjoy!</p>
-]]></description>
-      <link>https://phptownhall.com/episode-76-mad-max-devrel/</link>
-      <guid>https://phptownhall.com/episode-76-mad-max-devrel/</guid>
-      <pubDate>2020-07-21 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>3036.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/76.mp3" type="audio/mp3" length="487393257" />
-    </item>
-      
-    
-      
-    <item>
-      <title><![CDATA[Episode 75: Battle of the Frameworks]]></title>
-      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt</a> and <a href="https://twitter.com/benedmunds">Ben</a> are joined by <a href="https://twitter.com/themarcusbattle">Marcus Battle</a> to talk about his career path from being a data nerd at WebDev Studios to being a content creator and curator at Twilio. We talk about how much work is involved being a total grammar junky, and does Marcus get early access to things like the supposed Twilio Pigeon API. We also talk about the coveted Twilio swag from back in the days where we were allowed to go to conferences. Then we nerd out about music for a minute.</p>
-
-<p>Show Notes:</p>
-
-<p><a href="https://www.twilio.com/docs/libraries/php">Twilio PHP SDK</a></p>
-]]></description>
-      <link>https://phptownhall.com/episode-75-battle-of-the-frameworks/</link>
-      <guid>https://phptownhall.com/episode-75-battle-of-the-frameworks/</guid>
-      <pubDate>2020-06-29 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>3702.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/75.mp3" type="audio/mp3" length="59121562" />
-    </item>
-      
-    
-      
-    <item>
-      <title><![CDATA[Episode 74: Composer Self Update]]></title>
-      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/seldaek">Jordi Bggiano</a> and <a href="https://twitter.com/naderman">Nils Adermann</a> to celebrate Composer finally figuring out how to self invoke its own <code>composer self-upgrade</code> command. We discuss the origins of the project, how they deal with the fame they have found, how they run their business and OSS project and how people who like the project can help give back!</p>
-
-<p>Show Notes:</p>
-
-<p><a href="blog.packagist.com">Packagist/Composer Blog</a></p>
-]]></description>
-      <link>https://phptownhall.com/episode-74-composer-self-update/</link>
-      <guid>https://phptownhall.com/episode-74-composer-self-update/</guid>
-      <pubDate>2020-04-28 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>2648.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/74.mp3" type="audio/mp3" length="42284381" />
-    </item>
-      
-    
-      
-    <item>
-      <title><![CDATA[Episode 73: The League of Extraordinary FIG]]></title>
-      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/shadowhand">Woody Gilk</a>. We talk about what its like to 
-birth a framework, and then mercilessly kill it. We also talk about how Woody got involved with the <a href="https://twitter.com/thephpleague">League of Extraordinary Packages</a> and how someone can get involved with the <a href="https://twitter.com/phpfig">PHP FIG</a>.</p>
-]]></description>
-      <link>https://phptownhall.com/episode-73-the-league-of-extraordinary-fig/</link>
-      <guid>https://phptownhall.com/episode-73-the-league-of-extraordinary-fig/</guid>
-      <pubDate>2020-03-02 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>3222.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/73.mp3" type="audio/mp3" length="573681583" />
-    </item>
-      
-    
-      
-    <item>
-      <title><![CDATA[Episode 72: 200 OK Boomer]]></title>
-      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> sit down for a general catch up episode discussing what’s new with them in the past year or so.  Jobs, moves, relationships, and Matt’s developing delusion that he actually enjoys impossible burgers.</p>
-]]></description>
-      <link>https://phptownhall.com/episode-72-200-ok-boomer/</link>
-      <guid>https://phptownhall.com/episode-72-200-ok-boomer/</guid>
-      <pubDate>2020-02-01 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>3377.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/72.mp3" type="audio/mp3" length="54058248" />
-    </item>
-      
-    
-      
-    <item>
-      <title><![CDATA[Episode 71: Forging Happy Developers]]></title>
-      <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> and <a href="https://twitter.com/benedmunds">Ben Edmunds</a> are joined by <a href="https://twitter.com/jbrooksuk">James Brooks</a> to discuss what it’s like working for Laravel, his new podcast <a href="https://www.happydev.fm/">HappyDev</a>, and mental health for software developers.</p>
-
-<h3 id="links">Links</h3>
-
-<ul>
-  <li><a href="https://laravel.com/">Laravel</a></li>
-  <li><a href="https://forge.laravel.com/">Forge</a></li>
-  <li><a href="https://www.happydev.fm/">HappyDev</a></li>
-</ul>
-]]></description>
-      <link>https://phptownhall.com/forging-happy-developers/</link>
-      <guid>https://phptownhall.com/forging-happy-developers/</guid>
-      <pubDate>2020-01-13 19:00:00 -0500</pubDate>
-      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>2251.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/71.mp3" type="audio/mp3" length="35954302" />
-    </item>
-      
-    
-      
-    <item>
       <title><![CDATA[Episode 70: Dries-int up your controllers]]></title>
       <description><![CDATA[<p><a href="https://twitter.com/matthewtrask">Matt Trask</a> is joined by <a href="https://twitter.com/driesvints">Dries Vints</a> to talk about being employed by Laravel, organizing a conference, why the Last Jedi is absolute garbage, and how Dries manages to do so much (spoiler: don’t have a significant other).</p>
 
@@ -166,8 +44,8 @@ birth a framework, and then mercilessly kill it. We also talk about how Woody go
       <pubDate>2019-11-20 19:00:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
-      <itunes:duration>2688.0</itunes:duration>
-      <enclosure url="http://download.phptownhall.com/70.mp3" type="audio/mp3" length="42955717" />
+      <itunes:duration>5477.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/43820765.mp3" type="audio/mp3" length="43" />
     </item>
       
     
