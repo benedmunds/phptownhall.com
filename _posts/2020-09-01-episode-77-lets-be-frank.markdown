@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Episode 77: Lets be Frank"
-date: 2020-07-21 8T19:00:00 -05:00
+date: 2020-09-01 8T19:00:00 -05:00
 filename: 77
 bytes: 308959634
 comments: true
