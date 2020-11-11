@@ -5,9 +5,79 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Nov 2020 12:12:00 -0600</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2020 12:12:00 -0600</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2020 09:45:49 -0600</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2020 09:45:49 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 78: Into The Woodchipper</title>
+        <description>&lt;p&gt;Matt and Ben are joined by Chris Fidao (who watched with horror as Matt butchered his last name). The conversation takes a deep dive into how Chris and Dave Hemphill built ChipperCI include the why, the how and what were some of the fun challenges to building a CI service. We talked briefly about how Chris found good use cases for Golang, but Chris still loves PHP.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;https://twitter.com/fideloper - Chris Fidao on Twitter
+https://twitter.com/davidhemphill - David Hemphill on Twitter
+https://chipperci.com
+https://serversforhackers.com&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Nov 2020 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-78-into-the-woodchipper/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-78-into-the-woodchipper/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 77: Lets be Frank</title>
+        <description>&lt;p&gt;Matt and Ben are joined by the League of Extraordinary Packages chief benevolent dictator for life Frank De Jonge (@frankdejonge. Its pronounced “de-yong”, not like how Matt pronounced it. He is sorry). We talk about Frank’s contributions to the League, and how it makes him feel to have a package download count in the 8 digits. Frank also talks about his work on Eventsauce (eventsauce.io) an event driven framework that integrates well into most PHP projects.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2020 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-77-lets-be-frank/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-77-lets-be-frank/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 76: Mad Max DevRel</title>
+        <description>&lt;p&gt;The Twilio crew, bored because they can’t go to conferences to show people the cool shit you can build with their APIs, take over the podcast to talk about life as a grounded devrel. Matt is joined by Margaret Staples (@dead_lugosi), Gary Hockin (@geeh) and back to back guest Marcus Battle (@themarcusbattle). We discuss the Twilio Quest project and how Twilio is leveraging new ways for their dev rels to get their brand out there. We also talk about what we miss most about not being able to go to conferences and drink with friends. It got a little dark there. Sorry. Enjoy!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Jul 2020 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-76-mad-max-devrel/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-76-mad-max-devrel/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 75: Battle of the Frameworks</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/themarcusbattle&quot;&gt;Marcus Battle&lt;/a&gt; to talk about his career path from being a data nerd at WebDev Studios to being a content creator and curator at Twilio. We talk about how much work is involved being a total grammar junky, and does Marcus get early access to things like the supposed Twilio Pigeon API. We also talk about the coveted Twilio swag from back in the days where we were allowed to go to conferences. Then we nerd out about music for a minute.&lt;/p&gt;
+
+&lt;p&gt;Show Notes:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.twilio.com/docs/libraries/php&quot;&gt;Twilio PHP SDK&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2020 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-75-battle-of-the-frameworks/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-75-battle-of-the-frameworks/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Episode 74: Composer Self Update</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/seldaek&quot;&gt;Jordi Bggiano&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/naderman&quot;&gt;Nils Adermann&lt;/a&gt; to celebrate Composer finally figuring out how to self invoke its own &lt;code&gt;composer self-upgrade&lt;/code&gt; command. We discuss the origins of the project, how they deal with the fame they have found, how they run their business and OSS project and how people who like the project can help give back!&lt;/p&gt;
+
+&lt;p&gt;Show Notes:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;blog.packagist.com&quot;&gt;Packagist/Composer Blog&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Apr 2020 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-74-composer-self-update/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-74-composer-self-update/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 73: The League of Extraordinary FIG</title>
@@ -88,110 +158,6 @@ birth a framework, and then mercilessly kill it. We also talk about how Woody go
         <pubDate>Wed, 04 Sep 2019 19:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-68-behind-the-facade-2019/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-68-behind-the-facade-2019/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 67: Zend Framework 3.Laminas</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/adamculp&quot;&gt;Adam Culp&lt;/a&gt; to discuss the recent changes with Zend (the company), Zend (the framework), and the transition from Zend Framework to Laminas Framework.&lt;/p&gt;
-
-&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://getlaminas.org&quot;&gt;Laminas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://developer.nexmo.com/extend&quot;&gt;Nexmo Releated Stuff&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/c/beachcasts?sub_confirmation=1&quot;&gt;Beachcasts&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/aV6ro_JXL_A&quot;&gt;Video on Hypermedia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://youtu.be/dX6S-pJVUXI&quot;&gt;Video on automating Hypermedia&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Jul 2019 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-67-zend-framework-3-dot-laminas-2019/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-67-zend-framework-3-dot-laminas-2019/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 66: Getting Jitty Wit It</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/krakjoe&quot;&gt;Joe Watkins&lt;/a&gt; to discuss what’s new with PHP 7.4 and PHP 8.0.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 May 2019 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-66-getting-jitty-wit-it-2019/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 65: Live from Longhorn PHP 2019</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by a panel of speakers from Longhorn PHP to discuss the conference, PHP internals, and questions from the attendees.&lt;/p&gt;
-
-&lt;p&gt;Our amazing panel guests this episode are:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/alenaholligan&quot;&gt;Alena Holligan&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/SammyK&quot;&gt;Sammy K Powers&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/taylor_atx&quot;&gt;Taylor Barnett&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/dead_lugosi&quot;&gt;Margaret Staples&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/chrisholland&quot;&gt;Chris Holland&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://twitter.com/kasiazien&quot;&gt;Kat Zień&lt;/a&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 03 May 2019 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-65-live-from-longhorn-php-2019/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 64: Symfony Round Up</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/AmbassadorAwsum/&quot;&gt;Amanda Folson&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/weaverryan&quot;&gt;Ryan Weaver&lt;/a&gt; to take a look at the landscape of the Symfony Ecosystem.&lt;/p&gt;
-
-&lt;p&gt;They discuss a few new packages from the Symfony team such as Mailer, HTTP Interface, API Platform as well as discussing the EU’s funding of a 48 hour hackathon that Ryan woke up at 3am in the morning for.&lt;/p&gt;
-
-&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://symfony.com&quot;&gt;Symfony&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Apr 2019 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-64-symfony-round-up/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-64-symfony-round-up/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 63: Dollar Bills Yall - Part 2</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/gonedark&quot;&gt;Jason McCreary&lt;/a&gt; to discuss further discuss investing and trading.&lt;/p&gt;
-
-&lt;p&gt;This episode gets a bit more in the weeds on investing and trading for those interested, discussing everything from 401k to index funds to speculation.  We also briefly cover Financial Independence / Retire Early (FIRE) and how developers are well positioned to work towards financial independence.&lt;/p&gt;
-
-&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.robinhood.com&quot;&gt;RobinHood&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://firecalc.com/&quot;&gt;FireCalc&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://www.mrmoneymustache.com/2012/01/13/the-shockingly-simple-math-behind-early-retirement/&quot;&gt;MrMoneyMustache FIRE Math&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 08 Apr 2019 18:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-63-dollar-bills-yall-part-2/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-63-dollar-bills-yall-part-2/</guid>
         
         
       </item>
