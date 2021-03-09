@@ -5,9 +5,27 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Mar 2021 11:36:43 -0600</pubDate>
-    <lastBuildDate>Tue, 09 Mar 2021 11:36:43 -0600</lastBuildDate>
+    <pubDate>Tue, 09 Mar 2021 11:40:33 -0600</pubDate>
+    <lastBuildDate>Tue, 09 Mar 2021 11:40:33 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 79: Fell In Love With A Tree: The Phil Sturgeon Story</title>
+        <description>&lt;p&gt;Ben and Matt sit down to talk to Phil Sturgeon… yes that Phil Sturgeon for their once every 2 year check in with the former host of this very podcast. They talk about what it’s like to bikepack across Europe during working hours, how Phil knew what issues needed to be addressed 
+immediately and which he could push off to later and then they talk about his current project which involves APIs and trees.&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;p&gt;https://protect.earth - Trees foundation Phil is involved with
+https://twitter.com/philsturgeon - Phil’s place on the internet
+https://apisyouwonthate.com - Phil and Matt’s other project&lt;/p&gt;
+</description>
+        <pubDate>Mon, 08 Mar 2021 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-79-fell-in-love-with-a-tree/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-79-fell-in-love-with-a-tree/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 78: Into The Woodchipper</title>
@@ -138,26 +156,6 @@ birth a framework, and then mercilessly kill it. We also talk about how Woody go
         <pubDate>Wed, 20 Nov 2019 19:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-70-driesing-up-your-controllers/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-70-driesing-up-your-controllers/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 68: Behind the Facade</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; are joined by &lt;a href=&quot;https://twitter.com/taylorotwell&quot;&gt;Taylor Otwell&lt;/a&gt; to discuss what’s new with Laravel, the business side of things, and what it’s like organizing a huge conference.&lt;/p&gt;
-
-&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://laravel.com/&quot;&gt;Laravel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://forge.laravel.com/&quot;&gt;Forge&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vapor.laravel.com/&quot;&gt;Vapor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://freek.dev/1441-ignition-a-new-error-page-for-laravel&quot;&gt;Ignition&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 04 Sep 2019 19:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-68-behind-the-facade-2019/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-68-behind-the-facade-2019/</guid>
         
         
       </item>

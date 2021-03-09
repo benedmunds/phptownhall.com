@@ -26,6 +26,28 @@
     
       
     <item>
+      <title><![CDATA[Episode 79: Fell In Love With A Tree: The Phil Sturgeon Story]]></title>
+      <description><![CDATA[<p>Ben and Matt sit down to talk to Phil Sturgeon… yes that Phil Sturgeon for their once every 2 year check in with the former host of this very podcast. They talk about what it’s like to bikepack across Europe during working hours, how Phil knew what issues needed to be addressed 
+immediately and which he could push off to later and then they talk about his current project which involves APIs and trees.</p>
+
+<p>Links:</p>
+
+<p>https://protect.earth - Trees foundation Phil is involved with
+https://twitter.com/philsturgeon - Phil’s place on the internet
+https://apisyouwonthate.com - Phil and Matt’s other project</p>
+]]></description>
+      <link>https://phptownhall.com/episode-79-fell-in-love-with-a-tree/</link>
+      <guid>https://phptownhall.com/episode-79-fell-in-love-with-a-tree/</guid>
+      <pubDate>2021-03-08 19:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3682.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/79.mp3" type="audio/mp3" length="58821331" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 78: Into The Woodchipper]]></title>
       <description><![CDATA[<p>Matt and Ben are joined by Chris Fidao (who watched with horror as Matt butchered his last name). The conversation takes a deep dive into how Chris and Dave Hemphill built ChipperCI include the why, the how and what were some of the fun challenges to building a CI service. We talked briefly about how Chris found good use cases for Golang, but Chris still loves PHP.</p>
 
