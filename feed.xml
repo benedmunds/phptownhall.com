@@ -5,9 +5,20 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Mar 2021 11:42:15 -0600</pubDate>
-    <lastBuildDate>Tue, 09 Mar 2021 11:42:15 -0600</lastBuildDate>
+    <pubDate>Sat, 20 Mar 2021 08:21:33 -0500</pubDate>
+    <lastBuildDate>Sat, 20 Mar 2021 08:21:33 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 80: Belles Of The Ball</title>
+        <description>&lt;p&gt;Matt and Ben are joined by the founder of Larabelles community Zuzana Kunckova to talk about why communities are so crucial to developer growth, what it takes to start a comnmunity and why Zuzana started Larabelles. We then dive into how she got her start as a developer, where her career has taken her and what is gonna happen with conferences after this whole covid thing is over.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 20 Mar 2021 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/belles-of-the-ball/</link>
+        <guid isPermaLink="true">https://phptownhall.com/belles-of-the-ball/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 79: Fell In Love With A Tree: The Phil Sturgeon Story</title>
@@ -135,27 +146,6 @@ birth a framework, and then mercilessly kill it. We also talk about how Woody go
         <pubDate>Mon, 13 Jan 2020 19:00:00 -0500</pubDate>
         <link>https://phptownhall.com/forging-happy-developers/</link>
         <guid isPermaLink="true">https://phptownhall.com/forging-happy-developers/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 70: Dries-int up your controllers</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; is joined by &lt;a href=&quot;https://twitter.com/driesvints&quot;&gt;Dries Vints&lt;/a&gt; to talk about being employed by Laravel, organizing a conference, why the Last Jedi is absolute garbage, and how Dries manages to do so much (spoiler: don’t have a significant other).&lt;/p&gt;
-
-&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://laravel.com/&quot;&gt;Laravel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://laravel.io/&quot;&gt;Laravel.io&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://fullstackeurope.com/&quot;&gt;FullStackEu&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://eventy.io/&quot;&gt;Eventy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://driesvints.com&quot;&gt;Dries’ Blog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Wed, 20 Nov 2019 19:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-70-driesing-up-your-controllers/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-70-driesing-up-your-controllers/</guid>
         
         
       </item>
