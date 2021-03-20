@@ -10,3 +10,8 @@ youtube_id: yj-34gfZUX4
 ---
 
 Matt and Ben are joined by the founder of Larabelles community Zuzana Kunckova to talk about why communities are so crucial to developer growth, what it takes to start a comnmunity and why Zuzana started Larabelles. We then dive into how she got her start as a developer, where her career has taken her and what is gonna happen with conferences after this whole covid thing is over.
+
+Show Notes:
+
+[LarabellesPHP](https://larabelles.com)
+[Zuzana on Twitter](https://twitter.com/zuzana_kunckova)
