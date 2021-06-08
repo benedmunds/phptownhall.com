@@ -26,6 +26,46 @@
     
       
     <item>
+      <title><![CDATA[Episode 81: The Book of Psalm]]></title>
+      <description><![CDATA[<p>Matt and Ben are joined by PsalmPHP author and maintainer Matthew Brown to talk about static analysis, open source maintanence, how he and Ondrej Mirtes made a nice contribution to the PHP Coore and how to get Matthew out to more conferences so people can buy him the beers he so rightfully deserves.</p>
+
+<p>Show Notes:</p>
+
+<p><a href="https://psalm.dev">Psalm</a>
+<a href="https://twitter.com/muglug">Matthew on Twitter</a></p>
+]]></description>
+      <link>https://phptownhall.com/episode-81-the-book-of-psalm/</link>
+      <guid>https://phptownhall.com/episode-81-the-book-of-psalm/</guid>
+      <pubDate>2021-06-08 19:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>3318.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/81.mp3" type="audio/mp3" length="51585964" />
+    </item>
+      
+    
+      
+    <item>
+      <title><![CDATA[Episode 80: Belles Of The Ball]]></title>
+      <description><![CDATA[<p>Matt and Ben are joined by the founder of Larabelles community Zuzana Kunckova to talk about why communities are so crucial to developer growth, what it takes to start a comnmunity and why Zuzana started Larabelles. We then dive into how she got her start as a developer, where her career has taken her and what is gonna happen with conferences after this whole covid thing is over.</p>
+
+<p>Show Notes:</p>
+
+<p><a href="https://larabelles.com">LarabellesPHP</a>
+<a href="https://twitter.com/zuzana_kunckova">Zuzana on Twitter</a></p>
+]]></description>
+      <link>https://phptownhall.com/episode-80-the-belles-of-the-ball/</link>
+      <guid>https://phptownhall.com/episode-80-the-belles-of-the-ball/</guid>
+      <pubDate>2021-03-20 19:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>2882.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/80.mp3" type="audio/mp3" length="45180279" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 79: Fell In Love With A Tree: The Phil Sturgeon Story]]></title>
       <description><![CDATA[<p>Ben and Matt sit down to talk to Phil Sturgeon… yes that Phil Sturgeon for their once every 2 year check in with the former host of this very podcast. They talk about what it’s like to bikepack across Europe during working hours, how Phil knew what issues needed to be addressed 
 immediately and which he could push off to later and then they talk about his current project which involves APIs and trees.</p>
