@@ -5,20 +5,33 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 02 Aug 2021 17:33:04 -0500</pubDate>
-    <lastBuildDate>Mon, 02 Aug 2021 17:33:04 -0500</lastBuildDate>
+    <pubDate>Mon, 02 Aug 2021 17:33:52 -0500</pubDate>
+    <lastBuildDate>Mon, 02 Aug 2021 17:33:52 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Episode 82: Another UUID bites the dust.</title>
         <description>&lt;p&gt;Ben and Matt are joined by Ben Ramsey to talk about what it like being in charge of PHP 8.1, his new gig at Skillshare and we ponder the question: do all good uuids go to heaven?&lt;/p&gt;
 
-&lt;p&gt;Links:
-* &lt;a href=&quot;https://twitter.com/ramsey&quot;&gt;Ben Ramsey on Twitter&lt;/a&gt;
-* &lt;a href=&quot;https://github.com/ramsey/uuid&quot;&gt;Ben’s UUID Library&lt;/a&gt;
-* &lt;a href=&quot;https://github.com/php/php-src/blob/master/docs/release-process.md&quot;&gt;PHP Release Process&lt;/a&gt;
-* &lt;a href=&quot;https://github.com/ramsey/php-library-starter-kit&quot;&gt;Ben’s PHP Library starter kit&lt;/a&gt;
-* &lt;a href=&quot;https://randsinrepose.com/welcome-to-rands-leadership-slack/&quot;&gt;Rand’s Leadership Slack&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/ramsey&quot;&gt;Ben Ramsey on Twitter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/ramsey/uuid&quot;&gt;Ben’s UUID Library&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/php/php-src/blob/master/docs/release-process.md&quot;&gt;PHP Release Process&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/ramsey/php-library-starter-kit&quot;&gt;Ben’s PHP Library starter kit&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://randsinrepose.com/welcome-to-rands-leadership-slack/&quot;&gt;Rand’s Leadership Slack&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </description>
         <pubDate>Sat, 31 Jul 2021 19:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-82-another-uuid-bites-the-dust/</link>
