@@ -5,9 +5,27 @@
     <description>A podcast for developers who want to keep up to date with the latest random happenings in the PHP community but it&#39;s really more about general software development topics.</description>
     <link>https://phptownhall.com/</link>
     <atom:link href="https://phptownhall.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 09 Jun 2021 14:20:29 -0500</pubDate>
-    <lastBuildDate>Wed, 09 Jun 2021 14:20:29 -0500</lastBuildDate>
+    <pubDate>Mon, 02 Aug 2021 17:33:04 -0500</pubDate>
+    <lastBuildDate>Mon, 02 Aug 2021 17:33:04 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Episode 82: Another UUID bites the dust.</title>
+        <description>&lt;p&gt;Ben and Matt are joined by Ben Ramsey to talk about what it like being in charge of PHP 8.1, his new gig at Skillshare and we ponder the question: do all good uuids go to heaven?&lt;/p&gt;
+
+&lt;p&gt;Links:
+* &lt;a href=&quot;https://twitter.com/ramsey&quot;&gt;Ben Ramsey on Twitter&lt;/a&gt;
+* &lt;a href=&quot;https://github.com/ramsey/uuid&quot;&gt;Ben’s UUID Library&lt;/a&gt;
+* &lt;a href=&quot;https://github.com/php/php-src/blob/master/docs/release-process.md&quot;&gt;PHP Release Process&lt;/a&gt;
+* &lt;a href=&quot;https://github.com/ramsey/php-library-starter-kit&quot;&gt;Ben’s PHP Library starter kit&lt;/a&gt;
+* &lt;a href=&quot;https://randsinrepose.com/welcome-to-rands-leadership-slack/&quot;&gt;Rand’s Leadership Slack&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 31 Jul 2021 19:00:00 -0500</pubDate>
+        <link>https://phptownhall.com/episode-82-another-uuid-bites-the-dust/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-82-another-uuid-bites-the-dust/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Episode 81: The Book of Psalm</title>
@@ -35,8 +53,8 @@
 &lt;a href=&quot;https://twitter.com/zuzana_kunckova&quot;&gt;Zuzana on Twitter&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Mar 2021 19:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-80-the-belles-of-the-ball/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-80-the-belles-of-the-ball/</guid>
+        <link>https://phptownhall.com/episode-80-belles-of-the-ball/</link>
+        <guid isPermaLink="true">https://phptownhall.com/episode-80-belles-of-the-ball/</guid>
         
         
       </item>
@@ -137,17 +155,6 @@ birth a framework, and then mercilessly kill it. We also talk about how Woody go
         <pubDate>Mon, 02 Mar 2020 19:00:00 -0500</pubDate>
         <link>https://phptownhall.com/episode-73-the-league-of-extraordinary-fig/</link>
         <guid isPermaLink="true">https://phptownhall.com/episode-73-the-league-of-extraordinary-fig/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Episode 72: 200 OK Boomer</title>
-        <description>&lt;p&gt;&lt;a href=&quot;https://twitter.com/matthewtrask&quot;&gt;Matt Trask&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/benedmunds&quot;&gt;Ben Edmunds&lt;/a&gt; sit down for a general catch up episode discussing what’s new with them in the past year or so.  Jobs, moves, relationships, and Matt’s developing delusion that he actually enjoys impossible burgers.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Feb 2020 19:00:00 -0500</pubDate>
-        <link>https://phptownhall.com/episode-72-200-ok-boomer/</link>
-        <guid isPermaLink="true">https://phptownhall.com/episode-72-200-ok-boomer/</guid>
         
         
       </item>

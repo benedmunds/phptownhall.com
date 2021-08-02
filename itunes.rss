@@ -26,6 +26,28 @@
     
       
     <item>
+      <title><![CDATA[Episode 82: Another UUID bites the dust.]]></title>
+      <description><![CDATA[<p>Ben and Matt are joined by Ben Ramsey to talk about what it like being in charge of PHP 8.1, his new gig at Skillshare and we ponder the question: do all good uuids go to heaven?</p>
+
+<p>Links:
+* <a href="https://twitter.com/ramsey">Ben Ramsey on Twitter</a>
+* <a href="https://github.com/ramsey/uuid">Ben’s UUID Library</a>
+* <a href="https://github.com/php/php-src/blob/master/docs/release-process.md">PHP Release Process</a>
+* <a href="https://github.com/ramsey/php-library-starter-kit">Ben’s PHP Library starter kit</a>
+* <a href="https://randsinrepose.com/welcome-to-rands-leadership-slack/">Rand’s Leadership Slack</a></p>
+]]></description>
+      <link>https://phptownhall.com/episode-82-another-uuid-bites-the-dust/</link>
+      <guid>https://phptownhall.com/episode-82-another-uuid-bites-the-dust/</guid>
+      <pubDate>2021-07-31 19:00:00 -0500</pubDate>
+      <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <itunes:duration>4332.0</itunes:duration>
+      <enclosure url="http://download.phptownhall.com/82.mp3" type="audio/mp3" length="69159178" />
+    </item>
+      
+    
+      
+    <item>
       <title><![CDATA[Episode 81: The Book of Psalm]]></title>
       <description><![CDATA[<p>Matt and Ben are joined by PsalmPHP author and maintainer Matthew Brown to talk about static analysis, open source maintanence, how he and Ondrej Mirtes made a nice contribution to the PHP Coore and how to get Matthew out to more conferences so people can buy him the beers he so rightfully deserves.</p>
 
@@ -54,8 +76,8 @@
 <p><a href="https://larabelles.com">LarabellesPHP</a>
 <a href="https://twitter.com/zuzana_kunckova">Zuzana on Twitter</a></p>
 ]]></description>
-      <link>https://phptownhall.com/episode-80-the-belles-of-the-ball/</link>
-      <guid>https://phptownhall.com/episode-80-the-belles-of-the-ball/</guid>
+      <link>https://phptownhall.com/episode-80-belles-of-the-ball/</link>
+      <guid>https://phptownhall.com/episode-80-belles-of-the-ball/</guid>
       <pubDate>2021-03-20 19:00:00 -0500</pubDate>
       <itunes:author><![CDATA[Ben Edmunds, Amanda Folson, &amp; Matt Trask]]></itunes:author>
       <itunes:summary><![CDATA[]]></itunes:summary>
